@@ -1,0 +1,16 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/TeX Live for SUSE Linux) (preloaded format=pdftex 2020.12.28)  6 APR 2021 15:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ProblemSet0005.tex -output-format=pdf -8bit
+(./ProblemSet0005.tex
+! Undefined control sequence.
+l.1 \hypertarget
+                {problem-set-5}{%
+? x
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
