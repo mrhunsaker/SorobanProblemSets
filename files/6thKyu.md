@@ -5,7 +5,7 @@
 
 - 6th kyu Level
 
- - 3-digit addition and subtraction
+- 3-digit addition and subtraction
 
 - 3-digit addition and subtraction
 
@@ -20,14 +20,34 @@ Complete each set of additions and subtractions, multiplications, and divisions 
 Check your answers with a calculator afterward. Rework any problems with mistakes.
 
 ## Problem Set 102
-[Download Problem Set 102 as an accessible tex file](./files/ProblemSet0102.tex) [Download Problem Set 102 as an accessible word processing file](./files/ProblemSet0102.docx) [Download Problem Set 102 as a markdown file](./files/ProblemSet0102.md)
+[Download Problem Set 102 as an accessible tex file](./files/ProblemSet0102.tex)
+
+[Download Problem Set 102 as an accessible word processing file](./files/ProblemSet0102.docx)
+
+[Download Problem Set 102 as a markdown file](./files/ProblemSet0102.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$200 +902 +790 +219 +172 +585 +108 +231 +453 +527$|$398 +502 +785 +674 +656 +599 +972 +291 +699 +294$|$742 +897 +316 +408 +581 - 979 +317 - 316 - 995 - 942$|$429 +115 +890 +990 +773 +548 +562 +324 +755 +443$|$988 +797 - 399 +336 +179 +536 - 729 - 808 - 817 +386$|$270 +764 +886 +974 +899 +547 +958 +190 +837 +807$|$349 +711 +344 +279 +599 - 420 - 236 - 504 - 104 +967$|$590 +409 +438 +724 +267 +478 +104 +843 +969 +661$|$995 - 814 +829 - 388 +814 +873 +879 - 837 +672 - 389$|$932 +890 +177 +606 +188 +129 +497 +438 +777 +396$|
+$200+902+790+219+172+585+108+231+453+527$
+
+$398+502+785+674+656+599+972+291+699+294$
+
+$742+897+316+408+581-979+317-316-995-942$
+
+$429+115+890+990+773+548+562+324+755+443$
+
+$988+797-399+336+179+536-729-808-817+386$
+
+$270+764+886+974+899+547+958+190+837+807$
+
+$349+711+344+279+599-420-236-504-104+967$
+
+$590+409+438+724+267+478+104+843+969+661$
+
+$995-814+829-388+814+873+879-837+672-389$
+
+$932+890+177+606+188+129+497+438+777+396$
 
 ### Multiplication and Division
 
@@ -56,14 +76,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 103
-[Download Problem Set 103 as an accessible tex file](./files/ProblemSet0103.tex) [Download Problem Set 103 as an accessible word processing file](./files/ProblemSet0103.docx) [Download Problem Set 103 as a markdown file](./files/ProblemSet0103.md)
+[Download Problem Set 103 as an accessible tex file](./files/ProblemSet0103.tex)
+
+[Download Problem Set 103 as an accessible word processing file](./files/ProblemSet0103.docx)
+
+[Download Problem Set 103 as a markdown file](./files/ProblemSet0103.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$584 +560 +559 +776 +483 +373 +388 +628 +511 +803$|$589 +907 +490 +788 +603 +620 +880 +974 +746 +927$|$939 - 522 - 132 +621 +363 +879 +445 - 301 - 671 +919$|$323 +266 +695 +725 +307 +163 +822 +255 +846 +354$|$455 - 185 +149 +694 - 169 +797 +806 +922 - 425 - 294$|$419 +458 +393 +189 +360 +336 +423 +167 +330 +284$|$793 +980 - 716 +372 - 464 +584 +958 - 524 +570 - 210$|$672 +501 +896 +391 +803 +345 +255 +689 +275 +617$|$886 - 177 +748 +434 +343 - 867 - 483 - 164 +637 +526$|$581 +520 +414 +284 +410 +465 +854 +997 +839 +165$|
+$584+560+559+776+483+373+388+628+511+803$
+
+$589+907+490+788+603+620+880+974+746+927$
+
+$939-522-132+621+363+879+445-301-671+919$
+
+$323+266+695+725+307+163+822+255+846+354$
+
+$455-185+149+694-169+797+806+922-425-294$
+
+$419+458+393+189+360+336+423+167+330+284$
+
+$793+980-716+372-464+584+958-524+570-210$
+
+$672+501+896+391+803+345+255+689+275+617$
+
+$886-177+748+434+343-867-483-164+637+526$
+
+$581+520+414+284+410+465+854+997+839+165$
 
 ### Multiplication and Division
 
@@ -92,14 +132,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 104
-[Download Problem Set 104 as an accessible tex file](./files/ProblemSet0104.tex) [Download Problem Set 104 as an accessible word processing file](./files/ProblemSet0104.docx) [Download Problem Set 104 as a markdown file](./files/ProblemSet0104.md)
+[Download Problem Set 104 as an accessible tex file](./files/ProblemSet0104.tex)
+
+[Download Problem Set 104 as an accessible word processing file](./files/ProblemSet0104.docx)
+
+[Download Problem Set 104 as a markdown file](./files/ProblemSet0104.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$520 +322 +991 +186 +561 +366 +213 +625 +132 +428$|$830 +807 +663 +257 +692 +766 +557 +905 +267 +741$|$474 - 403 +352 +904 +367 - 156 +700 - 818 - 446 +823$|$841 +726 +786 +215 +996 +915 +779 +619 +113 +743$|$988 - 963 +792 +783 - 401 +338 - 725 +851 +340 - 213$|$417 +244 +734 +378 +613 +592 +176 +449 +952 +233$|$309 +355 +783 +541 - 312 - 599 +698 +613 - 598 - 330$|$866 +312 +112 +852 +460 +702 +578 +443 +868 +674$|$735 +912 - 275 +625 - 451 +172 +546 +656 - 160 - 685$|$561 +714 +732 +488 +560 +382 +605 +797 +482 +586$|
+$520+322+991+186+561+366+213+625+132+428$
+
+$830+807+663+257+692+766+557+905+267+741$
+
+$474-403+352+904+367-156+700-818-446+823$
+
+$841+726+786+215+996+915+779+619+113+743$
+
+$988-963+792+783-401+338-725+851+340-213$
+
+$417+244+734+378+613+592+176+449+952+233$
+
+$309+355+783+541-312-599+698+613-598-330$
+
+$866+312+112+852+460+702+578+443+868+674$
+
+$735+912-275+625-451+172+546+656-160-685$
+
+$561+714+732+488+560+382+605+797+482+586$
 
 ### Multiplication and Division
 
@@ -128,14 +188,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 105
-[Download Problem Set 105 as an accessible tex file](./files/ProblemSet0105.tex) [Download Problem Set 105 as an accessible word processing file](./files/ProblemSet0105.docx) [Download Problem Set 105 as a markdown file](./files/ProblemSet0105.md)
+[Download Problem Set 105 as an accessible tex file](./files/ProblemSet0105.tex)
+
+[Download Problem Set 105 as an accessible word processing file](./files/ProblemSet0105.docx)
+
+[Download Problem Set 105 as a markdown file](./files/ProblemSet0105.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$307 +693 +564 +791 +806 +775 +481 +862 +721 +932$|$942 +823 +177 +477 +719 +621 +762 +531 +826 +514$|$103 +251 +434 +803 - 376 - 167 +861 - 783 - 179 +742$|$719 +714 +349 +419 +412 +659 +692 +850 +804 +623$|$951 +600 +288 - 648 +230 - 581 - 128 +856 +657 - 653$|$764 +927 +268 +393 +821 +114 +887 +114 +440 +826$|$295 - 156 +591 +993 +575 +623 +390 - 597 - 460 - 874$|$219 +165 +184 +373 +433 +714 +967 +502 +990 +805$|$288 +559 +753 - 897 +717 +244 - 931 +960 - 404 - 884$|$626 +588 +965 +123 +524 +948 +314 +304 +445 +322$|
+$307+693+564+791+806+775+481+862+721+932$
+
+$942+823+177+477+719+621+762+531+826+514$
+
+$103+251+434+803-376-167+861-783-179+742$
+
+$719+714+349+419+412+659+692+850+804+623$
+
+$951+600+288-648+230-581-128+856+657-653$
+
+$764+927+268+393+821+114+887+114+440+826$
+
+$295-156+591+993+575+623+390-597-460-874$
+
+$219+165+184+373+433+714+967+502+990+805$
+
+$288+559+753-897+717+244-931+960-404-884$
+
+$626+588+965+123+524+948+314+304+445+322$
 
 ### Multiplication and Division
 
@@ -164,14 +244,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 106
-[Download Problem Set 106 as an accessible tex file](./files/ProblemSet0106.tex) [Download Problem Set 106 as an accessible word processing file](./files/ProblemSet0106.docx) [Download Problem Set 106 as a markdown file](./files/ProblemSet0106.md)
+[Download Problem Set 106 as an accessible tex file](./files/ProblemSet0106.tex)
+
+[Download Problem Set 106 as an accessible word processing file](./files/ProblemSet0106.docx)
+
+[Download Problem Set 106 as a markdown file](./files/ProblemSet0106.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$257 +479 +872 +217 +823 +319 +783 +297 +153 +915$|$544 +359 +502 +975 +489 +567 +217 +778 +439 +701$|$980 +405 +333 +498 +711 - 836 - 389 - 253 - 408 +752$|$525 +594 +918 +470 +554 +379 +764 +773 +370 +285$|$885 - 546 +569 - 718 +441 +864 - 242 +549 +647 - 435$|$442 +967 +932 +451 +664 +836 +127 +205 +701 +605$|$505 +247 +163 +777 - 222 +571 - 535 - 125 - 818 +631$|$883 +590 +299 +978 +766 +158 +116 +493 +483 +765$|$589 +211 +793 +313 +401 - 816 - 272 - 347 - 189 +632$|$616 +422 +918 +857 +628 +833 +523 +580 +659 +335$|
+$257+479+872+217+823+319+783+297+153+915$
+
+$544+359+502+975+489+567+217+778+439+701$
+
+$980+405+333+498+711-836-389-253-408+752$
+
+$525+594+918+470+554+379+764+773+370+285$
+
+$885-546+569-718+441+864-242+549+647-435$
+
+$442+967+932+451+664+836+127+205+701+605$
+
+$505+247+163+777-222+571-535-125-818+631$
+
+$883+590+299+978+766+158+116+493+483+765$
+
+$589+211+793+313+401-816-272-347-189+632$
+
+$616+422+918+857+628+833+523+580+659+335$
 
 ### Multiplication and Division
 
@@ -200,14 +300,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 107
-[Download Problem Set 107 as an accessible tex file](./files/ProblemSet0107.tex) [Download Problem Set 107 as an accessible word processing file](./files/ProblemSet0107.docx) [Download Problem Set 107 as a markdown file](./files/ProblemSet0107.md)
+[Download Problem Set 107 as an accessible tex file](./files/ProblemSet0107.tex)
+
+[Download Problem Set 107 as an accessible word processing file](./files/ProblemSet0107.docx)
+
+[Download Problem Set 107 as a markdown file](./files/ProblemSet0107.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$650 +625 +650 +833 +974 +455 +122 +561 +620 +440$|$626 +797 +681 +700 +439 +276 +557 +724 +690 +493$|$733 +835 +693 +883 - 251 - 404 +563 +372 - 950 - 723$|$406 +580 +920 +733 +931 +894 +987 +803 +210 +985$|$976 +176 +651 - 990 +754 +108 - 346 +491 - 456 - 766$|$548 +969 +514 +770 +218 +711 +735 +238 +700 +814$|$755 +510 +331 +334 +348 - 690 - 351 - 187 - 743 +390$|$244 +265 +363 +374 +555 +359 +299 +165 +503 +918$|$415 +710 +797 +823 +402 - 467 +141 - 784 - 593 - 941$|$256 +586 +594 +234 +199 +303 +861 +503 +761 +777$|
+$650+625+650+833+974+455+122+561+620+440$
+
+$626+797+681+700+439+276+557+724+690+493$
+
+$733+835+693+883-251-404+563+372-950-723$
+
+$406+580+920+733+931+894+987+803+210+985$
+
+$976+176+651-990+754+108-346+491-456-766$
+
+$548+969+514+770+218+711+735+238+700+814$
+
+$755+510+331+334+348-690-351-187-743+390$
+
+$244+265+363+374+555+359+299+165+503+918$
+
+$415+710+797+823+402-467+141-784-593-941$
+
+$256+586+594+234+199+303+861+503+761+777$
 
 ### Multiplication and Division
 
@@ -236,14 +356,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 108
-[Download Problem Set 108 as an accessible tex file](./files/ProblemSet0108.tex) [Download Problem Set 108 as an accessible word processing file](./files/ProblemSet0108.docx) [Download Problem Set 108 as a markdown file](./files/ProblemSet0108.md)
+[Download Problem Set 108 as an accessible tex file](./files/ProblemSet0108.tex)
+
+[Download Problem Set 108 as an accessible word processing file](./files/ProblemSet0108.docx)
+
+[Download Problem Set 108 as a markdown file](./files/ProblemSet0108.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$106 +819 +665 +206 +841 +516 +858 +513 +356 +404$|$768 +660 +267 +641 +416 +955 +290 +387 +467 +794$|$314 - 258 +397 +528 +679 +244 +215 - 122 - 498 - 690$|$720 +371 +898 +557 +664 +318 +283 +761 +178 +201$|$983 +448 - 961 +234 +538 +902 - 823 +844 - 663 - 941$|$962 +822 +617 +217 +662 +266 +359 +275 +965 +703$|$794 +446 - 410 - 637 +665 +844 - 815 - 395 +719 +180$|$617 +739 +325 +598 +543 +574 +313 +199 +393 +676$|$363 +146 +953 +832 - 354 +771 - 876 +874 - 967 - 670$|$214 +240 +179 +155 +732 +406 +392 +859 +471 +353$|
+$106+819+665+206+841+516+858+513+356+404$
+
+$768+660+267+641+416+955+290+387+467+794$
+
+$314-258+397+528+679+244+215-122-498-690$
+
+$720+371+898+557+664+318+283+761+178+201$
+
+$983+448-961+234+538+902-823+844-663-941$
+
+$962+822+617+217+662+266+359+275+965+703$
+
+$794+446-410-637+665+844-815-395+719+180$
+
+$617+739+325+598+543+574+313+199+393+676$
+
+$363+146+953+832-354+771-876+874-967-670$
+
+$214+240+179+155+732+406+392+859+471+353$
 
 ### Multiplication and Division
 
@@ -272,14 +412,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 109
-[Download Problem Set 109 as an accessible tex file](./files/ProblemSet0109.tex) [Download Problem Set 109 as an accessible word processing file](./files/ProblemSet0109.docx) [Download Problem Set 109 as a markdown file](./files/ProblemSet0109.md)
+[Download Problem Set 109 as an accessible tex file](./files/ProblemSet0109.tex)
+
+[Download Problem Set 109 as an accessible word processing file](./files/ProblemSet0109.docx)
+
+[Download Problem Set 109 as a markdown file](./files/ProblemSet0109.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$175 +290 +466 +343 +628 +625 +261 +702 +212 +481$|$933 +412 +873 +905 +126 +388 +509 +112 +721 +384$|$193 - 187 +401 - 385 +417 - 373 +328 +347 +621 - 769$|$211 +942 +318 +473 +516 +993 +133 +302 +997 +908$|$882 +397 - 607 +959 - 121 +488 - 156 +862 - 632 +803$|$232 +194 +571 +259 +604 +989 +688 +744 +207 +103$|$911 +219 +789 +963 +679 +858 - 367 - 942 - 124 - 378$|$787 +206 +878 +988 +913 +622 +821 +482 +539 +289$|$662 +404 +508 +541 - 274 - 715 +966 +240 - 102 - 862$|$144 +426 +332 +176 +682 +336 +447 +210 +261 +860$|
+$175+290+466+343+628+625+261+702+212+481$
+
+$933+412+873+905+126+388+509+112+721+384$
+
+$193-187+401-385+417-373+328+347+621-769$
+
+$211+942+318+473+516+993+133+302+997+908$
+
+$882+397-607+959-121+488-156+862-632+803$
+
+$232+194+571+259+604+989+688+744+207+103$
+
+$911+219+789+963+679+858-367-942-124-378$
+
+$787+206+878+988+913+622+821+482+539+289$
+
+$662+404+508+541-274-715+966+240-102-862$
+
+$144+426+332+176+682+336+447+210+261+860$
 
 ### Multiplication and Division
 
@@ -308,14 +468,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 110
-[Download Problem Set 110 as an accessible tex file](./files/ProblemSet0110.tex) [Download Problem Set 110 as an accessible word processing file](./files/ProblemSet0110.docx) [Download Problem Set 110 as a markdown file](./files/ProblemSet0110.md)
+[Download Problem Set 110 as an accessible tex file](./files/ProblemSet0110.tex)
+
+[Download Problem Set 110 as an accessible word processing file](./files/ProblemSet0110.docx)
+
+[Download Problem Set 110 as a markdown file](./files/ProblemSet0110.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$451 +308 +857 +645 +453 +363 +292 +450 +891 +511$|$899 +147 +482 +269 +701 +673 +729 +425 +341 +557$|$917 - 563 +180 +408 - 922 +998 - 434 +820 - 650 +776$|$412 +794 +817 +956 +516 +146 +985 +980 +929 +581$|$821 - 154 +703 +528 +259 - 222 - 198 +195 - 606 +167$|$133 +153 +419 +413 +337 +305 +908 +213 +830 +191$|$368 +770 - 790 +712 - 699 +721 +329 - 263 +368 - 853$|$654 +673 +824 +564 +934 +650 +639 +593 +870 +213$|$424 +699 +186 +560 - 563 +322 +968 - 766 - 225 - 756$|$750 +903 +161 +741 +216 +322 +125 +626 +536 +249$|
+$451+308+857+645+453+363+292+450+891+511$
+
+$899+147+482+269+701+673+729+425+341+557$
+
+$917-563+180+408-922+998-434+820-650+776$
+
+$412+794+817+956+516+146+985+980+929+581$
+
+$821-154+703+528+259-222-198+195-606+167$
+
+$133+153+419+413+337+305+908+213+830+191$
+
+$368+770-790+712-699+721+329-263+368-853$
+
+$654+673+824+564+934+650+639+593+870+213$
+
+$424+699+186+560-563+322+968-766-225-756$
+
+$750+903+161+741+216+322+125+626+536+249$
 
 ### Multiplication and Division
 
@@ -344,14 +524,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 111
-[Download Problem Set 111 as an accessible tex file](./files/ProblemSet0111.tex) [Download Problem Set 111 as an accessible word processing file](./files/ProblemSet0111.docx) [Download Problem Set 111 as a markdown file](./files/ProblemSet0111.md)
+[Download Problem Set 111 as an accessible tex file](./files/ProblemSet0111.tex)
+
+[Download Problem Set 111 as an accessible word processing file](./files/ProblemSet0111.docx)
+
+[Download Problem Set 111 as a markdown file](./files/ProblemSet0111.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$697 +972 +149 +212 +384 +118 +618 +292 +478 +469$|$368 +408 +998 +155 +734 +906 +314 +697 +996 +999$|$544 - 470 +403 - 170 +748 +457 +400 - 460 +244 - 585$|$609 +409 +305 +228 +712 +597 +518 +298 +656 +858$|$790 +903 +420 +162 - 416 +439 - 312 - 354 +625 - 778$|$495 +106 +221 +184 +156 +754 +530 +848 +540 +705$|$221 +905 - 735 +286 +442 - 346 +160 - 560 +378 - 100$|$350 +458 +697 +552 +338 +761 +309 +318 +643 +412$|$435 +434 +881 - 596 +296 +141 +959 - 177 - 221 - 794$|$505 +937 +547 +465 +958 +624 +786 +180 +593 +272$|
+$697+972+149+212+384+118+618+292+478+469$
+
+$368+408+998+155+734+906+314+697+996+999$
+
+$544-470+403-170+748+457+400-460+244-585$
+
+$609+409+305+228+712+597+518+298+656+858$
+
+$790+903+420+162-416+439-312-354+625-778$
+
+$495+106+221+184+156+754+530+848+540+705$
+
+$221+905-735+286+442-346+160-560+378-100$
+
+$350+458+697+552+338+761+309+318+643+412$
+
+$435+434+881-596+296+141+959-177-221-794$
+
+$505+937+547+465+958+624+786+180+593+272$
 
 ### Multiplication and Division
 
@@ -380,14 +580,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 112
-[Download Problem Set 112 as an accessible tex file](./files/ProblemSet0112.tex) [Download Problem Set 112 as an accessible word processing file](./files/ProblemSet0112.docx) [Download Problem Set 112 as a markdown file](./files/ProblemSet0112.md)
+[Download Problem Set 112 as an accessible tex file](./files/ProblemSet0112.tex)
+
+[Download Problem Set 112 as an accessible word processing file](./files/ProblemSet0112.docx)
+
+[Download Problem Set 112 as a markdown file](./files/ProblemSet0112.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$494 +814 +122 +361 +158 +171 +631 +684 +669 +594$|$216 +930 +271 +355 +513 +595 +207 +858 +318 +193$|$150 +833 +993 - 189 +256 +469 - 686 - 818 - 950 +698$|$756 +694 +312 +159 +914 +248 +287 +263 +576 +284$|$477 +914 - 486 - 107 +378 +863 - 416 +362 +322 - 783$|$857 +182 +243 +300 +280 +896 +419 +530 +846 +543$|$892 +210 - 789 +410 +395 +997 - 828 - 747 +956 - 168$|$880 +496 +981 +235 +136 +485 +844 +271 +303 +701$|$989 +851 - 352 +863 - 225 +711 +291 - 337 - 462 +369$|$851 +663 +457 +607 +280 +230 +128 +235 +375 +780$|
+$494+814+122+361+158+171+631+684+669+594$
+
+$216+930+271+355+513+595+207+858+318+193$
+
+$150+833+993-189+256+469-686-818-950+698$
+
+$756+694+312+159+914+248+287+263+576+284$
+
+$477+914-486-107+378+863-416+362+322-783$
+
+$857+182+243+300+280+896+419+530+846+543$
+
+$892+210-789+410+395+997-828-747+956-168$
+
+$880+496+981+235+136+485+844+271+303+701$
+
+$989+851-352+863-225+711+291-337-462+369$
+
+$851+663+457+607+280+230+128+235+375+780$
 
 ### Multiplication and Division
 
@@ -416,14 +636,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 113
-[Download Problem Set 113 as an accessible tex file](./files/ProblemSet0113.tex) [Download Problem Set 113 as an accessible word processing file](./files/ProblemSet0113.docx) [Download Problem Set 113 as a markdown file](./files/ProblemSet0113.md)
+[Download Problem Set 113 as an accessible tex file](./files/ProblemSet0113.tex)
+
+[Download Problem Set 113 as an accessible word processing file](./files/ProblemSet0113.docx)
+
+[Download Problem Set 113 as a markdown file](./files/ProblemSet0113.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$823 +144 +301 +921 +745 +921 +914 +305 +208 +204$|$437 +483 +723 +691 +946 +989 +397 +997 +122 +160$|$633 +218 +334 +990 - 778 - 898 +234 - 323 - 122 +833$|$362 +704 +676 +376 +633 +815 +408 +919 +630 +685$|$486 +689 +933 - 987 - 780 - 189 +517 +495 - 829 +520$|$485 +358 +688 +977 +193 +284 +734 +156 +825 +717$|$573 +180 +258 +762 +288 - 590 - 628 +830 - 811 - 861$|$189 +140 +639 +325 +818 +312 +344 +903 +578 +135$|$863 - 360 +919 +298 +457 +310 - 819 +124 - 785 - 165$|$249 +622 +424 +565 +249 +313 +849 +881 +629 +125$|
+$823+144+301+921+745+921+914+305+208+204$
+
+$437+483+723+691+946+989+397+997+122+160$
+
+$633+218+334+990-778-898+234-323-122+833$
+
+$362+704+676+376+633+815+408+919+630+685$
+
+$486+689+933-987-780-189+517+495-829+520$
+
+$485+358+688+977+193+284+734+156+825+717$
+
+$573+180+258+762+288-590-628+830-811-861$
+
+$189+140+639+325+818+312+344+903+578+135$
+
+$863-360+919+298+457+310-819+124-785-165$
+
+$249+622+424+565+249+313+849+881+629+125$
 
 ### Multiplication and Division
 
@@ -452,14 +692,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 114
-[Download Problem Set 114 as an accessible tex file](./files/ProblemSet0114.tex) [Download Problem Set 114 as an accessible word processing file](./files/ProblemSet0114.docx) [Download Problem Set 114 as a markdown file](./files/ProblemSet0114.md)
+[Download Problem Set 114 as an accessible tex file](./files/ProblemSet0114.tex)
+
+[Download Problem Set 114 as an accessible word processing file](./files/ProblemSet0114.docx)
+
+[Download Problem Set 114 as a markdown file](./files/ProblemSet0114.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$187 +649 +785 +900 +816 +258 +623 +109 +779 +306$|$922 +689 +775 +917 +297 +663 +654 +541 +579 +366$|$155 +788 - 160 - 641 +389 +857 - 130 +209 - 571 +920$|$860 +859 +144 +707 +506 +272 +686 +702 +821 +151$|$788 +835 +235 +981 - 669 - 978 - 273 +872 +644 - 528$|$109 +257 +995 +200 +993 +612 +187 +807 +936 +494$|$976 +242 - 300 +203 +875 - 990 - 575 +679 - 715 +902$|$263 +161 +967 +308 +751 +308 +496 +305 +310 +894$|$870 +706 +234 +310 - 430 - 212 - 769 +495 - 236 +342$|$697 +422 +845 +446 +837 +702 +743 +952 +438 +387$|
+$187+649+785+900+816+258+623+109+779+306$
+
+$922+689+775+917+297+663+654+541+579+366$
+
+$155+788-160-641+389+857-130+209-571+920$
+
+$860+859+144+707+506+272+686+702+821+151$
+
+$788+835+235+981-669-978-273+872+644-528$
+
+$109+257+995+200+993+612+187+807+936+494$
+
+$976+242-300+203+875-990-575+679-715+902$
+
+$263+161+967+308+751+308+496+305+310+894$
+
+$870+706+234+310-430-212-769+495-236+342$
+
+$697+422+845+446+837+702+743+952+438+387$
 
 ### Multiplication and Division
 
@@ -488,14 +748,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 115
-[Download Problem Set 115 as an accessible tex file](./files/ProblemSet0115.tex) [Download Problem Set 115 as an accessible word processing file](./files/ProblemSet0115.docx) [Download Problem Set 115 as a markdown file](./files/ProblemSet0115.md)
+[Download Problem Set 115 as an accessible tex file](./files/ProblemSet0115.tex)
+
+[Download Problem Set 115 as an accessible word processing file](./files/ProblemSet0115.docx)
+
+[Download Problem Set 115 as a markdown file](./files/ProblemSet0115.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$783 +296 +582 +384 +130 +430 +277 +845 +708 +498$|$316 +727 +460 +341 +662 +994 +564 +273 +871 +459$|$595 +904 - 885 - 416 +781 +337 +431 - 814 - 828 +184$|$881 +444 +135 +151 +651 +679 +443 +986 +873 +152$|$826 - 165 +112 - 285 +788 - 496 +912 +488 +771 - 616$|$944 +509 +302 +313 +245 +833 +833 +859 +368 +600$|$869 +356 - 696 - 296 +835 - 216 +819 +978 - 471 +127$|$579 +920 +818 +817 +835 +180 +331 +197 +769 +399$|$340 - 274 +290 +727 +509 - 377 +476 +291 - 259 - 169$|$416 +576 +326 +123 +718 +615 +279 +288 +605 +291$|
+$783+296+582+384+130+430+277+845+708+498$
+
+$316+727+460+341+662+994+564+273+871+459$
+
+$595+904-885-416+781+337+431-814-828+184$
+
+$881+444+135+151+651+679+443+986+873+152$
+
+$826-165+112-285+788-496+912+488+771-616$
+
+$944+509+302+313+245+833+833+859+368+600$
+
+$869+356-696-296+835-216+819+978-471+127$
+
+$579+920+818+817+835+180+331+197+769+399$
+
+$340-274+290+727+509-377+476+291-259-169$
+
+$416+576+326+123+718+615+279+288+605+291$
 
 ### Multiplication and Division
 
@@ -524,14 +804,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 116
-[Download Problem Set 116 as an accessible tex file](./files/ProblemSet0116.tex) [Download Problem Set 116 as an accessible word processing file](./files/ProblemSet0116.docx) [Download Problem Set 116 as a markdown file](./files/ProblemSet0116.md)
+[Download Problem Set 116 as an accessible tex file](./files/ProblemSet0116.tex)
+
+[Download Problem Set 116 as an accessible word processing file](./files/ProblemSet0116.docx)
+
+[Download Problem Set 116 as a markdown file](./files/ProblemSet0116.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$540 +997 +707 +843 +295 +406 +250 +400 +992 +782$|$369 +514 +177 +285 +788 +183 +146 +272 +876 +351$|$759 +961 - 519 - 620 +314 - 250 - 225 +615 +284 +744$|$864 +282 +796 +896 +532 +893 +170 +847 +789 +243$|$721 - 332 +932 +772 - 629 +143 +906 - 872 - 263 +101$|$660 +832 +361 +246 +645 +131 +426 +444 +599 +408$|$952 +217 +377 - 269 +596 - 240 +130 - 383 - 604 +278$|$361 +708 +522 +785 +165 +307 +812 +570 +361 +512$|$921 +276 +281 - 365 +856 +361 - 715 - 227 +922 - 203$|$385 +517 +850 +865 +815 +733 +765 +560 +129 +154$|
+$540+997+707+843+295+406+250+400+992+782$
+
+$369+514+177+285+788+183+146+272+876+351$
+
+$759+961-519-620+314-250-225+615+284+744$
+
+$864+282+796+896+532+893+170+847+789+243$
+
+$721-332+932+772-629+143+906-872-263+101$
+
+$660+832+361+246+645+131+426+444+599+408$
+
+$952+217+377-269+596-240+130-383-604+278$
+
+$361+708+522+785+165+307+812+570+361+512$
+
+$921+276+281-365+856+361-715-227+922-203$
+
+$385+517+850+865+815+733+765+560+129+154$
 
 ### Multiplication and Division
 
@@ -560,14 +860,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 117
-[Download Problem Set 117 as an accessible tex file](./files/ProblemSet0117.tex) [Download Problem Set 117 as an accessible word processing file](./files/ProblemSet0117.docx) [Download Problem Set 117 as a markdown file](./files/ProblemSet0117.md)
+[Download Problem Set 117 as an accessible tex file](./files/ProblemSet0117.tex)
+
+[Download Problem Set 117 as an accessible word processing file](./files/ProblemSet0117.docx)
+
+[Download Problem Set 117 as a markdown file](./files/ProblemSet0117.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$155 +795 +884 +582 +972 +607 +814 +868 +697 +445$|$585 +917 +348 +527 +650 +764 +229 +561 +527 +592$|$602 +101 - 518 +718 +904 - 567 +975 - 262 +712 - 902$|$435 +191 +446 +240 +490 +736 +274 +327 +361 +155$|$814 +526 - 707 +826 - 581 +305 +178 - 844 +201 - 623$|$795 +425 +657 +982 +455 +153 +552 +389 +122 +102$|$985 +428 +386 +630 - 374 - 908 - 424 - 439 +264 +462$|$602 +824 +977 +541 +482 +575 +848 +678 +402 +710$|$702 +591 +691 - 219 - 327 +109 - 931 +825 +113 - 260$|$304 +329 +727 +473 +443 +775 +159 +177 +505 +717$|
+$155+795+884+582+972+607+814+868+697+445$
+
+$585+917+348+527+650+764+229+561+527+592$
+
+$602+101-518+718+904-567+975-262+712-902$
+
+$435+191+446+240+490+736+274+327+361+155$
+
+$814+526-707+826-581+305+178-844+201-623$
+
+$795+425+657+982+455+153+552+389+122+102$
+
+$985+428+386+630-374-908-424-439+264+462$
+
+$602+824+977+541+482+575+848+678+402+710$
+
+$702+591+691-219-327+109-931+825+113-260$
+
+$304+329+727+473+443+775+159+177+505+717$
 
 ### Multiplication and Division
 
@@ -596,14 +916,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 118
-[Download Problem Set 118 as an accessible tex file](./files/ProblemSet0118.tex) [Download Problem Set 118 as an accessible word processing file](./files/ProblemSet0118.docx) [Download Problem Set 118 as a markdown file](./files/ProblemSet0118.md)
+[Download Problem Set 118 as an accessible tex file](./files/ProblemSet0118.tex)
+
+[Download Problem Set 118 as an accessible word processing file](./files/ProblemSet0118.docx)
+
+[Download Problem Set 118 as a markdown file](./files/ProblemSet0118.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$246 +402 +420 +521 +851 +933 +217 +180 +844 +334$|$714 +465 +702 +400 +330 +529 +883 +237 +751 +412$|$591 +628 +373 - 418 +767 - 658 - 845 - 245 +797 +809$|$582 +223 +912 +410 +342 +453 +979 +512 +512 +161$|$628 - 338 +694 +922 - 395 +581 +942 - 609 - 310 +131$|$908 +959 +684 +824 +747 +248 +685 +177 +234 +653$|$243 +721 +568 - 344 - 590 +120 - 618 +542 - 316 +962$|$404 +858 +324 +449 +629 +989 +615 +820 +711 +675$|$928 - 276 +599 +592 +547 - 271 +696 - 638 - 116 +722$|$720 +325 +112 +302 +145 +598 +209 +536 +236 +892$|
+$246+402+420+521+851+933+217+180+844+334$
+
+$714+465+702+400+330+529+883+237+751+412$
+
+$591+628+373-418+767-658-845-245+797+809$
+
+$582+223+912+410+342+453+979+512+512+161$
+
+$628-338+694+922-395+581+942-609-310+131$
+
+$908+959+684+824+747+248+685+177+234+653$
+
+$243+721+568-344-590+120-618+542-316+962$
+
+$404+858+324+449+629+989+615+820+711+675$
+
+$928-276+599+592+547-271+696-638-116+722$
+
+$720+325+112+302+145+598+209+536+236+892$
 
 ### Multiplication and Division
 
@@ -632,14 +972,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 119
-[Download Problem Set 119 as an accessible tex file](./files/ProblemSet0119.tex) [Download Problem Set 119 as an accessible word processing file](./files/ProblemSet0119.docx) [Download Problem Set 119 as a markdown file](./files/ProblemSet0119.md)
+[Download Problem Set 119 as an accessible tex file](./files/ProblemSet0119.tex)
+
+[Download Problem Set 119 as an accessible word processing file](./files/ProblemSet0119.docx)
+
+[Download Problem Set 119 as a markdown file](./files/ProblemSet0119.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$672 +347 +375 +614 +322 +117 +590 +656 +794 +421$|$925 +126 +102 +974 +753 +533 +716 +823 +931 +215$|$411 +393 +824 +679 +233 - 282 +630 - 230 - 491 - 585$|$327 +675 +402 +941 +608 +548 +773 +518 +787 +786$|$188 +387 +799 +141 +491 - 413 - 728 +572 - 485 - 637$|$885 +666 +784 +339 +826 +640 +470 +301 +666 +446$|$794 - 171 +830 +103 - 627 +255 - 136 - 800 +262 +164$|$203 +733 +911 +301 +886 +148 +192 +941 +578 +861$|$987 +338 +465 - 143 +811 - 947 - 252 +816 +377 - 955$|$673 +206 +889 +916 +319 +816 +286 +869 +819 +352$|
+$672+347+375+614+322+117+590+656+794+421$
+
+$925+126+102+974+753+533+716+823+931+215$
+
+$411+393+824+679+233-282+630-230-491-585$
+
+$327+675+402+941+608+548+773+518+787+786$
+
+$188+387+799+141+491-413-728+572-485-637$
+
+$885+666+784+339+826+640+470+301+666+446$
+
+$794-171+830+103-627+255-136-800+262+164$
+
+$203+733+911+301+886+148+192+941+578+861$
+
+$987+338+465-143+811-947-252+816+377-955$
+
+$673+206+889+916+319+816+286+869+819+352$
 
 ### Multiplication and Division
 
@@ -668,14 +1028,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 120
-[Download Problem Set 120 as an accessible tex file](./files/ProblemSet0120.tex) [Download Problem Set 120 as an accessible word processing file](./files/ProblemSet0120.docx) [Download Problem Set 120 as a markdown file](./files/ProblemSet0120.md)
+[Download Problem Set 120 as an accessible tex file](./files/ProblemSet0120.tex)
+
+[Download Problem Set 120 as an accessible word processing file](./files/ProblemSet0120.docx)
+
+[Download Problem Set 120 as a markdown file](./files/ProblemSet0120.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$978 +619 +166 +504 +533 +231 +446 +609 +663 +179$|$196 +387 +886 +409 +909 +293 +428 +126 +835 +630$|$686 +512 - 630 - 478 +360 +594 - 194 +639 +247 - 818$|$938 +299 +424 +244 +137 +159 +432 +113 +447 +728$|$913 +757 - 896 +201 +761 +666 - 348 - 817 +915 - 740$|$806 +148 +925 +933 +192 +793 +197 +640 +818 +346$|$243 +363 +191 +492 - 590 - 234 +447 - 167 +136 - 554$|$283 +984 +287 +139 +598 +579 +999 +452 +294 +957$|$578 +466 +385 +375 - 889 - 272 +763 - 730 - 143 +390$|$772 +286 +888 +783 +375 +727 +616 +554 +555 +905$|
+$978+619+166+504+533+231+446+609+663+179$
+
+$196+387+886+409+909+293+428+126+835+630$
+
+$686+512-630-478+360+594-194+639+247-818$
+
+$938+299+424+244+137+159+432+113+447+728$
+
+$913+757-896+201+761+666-348-817+915-740$
+
+$806+148+925+933+192+793+197+640+818+346$
+
+$243+363+191+492-590-234+447-167+136-554$
+
+$283+984+287+139+598+579+999+452+294+957$
+
+$578+466+385+375-889-272+763-730-143+390$
+
+$772+286+888+783+375+727+616+554+555+905$
 
 ### Multiplication and Division
 
@@ -704,14 +1084,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 121
-[Download Problem Set 121 as an accessible tex file](./files/ProblemSet0121.tex) [Download Problem Set 121 as an accessible word processing file](./files/ProblemSet0121.docx) [Download Problem Set 121 as a markdown file](./files/ProblemSet0121.md)
+[Download Problem Set 121 as an accessible tex file](./files/ProblemSet0121.tex)
+
+[Download Problem Set 121 as an accessible word processing file](./files/ProblemSet0121.docx)
+
+[Download Problem Set 121 as a markdown file](./files/ProblemSet0121.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$730 +689 +776 +645 +649 +823 +965 +504 +280 +461$|$640 +224 +356 +988 +479 +596 +376 +338 +527 +734$|$591 - 126 - 420 +516 +538 +610 - 255 +524 +852 - 662$|$232 +995 +274 +627 +214 +302 +696 +678 +917 +497$|$353 +857 - 398 - 717 +553 +720 - 490 +632 - 824 +616$|$106 +364 +908 +967 +246 +386 +551 +327 +768 +501$|$553 - 112 +944 - 316 - 185 +612 - 125 +815 +264 +937$|$960 +992 +265 +229 +534 +252 +995 +394 +355 +967$|$852 +582 +374 - 964 +385 +582 +833 - 405 - 661 - 571$|$268 +338 +522 +736 +783 +632 +568 +561 +997 +307$|
+$730+689+776+645+649+823+965+504+280+461$
+
+$640+224+356+988+479+596+376+338+527+734$
+
+$591-126-420+516+538+610-255+524+852-662$
+
+$232+995+274+627+214+302+696+678+917+497$
+
+$353+857-398-717+553+720-490+632-824+616$
+
+$106+364+908+967+246+386+551+327+768+501$
+
+$553-112+944-316-185+612-125+815+264+937$
+
+$960+992+265+229+534+252+995+394+355+967$
+
+$852+582+374-964+385+582+833-405-661-571$
+
+$268+338+522+736+783+632+568+561+997+307$
 
 ### Multiplication and Division
 
@@ -740,14 +1140,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 122
-[Download Problem Set 122 as an accessible tex file](./files/ProblemSet0122.tex) [Download Problem Set 122 as an accessible word processing file](./files/ProblemSet0122.docx) [Download Problem Set 122 as a markdown file](./files/ProblemSet0122.md)
+[Download Problem Set 122 as an accessible tex file](./files/ProblemSet0122.tex)
+
+[Download Problem Set 122 as an accessible word processing file](./files/ProblemSet0122.docx)
+
+[Download Problem Set 122 as a markdown file](./files/ProblemSet0122.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$489 +253 +943 +535 +667 +913 +258 +331 +834 +328$|$743 +490 +144 +695 +600 +387 +253 +299 +430 +771$|$590 - 237 +933 - 609 +685 +309 +300 - 778 +793 - 885$|$749 +501 +375 +177 +641 +924 +393 +464 +348 +313$|$349 +829 - 252 - 875 +507 +993 - 462 +502 - 611 +914$|$341 +196 +462 +205 +358 +696 +654 +419 +295 +648$|$374 +699 +216 +363 +767 - 123 - 748 - 925 +656 - 397$|$787 +732 +973 +225 +512 +819 +923 +254 +638 +596$|$161 +233 +927 +296 - 885 - 250 +955 +440 - 379 - 767$|$118 +727 +364 +452 +421 +720 +512 +976 +788 +711$|
+$489+253+943+535+667+913+258+331+834+328$
+
+$743+490+144+695+600+387+253+299+430+771$
+
+$590-237+933-609+685+309+300-778+793-885$
+
+$749+501+375+177+641+924+393+464+348+313$
+
+$349+829-252-875+507+993-462+502-611+914$
+
+$341+196+462+205+358+696+654+419+295+648$
+
+$374+699+216+363+767-123-748-925+656-397$
+
+$787+732+973+225+512+819+923+254+638+596$
+
+$161+233+927+296-885-250+955+440-379-767$
+
+$118+727+364+452+421+720+512+976+788+711$
 
 ### Multiplication and Division
 
@@ -776,21 +1196,41 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 123
-[Download Problem Set 123 as an accessible tex file](./files/ProblemSet0123.tex) [Download Problem Set 123 as an accessible word processing file](./files/ProblemSet0123.docx) [Download Problem Set 123 as a markdown file](./files/ProblemSet0123.md)
+[Download Problem Set 123 as an accessible tex file](./files/ProblemSet0123.tex)
+
+[Download Problem Set 123 as an accessible word processing file](./files/ProblemSet0123.docx)
+
+[Download Problem Set 123 as a markdown file](./files/ProblemSet0123.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$729 +816 +214 +330 +161 +279 +121 +694 +436 +951$|$785 +209 +570 +814 +768 +131 +339 +700 +602 +496$|$426 +769 +729 - 138 - 364 +570 +440 - 584 - 697 +695$|$381 +617 +558 +125 +254 +955 +849 +996 +263 +977$|$687 +878 - 546 - 509 - 413 +954 +195 - 483 +919 +607$|$342 +974 +519 +761 +724 +631 +967 +301 +791 +214$|$459 +632 +794 +217 +775 - 458 - 679 - 339 +229 - 687$|$348 +975 +318 +674 +176 +546 +796 +567 +609 +616$|$946 +296 +311 +970 - 233 +248 - 907 - 139 - 388 +473$|$689 +992 +711 +529 +781 +854 +693 +376 +148 +143$|
+$729+816+214+330+161+279+121+694+436+951$
+
+$785+209+570+814+768+131+339+700+602+496$
+
+$426+769+729-138-364+570+440-584-697+695$
+
+$381+617+558+125+254+955+849+996+263+977$
+
+$687+878-546-509-413+954+195-483+919+607$
+
+$342+974+519+761+724+631+967+301+791+214$
+
+$459+632+794+217+775-458-679-339+229-687$
+
+$348+975+318+674+176+546+796+567+609+616$
+
+$946+296+311+970-233+248-907-139-388+473$
+
+$689+992+711+529+781+854+693+376+148+143$
 
 ### Multiplication and Division
 
 | Multiplication | Division |
 |:---- |:---- |
 |$343 \cdot  41$ |$8,479÷54$ |
-|$342 \cdot  15$ |$529  - 19$ |
+|$342 \cdot  15$ |$529 -19$ |
 |$196 \cdot  97$ |$6,056÷79$ |
 |$613 \cdot  28$ |$4,340÷19$ |
 |$680 \cdot  67$ |$9,932÷83$ |
@@ -812,14 +1252,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 124
-[Download Problem Set 124 as an accessible tex file](./files/ProblemSet0124.tex) [Download Problem Set 124 as an accessible word processing file](./files/ProblemSet0124.docx) [Download Problem Set 124 as a markdown file](./files/ProblemSet0124.md)
+[Download Problem Set 124 as an accessible tex file](./files/ProblemSet0124.tex)
+
+[Download Problem Set 124 as an accessible word processing file](./files/ProblemSet0124.docx)
+
+[Download Problem Set 124 as a markdown file](./files/ProblemSet0124.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$312 +864 +119 +519 +761 +245 +449 +125 +344 +613$|$455 +547 +414 +784 +325 +515 +222 +571 +897 +612$|$950 +979 +261 - 939 - 223 +221 - 600 +105 +738 - 365$|$170 +650 +231 +941 +389 +476 +307 +657 +660 +778$|$516 +797 - 691 +367 - 131 +759 - 523 - 613 +153 +725$|$295 +120 +538 +896 +794 +953 +433 +193 +371 +599$|$337 +957 - 685 +982 - 218 - 193 +269 +517 - 238 +391$|$302 +684 +992 +509 +432 +679 +586 +732 +303 +263$|$949 +528 +246 - 564 +877 +237 - 315 +273 - 234 - 228$|$150 +868 +192 +967 +716 +536 +849 +361 +451 +466$|
+$312+864+119+519+761+245+449+125+344+613$
+
+$455+547+414+784+325+515+222+571+897+612$
+
+$950+979+261-939-223+221-600+105+738-365$
+
+$170+650+231+941+389+476+307+657+660+778$
+
+$516+797-691+367-131+759-523-613+153+725$
+
+$295+120+538+896+794+953+433+193+371+599$
+
+$337+957-685+982-218-193+269+517-238+391$
+
+$302+684+992+509+432+679+586+732+303+263$
+
+$949+528+246-564+877+237-315+273-234-228$
+
+$150+868+192+967+716+536+849+361+451+466$
 
 ### Multiplication and Division
 
@@ -848,14 +1308,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 125
-[Download Problem Set 125 as an accessible tex file](./files/ProblemSet0125.tex) [Download Problem Set 125 as an accessible word processing file](./files/ProblemSet0125.docx) [Download Problem Set 125 as a markdown file](./files/ProblemSet0125.md)
+[Download Problem Set 125 as an accessible tex file](./files/ProblemSet0125.tex)
+
+[Download Problem Set 125 as an accessible word processing file](./files/ProblemSet0125.docx)
+
+[Download Problem Set 125 as a markdown file](./files/ProblemSet0125.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$695 +158 +731 +932 +486 +593 +279 +262 +870 +623$|$304 +995 +221 +104 +605 +412 +301 +348 +814 +227$|$962 +817 - 796 +230 - 225 +517 - 356 +859 +702 - 223$|$825 +255 +843 +520 +819 +114 +285 +420 +255 +592$|$988 +284 - 190 +784 +537 +131 +589 - 128 - 474 - 786$|$202 +975 +145 +505 +562 +450 +336 +903 +712 +133$|$666 +908 +738 - 179 - 411 +735 - 938 +629 +716 - 899$|$797 +682 +302 +825 +809 +947 +779 +165 +565 +705$|$500 +914 +864 +432 +611 - 519 - 326 +873 - 706 - 274$|$920 +584 +444 +536 +218 +744 +179 +256 +264 +909$|
+$695+158+731+932+486+593+279+262+870+623$
+
+$304+995+221+104+605+412+301+348+814+227$
+
+$962+817-796+230-225+517-356+859+702-223$
+
+$825+255+843+520+819+114+285+420+255+592$
+
+$988+284-190+784+537+131+589-128-474-786$
+
+$202+975+145+505+562+450+336+903+712+133$
+
+$666+908+738-179-411+735-938+629+716-899$
+
+$797+682+302+825+809+947+779+165+565+705$
+
+$500+914+864+432+611-519-326+873-706-274$
+
+$920+584+444+536+218+744+179+256+264+909$
 
 ### Multiplication and Division
 
@@ -884,14 +1364,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 126
-[Download Problem Set 126 as an accessible tex file](./files/ProblemSet0126.tex) [Download Problem Set 126 as an accessible word processing file](./files/ProblemSet0126.docx) [Download Problem Set 126 as a markdown file](./files/ProblemSet0126.md)
+[Download Problem Set 126 as an accessible tex file](./files/ProblemSet0126.tex)
+
+[Download Problem Set 126 as an accessible word processing file](./files/ProblemSet0126.docx)
+
+[Download Problem Set 126 as a markdown file](./files/ProblemSet0126.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$799 +151 +169 +270 +975 +409 +242 +405 +515 +231$|$853 +722 +516 +344 +314 +796 +853 +639 +745 +926$|$681 +378 +211 +137 - 176 - 707 +387 +604 - 109 - 132$|$801 +292 +395 +330 +593 +124 +660 +939 +665 +638$|$709 +665 +269 +554 - 751 - 234 - 473 - 717 +948 +695$|$564 +728 +502 +641 +235 +590 +987 +793 +958 +955$|$843 - 784 +875 +606 +892 - 400 - 106 +215 - 999 +826$|$483 +135 +504 +364 +418 +986 +861 +832 +607 +598$|$972 - 663 +107 +731 - 167 +275 +301 +443 - 827 - 672$|$925 +417 +892 +564 +326 +899 +843 +178 +891 +399$|
+$799+151+169+270+975+409+242+405+515+231$
+
+$853+722+516+344+314+796+853+639+745+926$
+
+$681+378+211+137-176-707+387+604-109-132$
+
+$801+292+395+330+593+124+660+939+665+638$
+
+$709+665+269+554-751-234-473-717+948+695$
+
+$564+728+502+641+235+590+987+793+958+955$
+
+$843-784+875+606+892-400-106+215-999+826$
+
+$483+135+504+364+418+986+861+832+607+598$
+
+$972-663+107+731-167+275+301+443-827-672$
+
+$925+417+892+564+326+899+843+178+891+399$
 
 ### Multiplication and Division
 
@@ -920,14 +1420,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 127
-[Download Problem Set 127 as an accessible tex file](./files/ProblemSet0127.tex) [Download Problem Set 127 as an accessible word processing file](./files/ProblemSet0127.docx) [Download Problem Set 127 as a markdown file](./files/ProblemSet0127.md)
+[Download Problem Set 127 as an accessible tex file](./files/ProblemSet0127.tex)
+
+[Download Problem Set 127 as an accessible word processing file](./files/ProblemSet0127.docx)
+
+[Download Problem Set 127 as a markdown file](./files/ProblemSet0127.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$818 +192 +373 +958 +412 +941 +790 +623 +582 +151$|$420 +915 +207 +111 +368 +890 +138 +747 +125 +312$|$263 +715 - 238 +473 +557 - 345 +915 +813 - 630 - 707$|$803 +575 +789 +805 +480 +316 +199 +729 +237 +918$|$967 +905 - 378 +677 - 327 - 459 +916 - 867 +707 +655$|$464 +326 +425 +557 +188 +504 +540 +425 +959 +918$|$513 +530 +803 - 117 - 303 - 751 +197 +199 - 464 +401$|$147 +407 +953 +342 +475 +886 +401 +864 +385 +155$|$439 - 249 +718 - 350 +978 +338 - 740 - 948 +300 +377$|$187 +881 +378 +357 +312 +378 +148 +166 +538 +887$|
+$818+192+373+958+412+941+790+623+582+151$
+
+$420+915+207+111+368+890+138+747+125+312$
+
+$263+715-238+473+557-345+915+813-630-707$
+
+$803+575+789+805+480+316+199+729+237+918$
+
+$967+905-378+677-327-459+916-867+707+655$
+
+$464+326+425+557+188+504+540+425+959+918$
+
+$513+530+803-117-303-751+197+199-464+401$
+
+$147+407+953+342+475+886+401+864+385+155$
+
+$439-249+718-350+978+338-740-948+300+377$
+
+$187+881+378+357+312+378+148+166+538+887$
 
 ### Multiplication and Division
 
@@ -956,14 +1476,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 128
-[Download Problem Set 128 as an accessible tex file](./files/ProblemSet0128.tex) [Download Problem Set 128 as an accessible word processing file](./files/ProblemSet0128.docx) [Download Problem Set 128 as a markdown file](./files/ProblemSet0128.md)
+[Download Problem Set 128 as an accessible tex file](./files/ProblemSet0128.tex)
+
+[Download Problem Set 128 as an accessible word processing file](./files/ProblemSet0128.docx)
+
+[Download Problem Set 128 as a markdown file](./files/ProblemSet0128.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$233 +918 +779 +806 +214 +873 +484 +620 +366 +202$|$224 +414 +651 +289 +525 +987 +221 +503 +349 +148$|$278 +100 +304 - 284 +709 +606 +696 - 834 - 218 - 301$|$789 +711 +868 +966 +980 +650 +787 +217 +411 +659$|$825 +944 - 518 +303 - 434 - 685 +221 +775 +674 - 871$|$220 +118 +284 +492 +512 +871 +786 +627 +196 +500$|$599 +103 - 354 +614 +946 - 477 +231 +886 - 604 - 315$|$142 +697 +887 +235 +648 +733 +843 +287 +116 +224$|$852 +568 - 152 +862 - 515 +232 +324 - 383 +649 - 178$|$321 +613 +114 +535 +442 +533 +619 +403 +155 +199$|
+$233+918+779+806+214+873+484+620+366+202$
+
+$224+414+651+289+525+987+221+503+349+148$
+
+$278+100+304-284+709+606+696-834-218-301$
+
+$789+711+868+966+980+650+787+217+411+659$
+
+$825+944-518+303-434-685+221+775+674-871$
+
+$220+118+284+492+512+871+786+627+196+500$
+
+$599+103-354+614+946-477+231+886-604-315$
+
+$142+697+887+235+648+733+843+287+116+224$
+
+$852+568-152+862-515+232+324-383+649-178$
+
+$321+613+114+535+442+533+619+403+155+199$
 
 ### Multiplication and Division
 
@@ -992,14 +1532,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 129
-[Download Problem Set 129 as an accessible tex file](./files/ProblemSet0129.tex) [Download Problem Set 129 as an accessible word processing file](./files/ProblemSet0129.docx) [Download Problem Set 129 as a markdown file](./files/ProblemSet0129.md)
+[Download Problem Set 129 as an accessible tex file](./files/ProblemSet0129.tex)
+
+[Download Problem Set 129 as an accessible word processing file](./files/ProblemSet0129.docx)
+
+[Download Problem Set 129 as a markdown file](./files/ProblemSet0129.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$240 +820 +591 +276 +586 +280 +344 +395 +844 +649$|$600 +838 +886 +668 +155 +888 +788 +669 +283 +301$|$825 - 628 +231 +679 - 140 +644 - 267 +550 +361 - 604$|$423 +599 +830 +746 +355 +754 +830 +365 +260 +817$|$208 +970 +916 +770 +751 - 928 +698 - 603 - 630 - 733$|$562 +116 +291 +909 +236 +907 +739 +697 +783 +387$|$495 +251 +748 - 422 +991 +214 - 900 - 326 +992 - 760$|$336 +142 +983 +691 +238 +849 +187 +761 +492 +783$|$870 +550 +956 - 575 +505 - 277 - 958 - 347 +468 +360$|$953 +721 +405 +720 +462 +837 +766 +836 +751 +152$|
+$240+820+591+276+586+280+344+395+844+649$
+
+$600+838+886+668+155+888+788+669+283+301$
+
+$825-628+231+679-140+644-267+550+361-604$
+
+$423+599+830+746+355+754+830+365+260+817$
+
+$208+970+916+770+751-928+698-603-630-733$
+
+$562+116+291+909+236+907+739+697+783+387$
+
+$495+251+748-422+991+214-900-326+992-760$
+
+$336+142+983+691+238+849+187+761+492+783$
+
+$870+550+956-575+505-277-958-347+468+360$
+
+$953+721+405+720+462+837+766+836+751+152$
 
 ### Multiplication and Division
 
@@ -1028,14 +1588,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 130
-[Download Problem Set 130 as an accessible tex file](./files/ProblemSet0130.tex) [Download Problem Set 130 as an accessible word processing file](./files/ProblemSet0130.docx) [Download Problem Set 130 as a markdown file](./files/ProblemSet0130.md)
+[Download Problem Set 130 as an accessible tex file](./files/ProblemSet0130.tex)
+
+[Download Problem Set 130 as an accessible word processing file](./files/ProblemSet0130.docx)
+
+[Download Problem Set 130 as a markdown file](./files/ProblemSet0130.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$274 +707 +249 +871 +257 +249 +723 +667 +432 +808$|$903 +202 +577 +321 +374 +624 +361 +946 +412 +193$|$533 +899 +188 +445 - 201 - 253 - 183 - 570 +702 +167$|$822 +584 +812 +815 +365 +413 +180 +117 +563 +947$|$560 +358 - 797 +455 - 549 +692 +367 - 151 +483 - 645$|$997 +159 +991 +110 +276 +766 +151 +574 +893 +812$|$320 +580 +920 - 587 +789 +677 - 410 +928 - 887 - 598$|$117 +261 +957 +699 +124 +763 +508 +726 +983 +661$|$601 +609 - 349 +842 - 138 - 348 - 572 +547 +482 +495$|$249 +936 +602 +816 +824 +508 +269 +489 +138 +663$|
+$274+707+249+871+257+249+723+667+432+808$
+
+$903+202+577+321+374+624+361+946+412+193$
+
+$533+899+188+445-201-253-183-570+702+167$
+
+$822+584+812+815+365+413+180+117+563+947$
+
+$560+358-797+455-549+692+367-151+483-645$
+
+$997+159+991+110+276+766+151+574+893+812$
+
+$320+580+920-587+789+677-410+928-887-598$
+
+$117+261+957+699+124+763+508+726+983+661$
+
+$601+609-349+842-138-348-572+547+482+495$
+
+$249+936+602+816+824+508+269+489+138+663$
 
 ### Multiplication and Division
 
@@ -1064,14 +1644,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 131
-[Download Problem Set 131 as an accessible tex file](./files/ProblemSet0131.tex) [Download Problem Set 131 as an accessible word processing file](./files/ProblemSet0131.docx) [Download Problem Set 131 as a markdown file](./files/ProblemSet0131.md)
+[Download Problem Set 131 as an accessible tex file](./files/ProblemSet0131.tex)
+
+[Download Problem Set 131 as an accessible word processing file](./files/ProblemSet0131.docx)
+
+[Download Problem Set 131 as a markdown file](./files/ProblemSet0131.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$506 +350 +372 +482 +502 +324 +596 +327 +272 +182$|$630 +937 +366 +580 +438 +568 +966 +837 +789 +772$|$934 +920 - 686 +422 +315 +299 - 979 - 403 +417 - 953$|$375 +265 +243 +313 +889 +291 +846 +647 +835 +618$|$824 +658 - 962 +610 +750 - 204 +611 - 382 - 641 +999$|$796 +878 +289 +135 +720 +431 +597 +779 +328 +120$|$760 +826 +153 - 499 +265 - 986 +461 - 466 - 261 +625$|$397 +968 +597 +272 +182 +879 +854 +958 +728 +646$|$248 +197 - 191 +409 +479 +311 - 833 +674 - 759 - 426$|$637 +460 +266 +656 +107 +722 +458 +260 +875 +242$|
+$506+350+372+482+502+324+596+327+272+182$
+
+$630+937+366+580+438+568+966+837+789+772$
+
+$934+920-686+422+315+299-979-403+417-953$
+
+$375+265+243+313+889+291+846+647+835+618$
+
+$824+658-962+610+750-204+611-382-641+999$
+
+$796+878+289+135+720+431+597+779+328+120$
+
+$760+826+153-499+265-986+461-466-261+625$
+
+$397+968+597+272+182+879+854+958+728+646$
+
+$248+197-191+409+479+311-833+674-759-426$
+
+$637+460+266+656+107+722+458+260+875+242$
 
 ### Multiplication and Division
 
@@ -1100,14 +1700,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 132
-[Download Problem Set 132 as an accessible tex file](./files/ProblemSet0132.tex) [Download Problem Set 132 as an accessible word processing file](./files/ProblemSet0132.docx) [Download Problem Set 132 as a markdown file](./files/ProblemSet0132.md)
+[Download Problem Set 132 as an accessible tex file](./files/ProblemSet0132.tex)
+
+[Download Problem Set 132 as an accessible word processing file](./files/ProblemSet0132.docx)
+
+[Download Problem Set 132 as a markdown file](./files/ProblemSet0132.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$677 +999 +652 +852 +610 +337 +307 +593 +197 +164$|$667 +374 +781 +891 +268 +590 +982 +173 +134 +726$|$661 +832 - 439 - 593 +232 +375 +749 - 543 - 534 +636$|$395 +404 +748 +721 +797 +171 +235 +671 +202 +204$|$330 +785 +775 - 983 +673 - 499 - 946 +948 +236 - 894$|$350 +957 +116 +227 +765 +363 +353 +678 +469 +544$|$388 +688 +725 +145 +544 - 927 - 539 - 479 - 488 +201$|$221 +551 +723 +184 +206 +892 +201 +890 +534 +716$|$418 +153 +502 - 480 +801 - 134 - 356 +664 +477 - 854$|$466 +504 +814 +187 +806 +771 +495 +969 +795 +971$|
+$677+999+652+852+610+337+307+593+197+164$
+
+$667+374+781+891+268+590+982+173+134+726$
+
+$661+832-439-593+232+375+749-543-534+636$
+
+$395+404+748+721+797+171+235+671+202+204$
+
+$330+785+775-983+673-499-946+948+236-894$
+
+$350+957+116+227+765+363+353+678+469+544$
+
+$388+688+725+145+544-927-539-479-488+201$
+
+$221+551+723+184+206+892+201+890+534+716$
+
+$418+153+502-480+801-134-356+664+477-854$
+
+$466+504+814+187+806+771+495+969+795+971$
 
 ### Multiplication and Division
 
@@ -1136,14 +1756,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 133
-[Download Problem Set 133 as an accessible tex file](./files/ProblemSet0133.tex) [Download Problem Set 133 as an accessible word processing file](./files/ProblemSet0133.docx) [Download Problem Set 133 as a markdown file](./files/ProblemSet0133.md)
+[Download Problem Set 133 as an accessible tex file](./files/ProblemSet0133.tex)
+
+[Download Problem Set 133 as an accessible word processing file](./files/ProblemSet0133.docx)
+
+[Download Problem Set 133 as a markdown file](./files/ProblemSet0133.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$157 +871 +139 +302 +721 +568 +800 +155 +552 +535$|$451 +252 +555 +831 +123 +819 +556 +757 +459 +734$|$446 +506 +647 +270 - 921 +885 - 503 - 486 +463 - 791$|$489 +168 +143 +968 +925 +969 +693 +865 +947 +824$|$420 +505 +398 +706 - 768 - 154 - 618 +677 - 681 +902$|$574 +421 +685 +409 +100 +609 +624 +528 +995 +825$|$330 +948 +420 +978 - 127 - 972 +290 +807 - 291 - 748$|$300 +208 +658 +809 +206 +820 +519 +154 +299 +705$|$716 - 569 +955 +389 - 778 +611 +328 +870 - 258 - 447$|$297 +244 +372 +897 +832 +885 +849 +302 +245 +593$|
+$157+871+139+302+721+568+800+155+552+535$
+
+$451+252+555+831+123+819+556+757+459+734$
+
+$446+506+647+270-921+885-503-486+463-791$
+
+$489+168+143+968+925+969+693+865+947+824$
+
+$420+505+398+706-768-154-618+677-681+902$
+
+$574+421+685+409+100+609+624+528+995+825$
+
+$330+948+420+978-127-972+290+807-291-748$
+
+$300+208+658+809+206+820+519+154+299+705$
+
+$716-569+955+389-778+611+328+870-258-447$
+
+$297+244+372+897+832+885+849+302+245+593$
 
 ### Multiplication and Division
 
@@ -1172,14 +1812,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 134
-[Download Problem Set 134 as an accessible tex file](./files/ProblemSet0134.tex) [Download Problem Set 134 as an accessible word processing file](./files/ProblemSet0134.docx) [Download Problem Set 134 as a markdown file](./files/ProblemSet0134.md)
+[Download Problem Set 134 as an accessible tex file](./files/ProblemSet0134.tex)
+
+[Download Problem Set 134 as an accessible word processing file](./files/ProblemSet0134.docx)
+
+[Download Problem Set 134 as a markdown file](./files/ProblemSet0134.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$521 +125 +736 +782 +806 +909 +323 +691 +775 +242$|$990 +856 +660 +835 +627 +428 +791 +143 +628 +950$|$575 +824 - 620 +235 - 228 +829 +985 +697 - 378 - 335$|$144 +347 +179 +497 +562 +598 +166 +927 +664 +836$|$768 - 387 +942 +720 - 140 +225 +222 +424 - 169 - 211$|$975 +587 +171 +316 +159 +605 +857 +144 +392 +445$|$639 +644 +523 +243 +419 - 580 +498 - 700 - 910 - 497$|$927 +581 +144 +445 +683 +754 +817 +785 +203 +910$|$776 - 172 +699 - 263 +377 +858 - 648 - 353 +322 +486$|$723 +826 +175 +108 +713 +783 +732 +748 +435 +270$|
+$521+125+736+782+806+909+323+691+775+242$
+
+$990+856+660+835+627+428+791+143+628+950$
+
+$575+824-620+235-228+829+985+697-378-335$
+
+$144+347+179+497+562+598+166+927+664+836$
+
+$768-387+942+720-140+225+222+424-169-211$
+
+$975+587+171+316+159+605+857+144+392+445$
+
+$639+644+523+243+419-580+498-700-910-497$
+
+$927+581+144+445+683+754+817+785+203+910$
+
+$776-172+699-263+377+858-648-353+322+486$
+
+$723+826+175+108+713+783+732+748+435+270$
 
 ### Multiplication and Division
 
@@ -1208,14 +1868,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 135
-[Download Problem Set 135 as an accessible tex file](./files/ProblemSet0135.tex) [Download Problem Set 135 as an accessible word processing file](./files/ProblemSet0135.docx) [Download Problem Set 135 as a markdown file](./files/ProblemSet0135.md)
+[Download Problem Set 135 as an accessible tex file](./files/ProblemSet0135.tex)
+
+[Download Problem Set 135 as an accessible word processing file](./files/ProblemSet0135.docx)
+
+[Download Problem Set 135 as a markdown file](./files/ProblemSet0135.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$696 +859 +719 +551 +552 +892 +846 +893 +346 +374$|$141 +509 +202 +759 +926 +802 +630 +215 +352 +856$|$482 - 339 +193 +975 +740 - 226 +885 - 385 +473 - 885$|$424 +273 +220 +963 +352 +770 +229 +422 +279 +365$|$253 +348 +463 - 473 +193 +534 +535 - 174 - 255 - 684$|$233 +527 +264 +785 +387 +926 +322 +934 +154 +606$|$755 +909 +865 +756 +127 +484 - 737 - 137 - 586 - 312$|$782 +731 +228 +545 +863 +550 +135 +193 +974 +447$|$601 +922 - 194 +863 +987 - 171 - 726 +298 +787 - 634$|$890 +102 +894 +583 +250 +711 +419 +199 +220 +436$|
+$696+859+719+551+552+892+846+893+346+374$
+
+$141+509+202+759+926+802+630+215+352+856$
+
+$482-339+193+975+740-226+885-385+473-885$
+
+$424+273+220+963+352+770+229+422+279+365$
+
+$253+348+463-473+193+534+535-174-255-684$
+
+$233+527+264+785+387+926+322+934+154+606$
+
+$755+909+865+756+127+484-737-137-586-312$
+
+$782+731+228+545+863+550+135+193+974+447$
+
+$601+922-194+863+987-171-726+298+787-634$
+
+$890+102+894+583+250+711+419+199+220+436$
 
 ### Multiplication and Division
 
@@ -1244,14 +1924,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 136
-[Download Problem Set 136 as an accessible tex file](./files/ProblemSet0136.tex) [Download Problem Set 136 as an accessible word processing file](./files/ProblemSet0136.docx) [Download Problem Set 136 as a markdown file](./files/ProblemSet0136.md)
+[Download Problem Set 136 as an accessible tex file](./files/ProblemSet0136.tex)
+
+[Download Problem Set 136 as an accessible word processing file](./files/ProblemSet0136.docx)
+
+[Download Problem Set 136 as a markdown file](./files/ProblemSet0136.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$834 +854 +487 +466 +708 +128 +633 +745 +947 +933$|$763 +826 +232 +820 +480 +113 +663 +861 +321 +706$|$942 +242 +466 - 269 +239 - 490 +892 +927 - 358 - 636$|$100 +917 +590 +872 +771 +741 +905 +686 +845 +343$|$465 +321 +617 +896 - 843 +565 - 693 +970 - 142 - 244$|$554 +572 +497 +781 +636 +226 +519 +477 +909 +455$|$620 +432 +673 +258 +778 - 698 - 542 +415 - 730 - 706$|$556 +359 +394 +326 +184 +920 +206 +217 +167 +888$|$149 +548 - 397 +496 +172 +123 - 578 - 420 +898 - 358$|$409 +549 +158 +702 +176 +570 +988 +538 +336 +933$|
+$834+854+487+466+708+128+633+745+947+933$
+
+$763+826+232+820+480+113+663+861+321+706$
+
+$942+242+466-269+239-490+892+927-358-636$
+
+$100+917+590+872+771+741+905+686+845+343$
+
+$465+321+617+896-843+565-693+970-142-244$
+
+$554+572+497+781+636+226+519+477+909+455$
+
+$620+432+673+258+778-698-542+415-730-706$
+
+$556+359+394+326+184+920+206+217+167+888$
+
+$149+548-397+496+172+123-578-420+898-358$
+
+$409+549+158+702+176+570+988+538+336+933$
 
 ### Multiplication and Division
 
@@ -1280,14 +1980,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 137
-[Download Problem Set 137 as an accessible tex file](./files/ProblemSet0137.tex) [Download Problem Set 137 as an accessible word processing file](./files/ProblemSet0137.docx) [Download Problem Set 137 as a markdown file](./files/ProblemSet0137.md)
+[Download Problem Set 137 as an accessible tex file](./files/ProblemSet0137.tex)
+
+[Download Problem Set 137 as an accessible word processing file](./files/ProblemSet0137.docx)
+
+[Download Problem Set 137 as a markdown file](./files/ProblemSet0137.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$631 +551 +476 +624 +486 +437 +388 +278 +223 +490$|$665 +402 +499 +750 +252 +514 +140 +303 +951 +918$|$829 +750 - 638 +151 +775 - 404 +794 - 271 +663 - 579$|$810 +133 +323 +693 +710 +502 +300 +201 +219 +225$|$898 - 829 +366 +845 +740 - 234 +915 - 567 +889 - 480$|$980 +939 +564 +564 +751 +156 +501 +297 +124 +625$|$662 - 303 +115 +561 +803 - 819 +379 - 195 - 116 +338$|$925 +474 +107 +891 +240 +191 +694 +754 +464 +606$|$304 +509 +474 - 692 - 324 +748 +998 +742 - 985 - 947$|$436 +837 +963 +369 +464 +787 +600 +483 +447 +939$|
+$631+551+476+624+486+437+388+278+223+490$
+
+$665+402+499+750+252+514+140+303+951+918$
+
+$829+750-638+151+775-404+794-271+663-579$
+
+$810+133+323+693+710+502+300+201+219+225$
+
+$898-829+366+845+740-234+915-567+889-480$
+
+$980+939+564+564+751+156+501+297+124+625$
+
+$662-303+115+561+803-819+379-195-116+338$
+
+$925+474+107+891+240+191+694+754+464+606$
+
+$304+509+474-692-324+748+998+742-985-947$
+
+$436+837+963+369+464+787+600+483+447+939$
 
 ### Multiplication and Division
 
@@ -1316,14 +2036,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 138
-[Download Problem Set 138 as an accessible tex file](./files/ProblemSet0138.tex) [Download Problem Set 138 as an accessible word processing file](./files/ProblemSet0138.docx) [Download Problem Set 138 as a markdown file](./files/ProblemSet0138.md)
+[Download Problem Set 138 as an accessible tex file](./files/ProblemSet0138.tex)
+
+[Download Problem Set 138 as an accessible word processing file](./files/ProblemSet0138.docx)
+
+[Download Problem Set 138 as a markdown file](./files/ProblemSet0138.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$611 +339 +423 +976 +345 +802 +829 +836 +918 +396$|$577 +761 +498 +666 +188 +457 +564 +904 +488 +564$|$915 - 134 +477 +786 +309 +908 - 450 - 107 +652 - 864$|$301 +603 +167 +223 +620 +423 +285 +965 +485 +232$|$581 - 490 +281 +601 - 569 +954 - 363 - 229 +424 +325$|$707 +872 +292 +620 +756 +944 +302 +816 +719 +727$|$828 +886 +860 - 869 +390 - 628 +746 - 576 +381 - 981$|$377 +981 +499 +923 +231 +323 +397 +962 +318 +704$|$899 - 864 +896 +425 +951 - 135 - 855 +716 - 860 +759$|$383 +335 +199 +656 +456 +852 +603 +862 +639 +926$|
+$611+339+423+976+345+802+829+836+918+396$
+
+$577+761+498+666+188+457+564+904+488+564$
+
+$915-134+477+786+309+908-450-107+652-864$
+
+$301+603+167+223+620+423+285+965+485+232$
+
+$581-490+281+601-569+954-363-229+424+325$
+
+$707+872+292+620+756+944+302+816+719+727$
+
+$828+886+860-869+390-628+746-576+381-981$
+
+$377+981+499+923+231+323+397+962+318+704$
+
+$899-864+896+425+951-135-855+716-860+759$
+
+$383+335+199+656+456+852+603+862+639+926$
 
 ### Multiplication and Division
 
@@ -1352,14 +2092,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 139
-[Download Problem Set 139 as an accessible tex file](./files/ProblemSet0139.tex) [Download Problem Set 139 as an accessible word processing file](./files/ProblemSet0139.docx) [Download Problem Set 139 as a markdown file](./files/ProblemSet0139.md)
+[Download Problem Set 139 as an accessible tex file](./files/ProblemSet0139.tex)
+
+[Download Problem Set 139 as an accessible word processing file](./files/ProblemSet0139.docx)
+
+[Download Problem Set 139 as a markdown file](./files/ProblemSet0139.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$674 +846 +564 +550 +997 +290 +556 +797 +460 +904$|$422 +945 +272 +557 +956 +198 +713 +656 +924 +335$|$639 +175 +751 +158 +537 - 798 +121 - 251 - 309 - 849$|$359 +439 +366 +239 +619 +300 +883 +542 +657 +514$|$552 - 285 +876 +781 +420 - 833 +404 +248 - 826 - 947$|$619 +292 +458 +372 +359 +274 +584 +933 +788 +565$|$756 +500 +953 - 173 - 340 - 532 +764 +564 +984 - 557$|$360 +295 +853 +382 +571 +236 +938 +613 +632 +826$|$590 +160 +762 +830 - 524 - 482 +129 - 652 +906 - 144$|$760 +922 +674 +789 +654 +460 +714 +153 +572 +630$|
+$674+846+564+550+997+290+556+797+460+904$
+
+$422+945+272+557+956+198+713+656+924+335$
+
+$639+175+751+158+537-798+121-251-309-849$
+
+$359+439+366+239+619+300+883+542+657+514$
+
+$552-285+876+781+420-833+404+248-826-947$
+
+$619+292+458+372+359+274+584+933+788+565$
+
+$756+500+953-173-340-532+764+564+984-557$
+
+$360+295+853+382+571+236+938+613+632+826$
+
+$590+160+762+830-524-482+129-652+906-144$
+
+$760+922+674+789+654+460+714+153+572+630$
 
 ### Multiplication and Division
 
@@ -1388,14 +2148,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 140
-[Download Problem Set 140 as an accessible tex file](./files/ProblemSet0140.tex) [Download Problem Set 140 as an accessible word processing file](./files/ProblemSet0140.docx) [Download Problem Set 140 as a markdown file](./files/ProblemSet0140.md)
+[Download Problem Set 140 as an accessible tex file](./files/ProblemSet0140.tex)
+
+[Download Problem Set 140 as an accessible word processing file](./files/ProblemSet0140.docx)
+
+[Download Problem Set 140 as a markdown file](./files/ProblemSet0140.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$765 +971 +379 +373 +464 +874 +279 +307 +732 +999$|$760 +605 +739 +151 +741 +159 +959 +746 +382 +372$|$392 +902 +227 - 593 +506 +478 - 876 +161 - 138 - 231$|$105 +743 +625 +177 +859 +560 +312 +477 +342 +352$|$863 +955 +712 - 266 +221 - 918 - 338 +785 +489 - 653$|$339 +942 +186 +553 +783 +632 +705 +624 +595 +668$|$655 - 586 +568 +745 +840 - 591 - 139 +958 +211 - 373$|$150 +879 +538 +122 +414 +959 +550 +790 +344 +805$|$776 +322 +544 +572 - 770 +155 - 967 - 129 +319 - 592$|$348 +379 +472 +208 +803 +906 +516 +698 +802 +503$|
+$765+971+379+373+464+874+279+307+732+999$
+
+$760+605+739+151+741+159+959+746+382+372$
+
+$392+902+227-593+506+478-876+161-138-231$
+
+$105+743+625+177+859+560+312+477+342+352$
+
+$863+955+712-266+221-918-338+785+489-653$
+
+$339+942+186+553+783+632+705+624+595+668$
+
+$655-586+568+745+840-591-139+958+211-373$
+
+$150+879+538+122+414+959+550+790+344+805$
+
+$776+322+544+572-770+155-967-129+319-592$
+
+$348+379+472+208+803+906+516+698+802+503$
 
 ### Multiplication and Division
 
@@ -1424,14 +2204,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 141
-[Download Problem Set 141 as an accessible tex file](./files/ProblemSet0141.tex) [Download Problem Set 141 as an accessible word processing file](./files/ProblemSet0141.docx) [Download Problem Set 141 as a markdown file](./files/ProblemSet0141.md)
+[Download Problem Set 141 as an accessible tex file](./files/ProblemSet0141.tex)
+
+[Download Problem Set 141 as an accessible word processing file](./files/ProblemSet0141.docx)
+
+[Download Problem Set 141 as a markdown file](./files/ProblemSet0141.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$608 +489 +163 +319 +961 +312 +178 +488 +723 +305$|$933 +947 +304 +775 +107 +367 +929 +674 +541 +434$|$351 +551 - 442 +316 - 341 - 101 +165 - 117 +600 +511$|$357 +394 +228 +419 +586 +828 +387 +974 +721 +552$|$615 +121 +311 - 185 - 729 +540 +807 +957 - 943 - 501$|$468 +726 +736 +636 +344 +164 +671 +712 +684 +352$|$805 - 123 +335 +260 - 537 +233 +109 - 339 - 349 +954$|$230 +378 +922 +164 +204 +132 +219 +217 +871 +739$|$907 - 234 +919 - 492 - 120 - 580 +102 +617 +411 +292$|$711 +661 +436 +939 +864 +166 +881 +637 +521 +864$|
+$608+489+163+319+961+312+178+488+723+305$
+
+$933+947+304+775+107+367+929+674+541+434$
+
+$351+551-442+316-341-101+165-117+600+511$
+
+$357+394+228+419+586+828+387+974+721+552$
+
+$615+121+311-185-729+540+807+957-943-501$
+
+$468+726+736+636+344+164+671+712+684+352$
+
+$805-123+335+260-537+233+109-339-349+954$
+
+$230+378+922+164+204+132+219+217+871+739$
+
+$907-234+919-492-120-580+102+617+411+292$
+
+$711+661+436+939+864+166+881+637+521+864$
 
 ### Multiplication and Division
 
@@ -1460,14 +2260,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 142
-[Download Problem Set 142 as an accessible tex file](./files/ProblemSet0142.tex) [Download Problem Set 142 as an accessible word processing file](./files/ProblemSet0142.docx) [Download Problem Set 142 as a markdown file](./files/ProblemSet0142.md)
+[Download Problem Set 142 as an accessible tex file](./files/ProblemSet0142.tex)
+
+[Download Problem Set 142 as an accessible word processing file](./files/ProblemSet0142.docx)
+
+[Download Problem Set 142 as a markdown file](./files/ProblemSet0142.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$235 +611 +181 +816 +391 +518 +225 +319 +868 +460$|$256 +579 +983 +971 +839 +851 +425 +532 +529 +291$|$825 +470 +780 - 359 - 745 +615 - 951 +243 +233 - 805$|$863 +621 +778 +349 +890 +445 +572 +185 +477 +313$|$499 +637 +458 - 287 +584 - 922 - 432 +774 - 914 +475$|$624 +407 +771 +643 +346 +865 +710 +932 +444 +396$|$267 +566 - 246 +521 +700 - 441 - 716 +712 - 955 +917$|$496 +522 +542 +138 +170 +484 +904 +870 +138 +187$|$908 +454 +775 +194 - 640 +828 - 277 - 303 - 671 +193$|$451 +944 +329 +350 +104 +194 +925 +208 +523 +142$|
+$235+611+181+816+391+518+225+319+868+460$
+
+$256+579+983+971+839+851+425+532+529+291$
+
+$825+470+780-359-745+615-951+243+233-805$
+
+$863+621+778+349+890+445+572+185+477+313$
+
+$499+637+458-287+584-922-432+774-914+475$
+
+$624+407+771+643+346+865+710+932+444+396$
+
+$267+566-246+521+700-441-716+712-955+917$
+
+$496+522+542+138+170+484+904+870+138+187$
+
+$908+454+775+194-640+828-277-303-671+193$
+
+$451+944+329+350+104+194+925+208+523+142$
 
 ### Multiplication and Division
 
@@ -1496,14 +2316,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 143
-[Download Problem Set 143 as an accessible tex file](./files/ProblemSet0143.tex) [Download Problem Set 143 as an accessible word processing file](./files/ProblemSet0143.docx) [Download Problem Set 143 as a markdown file](./files/ProblemSet0143.md)
+[Download Problem Set 143 as an accessible tex file](./files/ProblemSet0143.tex)
+
+[Download Problem Set 143 as an accessible word processing file](./files/ProblemSet0143.docx)
+
+[Download Problem Set 143 as a markdown file](./files/ProblemSet0143.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$110 +803 +696 +571 +497 +659 +799 +183 +398 +837$|$828 +355 +389 +529 +819 +979 +501 +169 +899 +907$|$987 - 346 +831 - 476 +627 - 847 - 198 +369 +154 +343$|$178 +348 +806 +633 +964 +371 +636 +654 +248 +515$|$124 +944 +970 - 227 - 194 +114 - 106 - 797 +703 +721$|$814 +842 +879 +122 +639 +531 +908 +851 +614 +345$|$299 +978 +668 - 131 +367 +341 - 687 +826 - 689 - 269$|$820 +385 +811 +458 +531 +794 +632 +749 +551 +556$|$834 +261 +880 +277 +190 +132 - 529 - 449 - 114 - 506$|$969 +806 +358 +328 +441 +306 +982 +263 +953 +702$|
+$110+803+696+571+497+659+799+183+398+837$
+
+$828+355+389+529+819+979+501+169+899+907$
+
+$987-346+831-476+627-847-198+369+154+343$
+
+$178+348+806+633+964+371+636+654+248+515$
+
+$124+944+970-227-194+114-106-797+703+721$
+
+$814+842+879+122+639+531+908+851+614+345$
+
+$299+978+668-131+367+341-687+826-689-269$
+
+$820+385+811+458+531+794+632+749+551+556$
+
+$834+261+880+277+190+132-529-449-114-506$
+
+$969+806+358+328+441+306+982+263+953+702$
 
 ### Multiplication and Division
 
@@ -1532,14 +2372,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 144
-[Download Problem Set 144 as an accessible tex file](./files/ProblemSet0144.tex) [Download Problem Set 144 as an accessible word processing file](./files/ProblemSet0144.docx) [Download Problem Set 144 as a markdown file](./files/ProblemSet0144.md)
+[Download Problem Set 144 as an accessible tex file](./files/ProblemSet0144.tex)
+
+[Download Problem Set 144 as an accessible word processing file](./files/ProblemSet0144.docx)
+
+[Download Problem Set 144 as a markdown file](./files/ProblemSet0144.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$450 +195 +433 +617 +369 +186 +921 +992 +146 +632$|$254 +574 +170 +402 +187 +564 +140 +335 +561 +871$|$600 +653 - 960 +896 +482 +741 - 736 - 491 +355 - 824$|$390 +388 +408 +916 +324 +973 +707 +545 +481 +230$|$126 +611 +872 +881 - 514 - 586 +721 +502 - 182 - 236$|$569 +633 +284 +900 +556 +262 +114 +762 +941 +912$|$625 +238 +885 - 303 +840 +422 +678 - 630 - 227 - 631$|$733 +950 +577 +184 +425 +466 +484 +933 +128 +531$|$268 +175 +454 +906 +825 - 865 - 927 +475 - 664 - 525$|$639 +151 +787 +593 +436 +435 +355 +709 +436 +748$|
+$450+195+433+617+369+186+921+992+146+632$
+
+$254+574+170+402+187+564+140+335+561+871$
+
+$600+653-960+896+482+741-736-491+355-824$
+
+$390+388+408+916+324+973+707+545+481+230$
+
+$126+611+872+881-514-586+721+502-182-236$
+
+$569+633+284+900+556+262+114+762+941+912$
+
+$625+238+885-303+840+422+678-630-227-631$
+
+$733+950+577+184+425+466+484+933+128+531$
+
+$268+175+454+906+825-865-927+475-664-525$
+
+$639+151+787+593+436+435+355+709+436+748$
 
 ### Multiplication and Division
 
@@ -1568,14 +2428,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 145
-[Download Problem Set 145 as an accessible tex file](./files/ProblemSet0145.tex) [Download Problem Set 145 as an accessible word processing file](./files/ProblemSet0145.docx) [Download Problem Set 145 as a markdown file](./files/ProblemSet0145.md)
+[Download Problem Set 145 as an accessible tex file](./files/ProblemSet0145.tex)
+
+[Download Problem Set 145 as an accessible word processing file](./files/ProblemSet0145.docx)
+
+[Download Problem Set 145 as a markdown file](./files/ProblemSet0145.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$602 +544 +750 +959 +536 +465 +838 +325 +927 +813$|$759 +417 +228 +595 +932 +758 +133 +162 +616 +592$|$541 - 420 +500 +455 +277 +135 - 748 +746 - 455 - 310$|$454 +245 +743 +451 +788 +752 +292 +601 +522 +944$|$364 - 246 +531 +567 +400 - 217 +113 - 481 - 243 +454$|$960 +370 +859 +365 +953 +389 +832 +126 +311 +860$|$407 +240 +803 - 552 - 533 +191 +250 - 690 +303 - 226$|$120 +865 +563 +670 +908 +140 +120 +955 +459 +480$|$153 +899 - 555 - 430 +408 +981 +440 - 134 +496 - 910$|$597 +660 +744 +877 +136 +841 +649 +405 +960 +840$|
+$602+544+750+959+536+465+838+325+927+813$
+
+$759+417+228+595+932+758+133+162+616+592$
+
+$541-420+500+455+277+135-748+746-455-310$
+
+$454+245+743+451+788+752+292+601+522+944$
+
+$364-246+531+567+400-217+113-481-243+454$
+
+$960+370+859+365+953+389+832+126+311+860$
+
+$407+240+803-552-533+191+250-690+303-226$
+
+$120+865+563+670+908+140+120+955+459+480$
+
+$153+899-555-430+408+981+440-134+496-910$
+
+$597+660+744+877+136+841+649+405+960+840$
 
 ### Multiplication and Division
 
@@ -1604,14 +2484,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 146
-[Download Problem Set 146 as an accessible tex file](./files/ProblemSet0146.tex) [Download Problem Set 146 as an accessible word processing file](./files/ProblemSet0146.docx) [Download Problem Set 146 as a markdown file](./files/ProblemSet0146.md)
+[Download Problem Set 146 as an accessible tex file](./files/ProblemSet0146.tex)
+
+[Download Problem Set 146 as an accessible word processing file](./files/ProblemSet0146.docx)
+
+[Download Problem Set 146 as a markdown file](./files/ProblemSet0146.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$818 +260 +500 +958 +236 +944 +367 +699 +428 +180$|$905 +690 +336 +523 +570 +582 +940 +461 +773 +433$|$984 +935 +507 +817 - 322 - 297 - 293 +410 - 841 +780$|$226 +402 +699 +189 +508 +389 +986 +509 +776 +186$|$382 +225 +122 - 518 +680 +828 - 896 - 407 +429 - 271$|$593 +459 +649 +784 +208 +813 +342 +639 +493 +705$|$900 +381 - 121 +194 +609 - 980 - 120 - 309 +486 +178$|$172 +507 +828 +914 +103 +254 +904 +131 +718 +619$|$630 - 155 +924 - 122 +174 - 254 - 133 +889 +493 +895$|$359 +842 +176 +756 +933 +775 +212 +212 +102 +857$|
+$818+260+500+958+236+944+367+699+428+180$
+
+$905+690+336+523+570+582+940+461+773+433$
+
+$984+935+507+817-322-297-293+410-841+780$
+
+$226+402+699+189+508+389+986+509+776+186$
+
+$382+225+122-518+680+828-896-407+429-271$
+
+$593+459+649+784+208+813+342+639+493+705$
+
+$900+381-121+194+609-980-120-309+486+178$
+
+$172+507+828+914+103+254+904+131+718+619$
+
+$630-155+924-122+174-254-133+889+493+895$
+
+$359+842+176+756+933+775+212+212+102+857$
 
 ### Multiplication and Division
 
@@ -1640,14 +2540,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 147
-[Download Problem Set 147 as an accessible tex file](./files/ProblemSet0147.tex) [Download Problem Set 147 as an accessible word processing file](./files/ProblemSet0147.docx) [Download Problem Set 147 as a markdown file](./files/ProblemSet0147.md)
+[Download Problem Set 147 as an accessible tex file](./files/ProblemSet0147.tex)
+
+[Download Problem Set 147 as an accessible word processing file](./files/ProblemSet0147.docx)
+
+[Download Problem Set 147 as a markdown file](./files/ProblemSet0147.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$348 +479 +878 +323 +208 +678 +159 +973 +616 +903$|$214 +789 +607 +262 +549 +861 +971 +784 +884 +140$|$745 - 323 +149 +503 +861 +363 - 918 - 468 - 473 +534$|$383 +391 +777 +914 +779 +299 +592 +108 +556 +123$|$355 +652 - 187 +121 +379 - 415 - 411 +581 - 948 +251$|$227 +402 +371 +141 +525 +126 +492 +734 +860 +389$|$868 +517 +729 +948 - 644 - 361 - 175 +755 - 624 +527$|$838 +108 +142 +246 +171 +855 +224 +538 +762 +240$|$687 +720 +738 - 852 - 852 +433 +791 - 697 +596 - 725$|$837 +609 +120 +669 +480 +558 +294 +293 +575 +339$|
+$348+479+878+323+208+678+159+973+616+903$
+
+$214+789+607+262+549+861+971+784+884+140$
+
+$745-323+149+503+861+363-918-468-473+534$
+
+$383+391+777+914+779+299+592+108+556+123$
+
+$355+652-187+121+379-415-411+581-948+251$
+
+$227+402+371+141+525+126+492+734+860+389$
+
+$868+517+729+948-644-361-175+755-624+527$
+
+$838+108+142+246+171+855+224+538+762+240$
+
+$687+720+738-852-852+433+791-697+596-725$
+
+$837+609+120+669+480+558+294+293+575+339$
 
 ### Multiplication and Division
 
@@ -1676,14 +2596,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 148
-[Download Problem Set 148 as an accessible tex file](./files/ProblemSet0148.tex) [Download Problem Set 148 as an accessible word processing file](./files/ProblemSet0148.docx) [Download Problem Set 148 as a markdown file](./files/ProblemSet0148.md)
+[Download Problem Set 148 as an accessible tex file](./files/ProblemSet0148.tex)
+
+[Download Problem Set 148 as an accessible word processing file](./files/ProblemSet0148.docx)
+
+[Download Problem Set 148 as a markdown file](./files/ProblemSet0148.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$812 +478 +652 +217 +900 +151 +324 +218 +675 +155$|$907 +840 +745 +423 +181 +435 +474 +521 +199 +568$|$674 - 243 +889 +793 +398 - 798 - 542 +726 - 427 +862$|$174 +531 +273 +460 +325 +886 +890 +639 +915 +544$|$846 +547 - 241 - 380 +602 - 127 - 594 +965 +433 +131$|$949 +448 +102 +403 +825 +193 +519 +990 +647 +787$|$271 +577 +674 - 644 +795 - 776 +954 - 389 - 820 +524$|$181 +942 +892 +150 +548 +482 +846 +265 +967 +132$|$882 +683 +318 - 208 +823 - 302 +536 - 977 +491 - 169$|$125 +818 +177 +471 +479 +615 +798 +746 +469 +759$|
+$812+478+652+217+900+151+324+218+675+155$
+
+$907+840+745+423+181+435+474+521+199+568$
+
+$674-243+889+793+398-798-542+726-427+862$
+
+$174+531+273+460+325+886+890+639+915+544$
+
+$846+547-241-380+602-127-594+965+433+131$
+
+$949+448+102+403+825+193+519+990+647+787$
+
+$271+577+674-644+795-776+954-389-820+524$
+
+$181+942+892+150+548+482+846+265+967+132$
+
+$882+683+318-208+823-302+536-977+491-169$
+
+$125+818+177+471+479+615+798+746+469+759$
 
 ### Multiplication and Division
 
@@ -1712,14 +2652,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 149
-[Download Problem Set 149 as an accessible tex file](./files/ProblemSet0149.tex) [Download Problem Set 149 as an accessible word processing file](./files/ProblemSet0149.docx) [Download Problem Set 149 as a markdown file](./files/ProblemSet0149.md)
+[Download Problem Set 149 as an accessible tex file](./files/ProblemSet0149.tex)
+
+[Download Problem Set 149 as an accessible word processing file](./files/ProblemSet0149.docx)
+
+[Download Problem Set 149 as a markdown file](./files/ProblemSet0149.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$679 +217 +828 +341 +139 +572 +818 +787 +120 +163$|$125 +823 +979 +934 +465 +487 +760 +228 +310 +890$|$340 +833 - 323 +361 - 545 - 256 +329 - 301 +446 +141$|$112 +388 +115 +189 +676 +186 +192 +119 +498 +782$|$682 - 641 +472 +819 - 168 +422 +543 - 329 - 649 +902$|$989 +178 +640 +567 +320 +189 +226 +247 +593 +606$|$668 - 103 +572 - 126 - 412 +706 - 421 +441 +597 +360$|$565 +341 +811 +515 +157 +478 +639 +383 +535 +204$|$818 +895 +713 - 986 +829 +116 +587 - 975 - 323 - 670$|$456 +926 +750 +406 +430 +590 +385 +544 +990 +934$|
+$679+217+828+341+139+572+818+787+120+163$
+
+$125+823+979+934+465+487+760+228+310+890$
+
+$340+833-323+361-545-256+329-301+446+141$
+
+$112+388+115+189+676+186+192+119+498+782$
+
+$682-641+472+819-168+422+543-329-649+902$
+
+$989+178+640+567+320+189+226+247+593+606$
+
+$668-103+572-126-412+706-421+441+597+360$
+
+$565+341+811+515+157+478+639+383+535+204$
+
+$818+895+713-986+829+116+587-975-323-670$
+
+$456+926+750+406+430+590+385+544+990+934$
 
 ### Multiplication and Division
 
@@ -1748,14 +2708,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 150
-[Download Problem Set 150 as an accessible tex file](./files/ProblemSet0150.tex) [Download Problem Set 150 as an accessible word processing file](./files/ProblemSet0150.docx) [Download Problem Set 150 as a markdown file](./files/ProblemSet0150.md)
+[Download Problem Set 150 as an accessible tex file](./files/ProblemSet0150.tex)
+
+[Download Problem Set 150 as an accessible word processing file](./files/ProblemSet0150.docx)
+
+[Download Problem Set 150 as a markdown file](./files/ProblemSet0150.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$374 +271 +264 +407 +184 +390 +251 +152 +641 +425$|$941 +582 +322 +380 +466 +721 +785 +142 +425 +397$|$812 +962 +636 - 171 - 679 +330 - 240 +257 - 733 +548$|$654 +893 +540 +513 +707 +848 +570 +119 +531 +464$|$778 +890 - 394 +784 - 138 +975 +215 - 173 - 917 +419$|$122 +205 +950 +610 +628 +482 +601 +594 +154 +678$|$932 +363 - 561 - 571 +659 +862 +121 +914 - 650 - 401$|$520 +204 +728 +948 +916 +134 +141 +606 +683 +400$|$136 +936 - 562 +995 +235 +121 - 891 - 911 +918 - 591$|$724 +641 +902 +307 +666 +240 +415 +467 +850 +777$|
+$374+271+264+407+184+390+251+152+641+425$
+
+$941+582+322+380+466+721+785+142+425+397$
+
+$812+962+636-171-679+330-240+257-733+548$
+
+$654+893+540+513+707+848+570+119+531+464$
+
+$778+890-394+784-138+975+215-173-917+419$
+
+$122+205+950+610+628+482+601+594+154+678$
+
+$932+363-561-571+659+862+121+914-650-401$
+
+$520+204+728+948+916+134+141+606+683+400$
+
+$136+936-562+995+235+121-891-911+918-591$
+
+$724+641+902+307+666+240+415+467+850+777$
 
 ### Multiplication and Division
 
@@ -1784,14 +2764,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 151
-[Download Problem Set 151 as an accessible tex file](./files/ProblemSet0151.tex) [Download Problem Set 151 as an accessible word processing file](./files/ProblemSet0151.docx) [Download Problem Set 151 as a markdown file](./files/ProblemSet0151.md)
+[Download Problem Set 151 as an accessible tex file](./files/ProblemSet0151.tex)
+
+[Download Problem Set 151 as an accessible word processing file](./files/ProblemSet0151.docx)
+
+[Download Problem Set 151 as a markdown file](./files/ProblemSet0151.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$510 +725 +143 +357 +204 +700 +541 +664 +883 +213$|$960 +827 +923 +802 +750 +769 +616 +811 +710 +640$|$520 +705 +478 +868 - 252 - 134 +542 - 545 +783 - 684$|$180 +924 +274 +759 +463 +876 +583 +985 +341 +653$|$318 +999 +728 - 117 - 854 +934 +326 +489 - 512 - 351$|$495 +416 +675 +675 +125 +496 +688 +693 +401 +841$|$722 +238 +370 +389 - 794 - 107 - 163 +675 +883 - 863$|$306 +926 +843 +821 +953 +187 +456 +634 +816 +587$|$851 - 773 +258 +854 +984 +796 - 874 - 633 +672 - 546$|$543 +967 +215 +973 +894 +295 +896 +466 +811 +917$|
+$510+725+143+357+204+700+541+664+883+213$
+
+$960+827+923+802+750+769+616+811+710+640$
+
+$520+705+478+868-252-134+542-545+783-684$
+
+$180+924+274+759+463+876+583+985+341+653$
+
+$318+999+728-117-854+934+326+489-512-351$
+
+$495+416+675+675+125+496+688+693+401+841$
+
+$722+238+370+389-794-107-163+675+883-863$
+
+$306+926+843+821+953+187+456+634+816+587$
+
+$851-773+258+854+984+796-874-633+672-546$
+
+$543+967+215+973+894+295+896+466+811+917$
 
 ### Multiplication and Division
 
@@ -1820,14 +2820,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 152
-[Download Problem Set 152 as an accessible tex file](./files/ProblemSet0152.tex) [Download Problem Set 152 as an accessible word processing file](./files/ProblemSet0152.docx) [Download Problem Set 152 as a markdown file](./files/ProblemSet0152.md)
+[Download Problem Set 152 as an accessible tex file](./files/ProblemSet0152.tex)
+
+[Download Problem Set 152 as an accessible word processing file](./files/ProblemSet0152.docx)
+
+[Download Problem Set 152 as a markdown file](./files/ProblemSet0152.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$994 +753 +211 +747 +753 +250 +644 +596 +865 +928$|$149 +101 +264 +413 +668 +544 +365 +523 +252 +237$|$486 +482 - 253 +733 +265 - 222 - 388 +188 - 224 +427$|$445 +915 +718 +997 +769 +779 +280 +522 +107 +666$|$994 +551 +302 - 105 - 234 - 755 +594 +426 +317 - 701$|$111 +380 +457 +923 +218 +589 +764 +965 +707 +718$|$347 +724 - 383 - 591 +433 +782 +660 - 977 - 252 +982$|$964 +552 +387 +997 +642 +404 +282 +963 +951 +365$|$836 - 366 +685 +205 +111 - 848 +799 - 337 +852 - 539$|$847 +907 +754 +895 +788 +212 +319 +883 +802 +905$|
+$994+753+211+747+753+250+644+596+865+928$
+
+$149+101+264+413+668+544+365+523+252+237$
+
+$486+482-253+733+265-222-388+188-224+427$
+
+$445+915+718+997+769+779+280+522+107+666$
+
+$994+551+302-105-234-755+594+426+317-701$
+
+$111+380+457+923+218+589+764+965+707+718$
+
+$347+724-383-591+433+782+660-977-252+982$
+
+$964+552+387+997+642+404+282+963+951+365$
+
+$836-366+685+205+111-848+799-337+852-539$
+
+$847+907+754+895+788+212+319+883+802+905$
 
 ### Multiplication and Division
 
@@ -1856,14 +2876,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 153
-[Download Problem Set 153 as an accessible tex file](./files/ProblemSet0153.tex) [Download Problem Set 153 as an accessible word processing file](./files/ProblemSet0153.docx) [Download Problem Set 153 as a markdown file](./files/ProblemSet0153.md)
+[Download Problem Set 153 as an accessible tex file](./files/ProblemSet0153.tex)
+
+[Download Problem Set 153 as an accessible word processing file](./files/ProblemSet0153.docx)
+
+[Download Problem Set 153 as a markdown file](./files/ProblemSet0153.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$344 +774 +577 +241 +445 +598 +741 +158 +395 +700$|$594 +412 +766 +815 +326 +483 +812 +183 +580 +522$|$997 - 123 +877 +258 +459 - 502 +561 - 348 - 365 +819$|$585 +599 +401 +838 +378 +755 +332 +364 +538 +820$|$515 +132 - 144 +432 +277 - 518 +163 +516 - 194 - 388$|$649 +182 +284 +658 +453 +350 +134 +464 +498 +392$|$911 +852 +765 - 656 - 786 +135 - 957 +169 +237 - 359$|$692 +275 +846 +197 +196 +220 +478 +905 +619 +284$|$203 +863 +237 +758 - 789 - 134 +732 +185 - 282 - 443$|$283 +662 +542 +900 +146 +305 +627 +400 +825 +402$|
+$344+774+577+241+445+598+741+158+395+700$
+
+$594+412+766+815+326+483+812+183+580+522$
+
+$997-123+877+258+459-502+561-348-365+819$
+
+$585+599+401+838+378+755+332+364+538+820$
+
+$515+132-144+432+277-518+163+516-194-388$
+
+$649+182+284+658+453+350+134+464+498+392$
+
+$911+852+765-656-786+135-957+169+237-359$
+
+$692+275+846+197+196+220+478+905+619+284$
+
+$203+863+237+758-789-134+732+185-282-443$
+
+$283+662+542+900+146+305+627+400+825+402$
 
 ### Multiplication and Division
 
@@ -1892,14 +2932,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 154
-[Download Problem Set 154 as an accessible tex file](./files/ProblemSet0154.tex) [Download Problem Set 154 as an accessible word processing file](./files/ProblemSet0154.docx) [Download Problem Set 154 as a markdown file](./files/ProblemSet0154.md)
+[Download Problem Set 154 as an accessible tex file](./files/ProblemSet0154.tex)
+
+[Download Problem Set 154 as an accessible word processing file](./files/ProblemSet0154.docx)
+
+[Download Problem Set 154 as a markdown file](./files/ProblemSet0154.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$726 +451 +278 +749 +268 +157 +450 +257 +755 +809$|$972 +551 +289 +317 +164 +954 +710 +973 +538 +911$|$450 +429 +793 +985 - 510 +871 - 220 - 797 - 102 +718$|$427 +123 +461 +560 +937 +181 +623 +665 +239 +746$|$406 - 388 +779 +363 +553 - 717 - 704 +547 +362 - 809$|$711 +704 +452 +518 +342 +985 +570 +538 +658 +138$|$183 +708 - 293 - 430 +903 - 975 +321 +515 - 862 +179$|$663 +116 +528 +588 +561 +136 +267 +772 +741 +160$|$957 +573 +266 - 303 - 900 - 451 +688 - 510 +947 +231$|$231 +630 +390 +301 +324 +372 +434 +545 +880 +528$|
+$726+451+278+749+268+157+450+257+755+809$
+
+$972+551+289+317+164+954+710+973+538+911$
+
+$450+429+793+985-510+871-220-797-102+718$
+
+$427+123+461+560+937+181+623+665+239+746$
+
+$406-388+779+363+553-717-704+547+362-809$
+
+$711+704+452+518+342+985+570+538+658+138$
+
+$183+708-293-430+903-975+321+515-862+179$
+
+$663+116+528+588+561+136+267+772+741+160$
+
+$957+573+266-303-900-451+688-510+947+231$
+
+$231+630+390+301+324+372+434+545+880+528$
 
 ### Multiplication and Division
 
@@ -1928,14 +2988,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 155
-[Download Problem Set 155 as an accessible tex file](./files/ProblemSet0155.tex) [Download Problem Set 155 as an accessible word processing file](./files/ProblemSet0155.docx) [Download Problem Set 155 as a markdown file](./files/ProblemSet0155.md)
+[Download Problem Set 155 as an accessible tex file](./files/ProblemSet0155.tex)
+
+[Download Problem Set 155 as an accessible word processing file](./files/ProblemSet0155.docx)
+
+[Download Problem Set 155 as a markdown file](./files/ProblemSet0155.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$200 +902 +790 +219 +172 +585 +108 +231 +453 +527$|$398 +502 +785 +674 +656 +599 +972 +291 +699 +294$|$742 +897 +316 +408 +581 - 979 +317 - 316 - 995 - 942$|$429 +115 +890 +990 +773 +548 +562 +324 +755 +443$|$988 +797 - 399 +336 +179 +536 - 729 - 808 - 817 +386$|$270 +764 +886 +974 +899 +547 +958 +190 +837 +807$|$349 +711 +344 +279 +599 - 420 - 236 - 504 - 104 +967$|$590 +409 +438 +724 +267 +478 +104 +843 +969 +661$|$995 - 814 +829 - 388 +814 +873 +879 - 837 +672 - 389$|$932 +890 +177 +606 +188 +129 +497 +438 +777 +396$|
+$200+902+790+219+172+585+108+231+453+527$
+
+$398+502+785+674+656+599+972+291+699+294$
+
+$742+897+316+408+581-979+317-316-995-942$
+
+$429+115+890+990+773+548+562+324+755+443$
+
+$988+797-399+336+179+536-729-808-817+386$
+
+$270+764+886+974+899+547+958+190+837+807$
+
+$349+711+344+279+599-420-236-504-104+967$
+
+$590+409+438+724+267+478+104+843+969+661$
+
+$995-814+829-388+814+873+879-837+672-389$
+
+$932+890+177+606+188+129+497+438+777+396$
 
 ### Multiplication and Division
 
@@ -1964,14 +3044,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 156
-[Download Problem Set 156 as an accessible tex file](./files/ProblemSet0156.tex) [Download Problem Set 156 as an accessible word processing file](./files/ProblemSet0156.docx) [Download Problem Set 156 as a markdown file](./files/ProblemSet0156.md)
+[Download Problem Set 156 as an accessible tex file](./files/ProblemSet0156.tex)
+
+[Download Problem Set 156 as an accessible word processing file](./files/ProblemSet0156.docx)
+
+[Download Problem Set 156 as a markdown file](./files/ProblemSet0156.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$451 +308 +857 +645 +453 +363 +292 +450 +891 +511$|$899 +147 +482 +269 +701 +673 +729 +425 +341 +557$|$917 - 563 +180 +408 - 922 +998 - 434 +820 - 650 +776$|$412 +794 +817 +956 +516 +146 +985 +980 +929 +581$|$821 - 154 +703 +528 +259 - 222 - 198 +195 - 606 +167$|$133 +153 +419 +413 +337 +305 +908 +213 +830 +191$|$368 +770 - 790 +712 - 699 +721 +329 - 263 +368 - 853$|$654 +673 +824 +564 +934 +650 +639 +593 +870 +213$|$424 +699 +186 +560 - 563 +322 +968 - 766 - 225 - 756$|$750 +903 +161 +741 +216 +322 +125 +626 +536 +249$|
+$451+308+857+645+453+363+292+450+891+511$
+
+$899+147+482+269+701+673+729+425+341+557$
+
+$917-563+180+408-922+998-434+820-650+776$
+
+$412+794+817+956+516+146+985+980+929+581$
+
+$821-154+703+528+259-222-198+195-606+167$
+
+$133+153+419+413+337+305+908+213+830+191$
+
+$368+770-790+712-699+721+329-263+368-853$
+
+$654+673+824+564+934+650+639+593+870+213$
+
+$424+699+186+560-563+322+968-766-225-756$
+
+$750+903+161+741+216+322+125+626+536+249$
 
 ### Multiplication and Division
 
@@ -2000,14 +3100,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 157
-[Download Problem Set 157 as an accessible tex file](./files/ProblemSet0157.tex) [Download Problem Set 157 as an accessible word processing file](./files/ProblemSet0157.docx) [Download Problem Set 157 as a markdown file](./files/ProblemSet0157.md)
+[Download Problem Set 157 as an accessible tex file](./files/ProblemSet0157.tex)
+
+[Download Problem Set 157 as an accessible word processing file](./files/ProblemSet0157.docx)
+
+[Download Problem Set 157 as a markdown file](./files/ProblemSet0157.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$697 +972 +149 +212 +384 +118 +618 +292 +478 +469$|$368 +408 +998 +155 +734 +906 +314 +697 +996 +999$|$544 - 470 +403 - 170 +748 +457 +400 - 460 +244 - 585$|$609 +409 +305 +228 +712 +597 +518 +298 +656 +858$|$790 +903 +420 +162 - 416 +439 - 312 - 354 +625 - 778$|$495 +106 +221 +184 +156 +754 +530 +848 +540 +705$|$221 +905 - 735 +286 +442 - 346 +160 - 560 +378 - 100$|$350 +458 +697 +552 +338 +761 +309 +318 +643 +412$|$435 +434 +881 - 596 +296 +141 +959 - 177 - 221 - 794$|$505 +937 +547 +465 +958 +624 +786 +180 +593 +272$|
+$697+972+149+212+384+118+618+292+478+469$
+
+$368+408+998+155+734+906+314+697+996+999$
+
+$544-470+403-170+748+457+400-460+244-585$
+
+$609+409+305+228+712+597+518+298+656+858$
+
+$790+903+420+162-416+439-312-354+625-778$
+
+$495+106+221+184+156+754+530+848+540+705$
+
+$221+905-735+286+442-346+160-560+378-100$
+
+$350+458+697+552+338+761+309+318+643+412$
+
+$435+434+881-596+296+141+959-177-221-794$
+
+$505+937+547+465+958+624+786+180+593+272$
 
 ### Multiplication and Division
 
@@ -2036,14 +3156,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 158
-[Download Problem Set 158 as an accessible tex file](./files/ProblemSet0158.tex) [Download Problem Set 158 as an accessible word processing file](./files/ProblemSet0158.docx) [Download Problem Set 158 as a markdown file](./files/ProblemSet0158.md)
+[Download Problem Set 158 as an accessible tex file](./files/ProblemSet0158.tex)
+
+[Download Problem Set 158 as an accessible word processing file](./files/ProblemSet0158.docx)
+
+[Download Problem Set 158 as a markdown file](./files/ProblemSet0158.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$695 +150 +851 +527 +981 +654 +857 +473 +486 +634$|$503 +180 +625 +921 +729 +383 +831 +540 +652 +364$|$656 +460 +681 - 193 - 761 +565 +630 - 616 +337 - 636$|$162 +169 +977 +377 +959 +715 +167 +888 +870 +188$|$214 +218 - 169 +187 +896 - 133 +430 - 541 +782 - 578$|$945 +955 +395 +786 +207 +766 +339 +560 +100 +742$|$630 +457 +677 - 545 +648 - 173 +510 +504 - 668 - 918$|$367 +672 +482 +492 +291 +257 +306 +114 +491 +371$|$236 +801 +189 - 341 - 342 +891 - 564 - 831 +765 +197$|$987 +331 +897 +950 +861 +208 +326 +237 +123 +587$|
+$695+150+851+527+981+654+857+473+486+634$
+
+$503+180+625+921+729+383+831+540+652+364$
+
+$656+460+681-193-761+565+630-616+337-636$
+
+$162+169+977+377+959+715+167+888+870+188$
+
+$214+218-169+187+896-133+430-541+782-578$
+
+$945+955+395+786+207+766+339+560+100+742$
+
+$630+457+677-545+648-173+510+504-668-918$
+
+$367+672+482+492+291+257+306+114+491+371$
+
+$236+801+189-341-342+891-564-831+765+197$
+
+$987+331+897+950+861+208+326+237+123+587$
 
 ### Multiplication and Division
 
@@ -2072,14 +3212,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 159
-[Download Problem Set 159 as an accessible tex file](./files/ProblemSet0159.tex) [Download Problem Set 159 as an accessible word processing file](./files/ProblemSet0159.docx) [Download Problem Set 159 as a markdown file](./files/ProblemSet0159.md)
+[Download Problem Set 159 as an accessible tex file](./files/ProblemSet0159.tex)
+
+[Download Problem Set 159 as an accessible word processing file](./files/ProblemSet0159.docx)
+
+[Download Problem Set 159 as a markdown file](./files/ProblemSet0159.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$126 +569 +447 +540 +672 +797 +343 +144 +845 +401$|$770 +531 +317 +492 +234 +447 +772 +114 +681 +355$|$158 +738 - 559 +446 - 245 +370 +968 +565 - 876 - 839$|$801 +352 +671 +411 +320 +472 +872 +558 +185 +695$|$975 +555 - 315 - 785 +126 +110 - 176 +287 +209 - 316$|$859 +184 +120 +461 +710 +693 +767 +414 +769 +658$|$543 - 403 +600 - 461 +671 - 271 +893 - 773 +111 +477$|$245 +583 +700 +851 +220 +961 +946 +150 +590 +822$|$997 - 689 +827 - 205 +250 +465 +808 - 197 +543 - 804$|$209 +874 +983 +549 +880 +101 +811 +674 +658 +269$|
+$126+569+447+540+672+797+343+144+845+401$
+
+$770+531+317+492+234+447+772+114+681+355$
+
+$158+738-559+446-245+370+968+565-876-839$
+
+$801+352+671+411+320+472+872+558+185+695$
+
+$975+555-315-785+126+110-176+287+209-316$
+
+$859+184+120+461+710+693+767+414+769+658$
+
+$543-403+600-461+671-271+893-773+111+477$
+
+$245+583+700+851+220+961+946+150+590+822$
+
+$997-689+827-205+250+465+808-197+543-804$
+
+$209+874+983+549+880+101+811+674+658+269$
 
 ### Multiplication and Division
 
@@ -2108,14 +3268,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 160
-[Download Problem Set 160 as an accessible tex file](./files/ProblemSet0160.tex) [Download Problem Set 160 as an accessible word processing file](./files/ProblemSet0160.docx) [Download Problem Set 160 as a markdown file](./files/ProblemSet0160.md)
+[Download Problem Set 160 as an accessible tex file](./files/ProblemSet0160.tex)
+
+[Download Problem Set 160 as an accessible word processing file](./files/ProblemSet0160.docx)
+
+[Download Problem Set 160 as a markdown file](./files/ProblemSet0160.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$297 +364 +319 +474 +671 +717 +872 +706 +361 +744$|$606 +538 +813 +187 +536 +985 +411 +386 +898 +256$|$522 +446 +527 - 777 +616 +517 - 111 +590 - 434 - 598$|$934 +924 +772 +465 +988 +460 +135 +498 +304 +906$|$310 +763 - 748 +217 +759 - 342 +886 +787 - 411 - 157$|$638 +591 +105 +232 +429 +207 +132 +115 +670 +890$|$235 +434 - 382 - 129 +273 - 413 +839 - 651 +904 +628$|$310 +764 +332 +232 +781 +236 +569 +125 +334 +869$|$209 +255 - 357 +585 - 580 +750 +978 +768 - 959 - 908$|$363 +620 +272 +250 +450 +290 +335 +755 +792 +720$|
+$297+364+319+474+671+717+872+706+361+744$
+
+$606+538+813+187+536+985+411+386+898+256$
+
+$522+446+527-777+616+517-111+590-434-598$
+
+$934+924+772+465+988+460+135+498+304+906$
+
+$310+763-748+217+759-342+886+787-411-157$
+
+$638+591+105+232+429+207+132+115+670+890$
+
+$235+434-382-129+273-413+839-651+904+628$
+
+$310+764+332+232+781+236+569+125+334+869$
+
+$209+255-357+585-580+750+978+768-959-908$
+
+$363+620+272+250+450+290+335+755+792+720$
 
 ### Multiplication and Division
 
@@ -2144,14 +3324,34 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 
 
 ## Problem Set 161
-[Download Problem Set 161 as an accessible tex file](./files/ProblemSet0161.tex) [Download Problem Set 161 as an accessible word processing file](./files/ProblemSet0161.docx) [Download Problem Set 161 as a markdown file](./files/ProblemSet0161.md)
+[Download Problem Set 161 as an accessible tex file](./files/ProblemSet0161.tex)
+
+[Download Problem Set 161 as an accessible word processing file](./files/ProblemSet0161.docx)
+
+[Download Problem Set 161 as a markdown file](./files/ProblemSet0161.md)
 
 
 ### Addition and Subtraction
 
-| Problem 1 |Problem 2 |Problem 3| Problem 4 | Problem 5 | Problem 6 |Problem 7 |Problem 8 | Problem 9| Problem 10|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-|$981 +253 +777 +523 +329 +220 +447 +992 +574 +303$|$729 +571 +201 +808 +993 +632 +776 +274 +625 +867$|$645 +305 +866 +467 +381 - 292 - 802 - 212 - 604 +214$|$120 +328 +975 +620 +633 +995 +933 +926 +317 +501$|$722 +933 +896 - 277 +119 - 999 +703 - 793 +696 - 163$|$356 +833 +627 +731 +142 +321 +518 +555 +302 +852$|$688 +281 - 173 +843 +938 +208 +817 - 186 - 445 - 767$|$216 +832 +273 +946 +176 +789 +875 +376 +698 +663$|$494 +964 +830 - 705 - 372 +564 +232 - 417 - 287 +700$|$928 +814 +709 +381 +557 +480 +615 +564 +200 +406$|
+$981+253+777+523+329+220+447+992+574+303$
+
+$729+571+201+808+993+632+776+274+625+867$
+
+$645+305+866+467+381-292-802-212-604+214$
+
+$120+328+975+620+633+995+933+926+317+501$
+
+$722+933+896-277+119-999+703-793+696-163$
+
+$356+833+627+731+142+321+518+555+302+852$
+
+$688+281-173+843+938+208+817-186-445-767$
+
+$216+832+273+946+176+789+875+376+698+663$
+
+$494+964+830-705-372+564+232-417-287+700$
+
+$928+814+709+381+557+480+615+564+200+406$|
 
 
 
@@ -2178,10 +3378,32 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 |$753 \cdot  39$ |$3,673÷37$ |
 |$528 \cdot  72$ |$730÷79$ |
 ## Problem Set 162
-[Download Problem Set 162 as an accessible tex file](./files/ProblemSet0162.tex) [Download Problem Set 162 as an accessible word processing file](./files/ProblemSet0162.docx) [Download Problem Set 162 as a markdown file](./files/ProblemSet0162.md)
+[Download Problem Set 162 as an accessible tex file](./files/ProblemSet0162.tex)
+
+[Download Problem Set 162 as an accessible word processing file](./files/ProblemSet0162.docx)
+
+[Download Problem Set 162 as a markdown file](./files/ProblemSet0162.md)
 
 ### Addition and Subtraction
-|$323 +368 +784 +893 +969 +363 +239 +861 +611 +482$|$815 +215 +624 +529 +801 +289 +167 +411 +696 +168$|$625 +943 +635 +126 +946 - 143 - 856 +475 - 204 - 385$|$106 +911 +260 +910 +968 +730 +677 +383 +166 +364$|$678 +838 - 302 - 189 +858 +291 +233 - 718 +516 - 419$|$411 +329 +600 +286 +151 +921 +661 +767 +108 +483$|$910 +350 +795 - 782 - 659 +940 +888 +797 - 828 - 835$|$345 +862 +554 +686 +618 +345 +915 +848 +206 +583$|$806 +531 - 223 +181 +850 - 690 - 614 +737 +842 - 665$|$924 +918 +616 +385 +717 +549 +747 +313 +394 +436$|
+|$323+368+784+893+969+363+239+861+611+482$
+
+$815+215+624+529+801+289+167+411+696+168$
+
+$625+943+635+126+946-143-856+475-204-385$
+
+$106+911+260+910+968+730+677+383+166+364$
+
+$678+838-302-189+858+291+233-718+516-419$
+
+$411+329+600+286+151+921+661+767+108+483$
+
+$910+350+795-782-659+940+888+797-828-835$
+
+$345+862+554+686+618+345+915+848+206+583$
+
+$806+531-223+181+850-690-614+737+842-665$
+
+$924+918+616+385+717+549+747+313+394+436$
 
 ### Multiplication and Division
 
@@ -2209,10 +3431,32 @@ Check your answers with a calculator afterward. Rework any problems with mistake
 |$690 \cdot  34$ |$842÷90$ |
 
 ## Problem Set 163
-[Download Problem Set 163 as an accessible tex file](./files/ProblemSet0163.tex) [Download Problem Set 163 as an accessible word processing file](./files/ProblemSet0163.docx) [Download Problem Set 163 as a markdown file](./files/ProblemSet0163.md)
+[Download Problem Set 163 as an accessible tex file](./files/ProblemSet0163.tex)
+
+[Download Problem Set 163 as an accessible word processing file](./files/ProblemSet0163.docx)
+
+[Download Problem Set 163 as a markdown file](./files/ProblemSet0163.md)
 
 ### Addition and Subtraction
-|$323 +368 +784 +893 +969 +363 +239 +861 +611 +482$|$815 +215 +624 +529 +801 +289 +167 +411 +696 +168$|$625 +943 +635 +126 +946 - 143 - 856 +475 - 204 - 385$|$106 +911 +260 +910 +968 +730 +677 +383 +166 +364$|$678 +838 - 302 - 189 +858 +291 +233 - 718 +516 - 419$|$411 +329 +600 +286 +151 +921 +661 +767 +108 +483$|$910 +350 +795 - 782 - 659 +940 +888 +797 - 828 - 835$|$345 +862 +554 +686 +618 +345 +915 +848 +206 +583$|$806 +531 - 223 +181 +850 - 690 - 614 +737 +842 - 665$|$924 +918 +616 +385 +717 +549 +747 +313 +394 +436$|
+|$323+368+784+893+969+363+239+861+611+482$
+
+$815+215+624+529+801+289+167+411+696+168$
+
+$625+943+635+126+946-143-856+475-204-385$
+
+$106+911+260+910+968+730+677+383+166+364$
+
+$678+838-302-189+858+291+233-718+516-419$
+
+$411+329+600+286+151+921+661+767+108+483$
+
+$910+350+795-782-659+940+888+797-828-835$
+
+$345+862+554+686+618+345+915+848+206+583$
+
+$806+531-223+181+850-690-614+737+842-665$
+
+$924+918+616+385+717+549+747+313+394+436$
 
 ### Multiplication and Division
 
