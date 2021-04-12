@@ -10158,7 +10158,8 @@ $7,719+9,572+1,918+1,957+4,191+8,193+1,386+3,287+1,549+5,869$
 Complete each set of additions and subtractions, multiplications, and divisions as rapidly as possible while maintaining accuracy. 
 
 Check your answers with a calculator afterward. Rework any problems with mistakes.
-##Problem Set 224
+
+## Problem Set 224
 
 ### Addition and Subtraction
 
@@ -14297,6 +14298,7 @@ $464,705+123,488+789,208+486,562+583,755+217,479+478,972+114,333+603,403+203,501
 |$67,533\cdot93$ |$48,214÷52.2$ |
 |$9,699\cdot0.931$ |$89÷0.43$ |
 |$6,967\cdot510$ |$84,890÷62.5$ |
+
 ## Problem Set 308
 
 ### Addition and Subtraction

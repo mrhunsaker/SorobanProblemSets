@@ -15,7 +15,10 @@
 Complete each set of additions and subtractions, multiplications, and divisions as rapidly as possible while maintaining accuracy. 
 
 Check your answers with a calculator afterward. Rework any problems with mistakes.
+
 ##Problem Set 224
+
+[Download Problem Set 224 as an accessible tex file](./files/ProblemSet0224.tex) [Download Problem Set 224 as an accessible word processing file](./files/ProblemSet0224.docx) [Download Problem Set 224 as a markdown file](./files/ProblemSet0224.md)
 
 ### Addition and Subtraction
 
