@@ -1,3 +1,6 @@
+layout: page
+title: "Soroban Abacus Practice Sets"
+permalink: /index/
 # Soroban / Cranmer Abacus Problem Sets
 
 To pass an exam, you're supposed to complete a \"10 additions\" table in

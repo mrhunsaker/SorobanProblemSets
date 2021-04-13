@@ -1,3 +1,8 @@
+---
+layout: page
+title: "8th Kyu"
+permalink: /kyu/8thKyu/
+---
 # 8th Kyu
 
 ### Abacus Fluency Problem Sets

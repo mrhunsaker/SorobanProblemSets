@@ -1,3 +1,8 @@
+---
+layout: page
+title: "4th Kyu"
+permalink: /kyu/4thKyu/
+---
 # 4th kyu 
 
 ### Abacus Fluency Problem Sets

@@ -1,3 +1,8 @@
+---
+layout: page
+title: "3rd Kyu"
+permalink: /kyu/3rdKyu/
+---
 # 3rd Kyu
 
 

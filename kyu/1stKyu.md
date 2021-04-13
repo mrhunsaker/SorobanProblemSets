@@ -1,3 +1,9 @@
+---
+layout: page
+title: "1st Kyu"
+permalink: /kyu/1stKyu/
+---
+
 # 1st Kyu
 
 ### Abacus Fluency Problem Sets
