@@ -1,6 +1,9 @@
+---
 layout: page
-title: "Soroban Abacus Practice Sets"
-permalink: /index/
+title: "Soroban Abacus Home"
+permalink: /SorobanAbacus/index/
+---
+
 # Soroban / Cranmer Abacus Problem Sets
 
 To pass an exam, you're supposed to complete a \"10 additions\" table in
@@ -17,33 +20,33 @@ is the highly advanced and 8th kyu is beginner level.
 
 ## See and download problem sets by Kyu level:
 
-[Go to 8th Kyu (Beginner)](/kyu/8thKyu.md)
+[Go to 8th Kyu (Beginner)](/SorobanAbacus/kyu/8thKyu)
 
-[Go to 7th Kyu](/kyu/7thKyu.md)
+[Go to 7th Kyu](/SorobanAbacus/kyu/7thKyu)
 
-[Go to 6th Kyu](/kyu/6thKyu.mdl)
+[Go to 6th Kyu](/SorobanAbacus/kyu/6thKyu)
 
-[Go to 5th Kyu](/kyu/5thKyu.mdl)
+[Go to 5th Kyu](/SorobanAbacus/kyu/5thKyu)
 
-[Go to 4th Kyu](/kyu/4thKyu.mdl)
+[Go to 4th Kyu](/SorobanAbacus/kyu/4thKyu)
 
-[Go to 3rd Kyu](/kyu/3rdKyu.mdl)
+[Go to 3rd Kyu](/SorobanAbacus/kyu/3rdKyu)
 
-[Go to 2nd Kyu](/kyu/2ndKyu.md)
+[Go to 2nd Kyu](/SorobanAbacus/kyu/2ndKyu)
 
-[Go to 1st Kyu (Advanced)](/kyu/1stKyu.md)
+[Go to 1st Kyu (Advanced)](/SorobanAbacus/kyu/1stKyu)
 
 ------------------------------------------------------------------------
 
 ## Download all problem sets as a single file:
 
 [Download all Problem Sets as a single accessible epub
-file](/files/AbacusWorkbook.epub)
+file](/SorobanAbacus/files/AbacusWorkbook.epub)
 
 [Download all Problem Sets as a single accessible word processing
-file](/files/AbacusWorkbook.docx)
+file](/SorobanAbacus/files/AbacusWorkbook.docx)
 
 [Download all Problem Sets as a single accessible Tex
-file](/files/AbacusWorkbook.tex)
+file](/SorobanAbacus/files/AbacusWorkbook.tex)
 
 ------------------------------------------------------------------------
