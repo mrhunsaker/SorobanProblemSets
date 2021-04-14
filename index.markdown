@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Hunsaker Consulting Home Page"
-permalink: /index/
+title: "Home"
+permalink: SorobanAbacus/index
 
 ---
 

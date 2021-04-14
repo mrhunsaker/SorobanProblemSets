@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Soroban Abacus Home"
-permalink: /SorobanAbacus/index/
+permalink: SorobanAbacus/index/
 ---
 
 # Soroban / Cranmer Abacus Problem Sets
