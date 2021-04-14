@@ -2,6 +2,7 @@
 layout: page
 title: "Soroban Abacus Home"
 permalink: SorobanAbacus/index/
+usemathjax: true
 ---
 
 # Soroban / Cranmer Abacus Problem Sets

@@ -2,7 +2,5 @@
 layout: page
 title: "Home"
 permalink: index
-
+usemathjax: true
 ---
-
-[Link to Soroban Abacus Problem Sets Page]({{ site.baseurl }}{% link SorobanAbacus/index.markdown %}) 

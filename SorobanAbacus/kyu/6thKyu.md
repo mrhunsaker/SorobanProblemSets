@@ -2,6 +2,7 @@
 layout: page
 title: "6th Kyu"
 permalink: SorobanAbacus/kyu/6thKyu
+usemathjax: true
 ---
 
 # 6th Kyu
