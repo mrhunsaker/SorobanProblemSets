@@ -5,4 +5,4 @@ permalink: /index/
 
 ---
 
-[Link to Soroban Abacus Problem Sets Page](/SorobanAbacus/index) 
+[Link to Soroban Abacus Problem Sets Page](/SorobanAbacus/index.html) 
