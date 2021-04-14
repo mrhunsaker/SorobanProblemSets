@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Home"
-permalink: SorobanAbacus/index
+permalink: index
 
 ---
 
