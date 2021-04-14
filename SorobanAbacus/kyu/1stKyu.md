@@ -1,9 +1,3 @@
----
-layout: page
-title: "1st Kyu"
-permalink: /SorobanAbacus/kyu/1stKyu/
----
-
 # 1st Kyu
 
 ### Abacus Fluency Problem Sets
@@ -25,11 +19,11 @@ Each problem set below is designed to be completed in 30 minutes at a criterion 
 
 
 ## Problem Set 382
-[Download Problem Set 382 as an accessible tex file](/SorobanAbacus/files/ProblemSet0382.tex)
+[Download Problem Set 382 as an accessible tex file](files/ProblemSet0382.tex)
 
-[Download Problem Set 382 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0382.docx)
+[Download Problem Set 382 as an accessible word processing file](files/ProblemSet0382.docx)
 
-[Download Problem Set 382 as a markdown file](/SorobanAbacus/files/ProblemSet0382.txt)
+[Download Problem Set 382 as a markdown file](files/ProblemSet0382.txt)
 
 ### Addition and Subtraction
 
@@ -79,11 +73,11 @@ $7,422,639,665+7,076,933,884+8,694,278,833+2,791,541,313+4,843,424,252+4,585,970
 | $182,422 x 29,710$ | $9,808,125,520÷313,559$ |
 
 ## Problem Set 383
-[Download Problem Set 383 as an accessible tex file](/SorobanAbacus/files/ProblemSet0383.tex)
+[Download Problem Set 383 as an accessible tex file](files/ProblemSet0383.tex)
 
-[Download Problem Set 383 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0383.docx)
+[Download Problem Set 383 as an accessible word processing file](files/ProblemSet0383.docx)
 
-[Download Problem Set 383 as a markdown file](/SorobanAbacus/files/ProblemSet0383.txt)
+[Download Problem Set 383 as a markdown file](files/ProblemSet0383.txt)
 
 ### Addition and Subtraction
 
@@ -133,11 +127,11 @@ $8,818,424,975+3,881,027,020+7,667,665,521+7,273,115,872+3,267,241,482+5,020,435
 | $468,160\cdot70,823$ | $5,569,925,166÷702,741$ |
 
 ## Problem Set 384
-[Download Problem Set 384 as an accessible tex file](/SorobanAbacus/files/ProblemSet0384.tex)
+[Download Problem Set 384 as an accessible tex file](files/ProblemSet0384.tex)
 
-[Download Problem Set 384 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0384.docx)
+[Download Problem Set 384 as an accessible word processing file](files/ProblemSet0384.docx)
 
-[Download Problem Set 384 as a markdown file](/SorobanAbacus/files/ProblemSet0384.txt)
+[Download Problem Set 384 as a markdown file](files/ProblemSet0384.txt)
 
 ### Addition and Subtraction
 
@@ -187,11 +181,11 @@ $4,846,283,792+7,463,703,276+7,926,478,344+9,402,457,784+8,562,977,154+4,177,602
 | $200,655\cdot69,312$ | $6,006,441,684÷822,012$ |
 
 ## Problem Set 385
-[Download Problem Set 385 as an accessible tex file](/SorobanAbacus/files/ProblemSet0385.tex)
+[Download Problem Set 385 as an accessible tex file](files/ProblemSet0385.tex)
 
-[Download Problem Set 385 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0385.docx)
+[Download Problem Set 385 as an accessible word processing file](files/ProblemSet0385.docx)
 
-[Download Problem Set 385 as a markdown file](/SorobanAbacus/files/ProblemSet0385.txt)
+[Download Problem Set 385 as a markdown file](files/ProblemSet0385.txt)
 
 ### Addition and Subtraction
 
@@ -241,11 +235,11 @@ $7,821,693,177+7,300,560,718+2,381,236,533+7,911,991,335+3,314,947,654+9,898,728
 | $791,311\cdot43,122$ | $8,803,237,102÷184,018$ |
 
 ## Problem Set 386
-[Download Problem Set 386 as an accessible tex file](/SorobanAbacus/files/ProblemSet0386.tex)
+[Download Problem Set 386 as an accessible tex file](files/ProblemSet0386.tex)
 
-[Download Problem Set 386 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0386.docx)
+[Download Problem Set 386 as an accessible word processing file](files/ProblemSet0386.docx)
 
-[Download Problem Set 386 as a markdown file](/SorobanAbacus/files/ProblemSet0386.txt)
+[Download Problem Set 386 as a markdown file](files/ProblemSet0386.txt)
 
 ### Addition and Subtraction
 
@@ -295,11 +289,11 @@ $2,655,389,061+8,893,931,846+7,299,523,004+8,030,881,742+5,729,231,129+2,087,577
 | $324,916\cdot68,151$ | $8,862,515,984÷453,488$ |
 
 ## Problem Set 387
-[Download Problem Set 387 as an accessible tex file](/SorobanAbacus/files/ProblemSet0387.tex)
+[Download Problem Set 387 as an accessible tex file](files/ProblemSet0387.tex)
 
-[Download Problem Set 387 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0387.docx)
+[Download Problem Set 387 as an accessible word processing file](files/ProblemSet0387.docx)
 
-[Download Problem Set 387 as a markdown file](/SorobanAbacus/files/ProblemSet0387.txt)
+[Download Problem Set 387 as a markdown file](files/ProblemSet0387.txt)
 
 ### Addition and Subtraction
 
@@ -349,11 +343,11 @@ $7,467,564,872+6,497,359,566+1,103,993,666+1,019,744,700+6,456,476,413+6,048,001
 | $946,883\cdot61,055$ | $4,602,350,056÷615,452$ |
 
 ## Problem Set 388
-[Download Problem Set 388 as an accessible tex file](/SorobanAbacus/files/ProblemSet0388.tex)
+[Download Problem Set 388 as an accessible tex file](files/ProblemSet0388.tex)
 
-[Download Problem Set 388 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0388.docx)
+[Download Problem Set 388 as an accessible word processing file](files/ProblemSet0388.docx)
 
-[Download Problem Set 388 as a markdown file](/SorobanAbacus/files/ProblemSet0388.txt)
+[Download Problem Set 388 as a markdown file](files/ProblemSet0388.txt)
 
 ### Addition and Subtraction
 
@@ -403,11 +397,11 @@ $6,326,660,342+9,970,594,804+7,102,989,262+4,989,804,714+2,025,615,229+4,863,203
 | $362,080\cdot42,953$ | $1,398,931,948 ÷210,746$ |
 
 ## Problem Set 389
-[Download Problem Set 389 as an accessible tex file](/SorobanAbacus/files/ProblemSet0389.tex)
+[Download Problem Set 389 as an accessible tex file](files/ProblemSet0389.tex)
 
-[Download Problem Set 389 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0389.docx)
+[Download Problem Set 389 as an accessible word processing file](files/ProblemSet0389.docx)
 
-[Download Problem Set 389 as a markdown file](/SorobanAbacus/files/ProblemSet0389.txt)
+[Download Problem Set 389 as a markdown file](files/ProblemSet0389.txt)
 
 ### Addition and Subtraction
 
@@ -457,11 +451,11 @@ $5,798,320,115+1,842,494,742+8,838,175,831+1,327,409,376+1,344,582,420+1,743,619
 | $286,230\cdot93,775$ | $5,917,035,264÷233,248$ |
 
 ## Problem Set 390
-[Download Problem Set 390 as an accessible tex file](/SorobanAbacus/files/ProblemSet0390.tex)
+[Download Problem Set 390 as an accessible tex file](files/ProblemSet0390.tex)
 
-[Download Problem Set 390 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0390.docx)
+[Download Problem Set 390 as an accessible word processing file](files/ProblemSet0390.docx)
 
-[Download Problem Set 390 as a markdown file](/SorobanAbacus/files/ProblemSet0390.txt)
+[Download Problem Set 390 as a markdown file](files/ProblemSet0390.txt)
 
 ### Addition and Subtraction
 
@@ -511,11 +505,11 @@ $4,179,236,322+5,991,779,535+9,342,418,090+3,115,470,956+9,770,400,460+1,163,535
 | $352,219\cdot26,796$ | $6,458,413,500÷228,900$ |
 
 ## Problem Set 391
-[Download Problem Set 391 as an accessible tex file](/SorobanAbacus/files/ProblemSet0391.tex)
+[Download Problem Set 391 as an accessible tex file](files/ProblemSet0391.tex)
 
-[Download Problem Set 391 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0391.docx)
+[Download Problem Set 391 as an accessible word processing file](files/ProblemSet0391.docx)
 
-[Download Problem Set 391 as a markdown file](/SorobanAbacus/files/ProblemSet0391.txt)
+[Download Problem Set 391 as a markdown file](files/ProblemSet0391.txt)
 
 ### Addition and Subtraction
 
@@ -565,11 +559,11 @@ $4,185,019,973+2,832,178,919+2,987,605,376+7,849,455,785+8,289,506,227+3,506,196
 | $883,067\cdot23,263$ | $6,584,164,239÷737,391$ |
 
 ## Problem Set 392
-[Download Problem Set 392 as an accessible tex file](/SorobanAbacus/files/ProblemSet0392.tex)
+[Download Problem Set 392 as an accessible tex file](files/ProblemSet0392.tex)
 
-[Download Problem Set 392 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0392.docx)
+[Download Problem Set 392 as an accessible word processing file](files/ProblemSet0392.docx)
 
-[Download Problem Set 392 as a markdown file](/SorobanAbacus/files/ProblemSet0392.txt)
+[Download Problem Set 392 as a markdown file](files/ProblemSet0392.txt)
 
 ### Addition and Subtraction
 
@@ -619,11 +613,11 @@ $5,033,848,299+2,534,167,678+9,296,228,302+6,340,750,951+1,908,134,022+1,540,432
 | $925,809\cdot49,614$ | $7,041,851,630÷614,365$ |
 
 ## Problem Set 393
-[Download Problem Set 393 as an accessible tex file](/SorobanAbacus/files/ProblemSet0393.tex)
+[Download Problem Set 393 as an accessible tex file](files/ProblemSet0393.tex)
 
-[Download Problem Set 393 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0393.docx)
+[Download Problem Set 393 as an accessible word processing file](files/ProblemSet0393.docx)
 
-[Download Problem Set 393 as a markdown file](/SorobanAbacus/files/ProblemSet0393.txt)
+[Download Problem Set 393 as a markdown file](files/ProblemSet0393.txt)
 
 ### Addition and Subtraction
 
@@ -673,11 +667,11 @@ $6,332,298,295+8,376,849,909+9,188,289,608+9,695,781,382+9,177,118,859+4,419,486
 | $421,875\cdot66,918$ | $7,079,946,720÷343,420$ |
 
 ## Problem Set 394
-[Download Problem Set 394 as an accessible tex file](/SorobanAbacus/files/ProblemSet0394.tex)
+[Download Problem Set 394 as an accessible tex file](files/ProblemSet0394.tex)
 
-[Download Problem Set 394 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0394.docx)
+[Download Problem Set 394 as an accessible word processing file](files/ProblemSet0394.docx)
 
-[Download Problem Set 394 as a markdown file](/SorobanAbacus/files/ProblemSet0394.txt)
+[Download Problem Set 394 as a markdown file](files/ProblemSet0394.txt)
 
 ### Addition and Subtraction
 
@@ -727,11 +721,11 @@ $9,155,580,728+7,213,305,039+7,361,689,219+1,026,353,218+5,057,360,592+4,896,487
 | $549,541\cdot90,509$ | $3,936,310,560÷793,611$ |
 
 ## Problem Set 395
-[Download Problem Set 395 as an accessible tex file](/SorobanAbacus/files/ProblemSet0395.tex)
+[Download Problem Set 395 as an accessible tex file](files/ProblemSet0395.tex)
 
-[Download Problem Set 395 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0395.docx)
+[Download Problem Set 395 as an accessible word processing file](files/ProblemSet0395.docx)
 
-[Download Problem Set 395 as a markdown file](/SorobanAbacus/files/ProblemSet0395.txt)
+[Download Problem Set 395 as a markdown file](files/ProblemSet0395.txt)
 
 ### Addition and Subtraction
 
@@ -781,11 +775,11 @@ $1,690,157,583+9,338,051,680+6,528,688,991+8,813,842,790+2,924,812,987+7,826,077
 | $474,030\cdot96,592$ | $5,917,442,860÷944,524$ |
 
 ## Problem Set 396
-[Download Problem Set 396 as an accessible tex file](/SorobanAbacus/files/ProblemSet0396.tex)
+[Download Problem Set 396 as an accessible tex file](files/ProblemSet0396.tex)
 
-[Download Problem Set 396 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0396.docx)
+[Download Problem Set 396 as an accessible word processing file](files/ProblemSet0396.docx)
 
-[Download Problem Set 396 as a markdown file](/SorobanAbacus/files/ProblemSet0396.txt)
+[Download Problem Set 396 as a markdown file](files/ProblemSet0396.txt)
 
 ### Addition and Subtraction
 
@@ -835,11 +829,11 @@ $7,170,754,392+6,711,977,561+8,727,477,552+4,731,045,416+8,759,606,502+2,449,999
 | $369,631\cdot39,849$ | $1,357,542,336÷164,431$ |
 
 ## Problem Set 397
-[Download Problem Set 397 as an accessible tex file](/SorobanAbacus/files/ProblemSet0397.tex)
+[Download Problem Set 397 as an accessible tex file](files/ProblemSet0397.tex)
 
-[Download Problem Set 397 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0397.docx)
+[Download Problem Set 397 as an accessible word processing file](files/ProblemSet0397.docx)
 
-[Download Problem Set 397 as a markdown file](/SorobanAbacus/files/ProblemSet0397.txt)
+[Download Problem Set 397 as a markdown file](files/ProblemSet0397.txt)
 
 ### Addition and Subtraction
 
@@ -889,11 +883,11 @@ $7,723,322,564+1,693,026,051+1,541,639,501+2,643,459,806+4,509,772,738+5,816,634
 | $881,995\cdot79,141$ | $4,921,916,157÷832,389$ |
 
 ## Problem Set 398
-[Download Problem Set 398 as an accessible tex file](/SorobanAbacus/files/ProblemSet0398.tex)
+[Download Problem Set 398 as an accessible tex file](files/ProblemSet0398.tex)
 
-[Download Problem Set 398 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0398.docx)
+[Download Problem Set 398 as an accessible word processing file](files/ProblemSet0398.docx)
 
-[Download Problem Set 398 as a markdown file](/SorobanAbacus/files/ProblemSet0398.txt)
+[Download Problem Set 398 as a markdown file](files/ProblemSet0398.txt)
 
 ### Addition and Subtraction
 
@@ -943,11 +937,11 @@ $7,108,346,019+8,123,499,190+4,942,165,458+1,541,693,284+5,473,631,661+6,736,851
 | $577,192\cdot90,222$ | $8,773,140,700÷874,690$ |
 
 ## Problem Set 399
-[Download Problem Set 399 as an accessible tex file](/SorobanAbacus/files/ProblemSet0399.tex)
+[Download Problem Set 399 as an accessible tex file](files/ProblemSet0399.tex)
 
-[Download Problem Set 399 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0399.docx)
+[Download Problem Set 399 as an accessible word processing file](files/ProblemSet0399.docx)
 
-[Download Problem Set 399 as a markdown file](/SorobanAbacus/files/ProblemSet0399.txt)
+[Download Problem Set 399 as a markdown file](files/ProblemSet0399.txt)
 
 ### Addition and Subtraction
 
@@ -997,11 +991,11 @@ $3,032,819,171+6,759,753,441+7,804,044,317+8,787,907,023+9,744,159,697+1,312,951
 | $774,553\cdot56,851$ | $7,920,433,728÷844,576$ |
 
 ## Problem Set 400
-[Download Problem Set 400 as an accessible tex file](/SorobanAbacus/files/ProblemSet0400.tex)
+[Download Problem Set 400 as an accessible tex file](files/ProblemSet0400.tex)
 
-[Download Problem Set 400 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0400.docx)
+[Download Problem Set 400 as an accessible word processing file](files/ProblemSet0400.docx)
 
-[Download Problem Set 400 as a markdown file](/SorobanAbacus/files/ProblemSet0400.txt)
+[Download Problem Set 400 as a markdown file](files/ProblemSet0400.txt)
 
 ### Addition and Subtraction
 
@@ -1051,11 +1045,11 @@ $9,460,661,873+1,747,280,092+5,968,914,631+2,712,632,323+9,794,781,148+3,888,378
 | $927,405\cdot51,208$ | $5,628,285,999÷921,009$ |
 
 ## Problem Set 401
-[Download Problem Set 401 as an accessible tex file](/SorobanAbacus/files/ProblemSet0401.tex)
+[Download Problem Set 401 as an accessible tex file](files/ProblemSet0401.tex)
 
-[Download Problem Set 401 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0401.docx)
+[Download Problem Set 401 as an accessible word processing file](files/ProblemSet0401.docx)
 
-[Download Problem Set 401 as a markdown file](/SorobanAbacus/files/ProblemSet0401.txt)
+[Download Problem Set 401 as a markdown file](files/ProblemSet0401.txt)
 
 ### Addition and Subtraction
 
@@ -1105,11 +1099,11 @@ $3,209,056,002+8,461,219,470+5,979,668,926+9,411,118,494+2,217,589,467+8,325,831
 | $619,728\cdot75,886$ | $2,684,258,304÷403,284$ |
 
 ## Problem Set 402
-[Download Problem Set 402 as an accessible tex file](/SorobanAbacus/files/ProblemSet0402.tex)
+[Download Problem Set 402 as an accessible tex file](files/ProblemSet0402.tex)
 
-[Download Problem Set 402 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0402.docx)
+[Download Problem Set 402 as an accessible word processing file](files/ProblemSet0402.docx)
 
-[Download Problem Set 402 as a markdown file](/SorobanAbacus/files/ProblemSet0402.txt)
+[Download Problem Set 402 as a markdown file](files/ProblemSet0402.txt)
 
 ### Addition and Subtraction
 
@@ -1158,11 +1152,11 @@ $6,006,966,125+5,084,158,019+1,790,870,263+5,697,468,563+4,723,442,089+5,328,881
 | $914,842\cdot84,145$ | $2,451,705,288÷970,588$ |
 
 ## Problem Set 403
-[Download Problem Set 403 as an accessible tex file](/SorobanAbacus/files/ProblemSet0403.tex)
+[Download Problem Set 403 as an accessible tex file](files/ProblemSet0403.tex)
 
-[Download Problem Set 403 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0403.docx)
+[Download Problem Set 403 as an accessible word processing file](files/ProblemSet0403.docx)
 
-[Download Problem Set 403 as a markdown file](/SorobanAbacus/files/ProblemSet0403.txt)
+[Download Problem Set 403 as a markdown file](files/ProblemSet0403.txt)
 
 ### Addition and Subtraction
 
@@ -1212,11 +1206,11 @@ $2,733,773,209+6,431,484,979+3,137,093,806+1,784,487,588+7,943,176,694+9,338,926
 | $930,080\cdot95,686$ | $5,639,827,973÷998,023$ |
 
 ## Problem Set 404
-[Download Problem Set 404 as an accessible tex file](/SorobanAbacus/files/ProblemSet0404.tex)
+[Download Problem Set 404 as an accessible tex file](files/ProblemSet0404.tex)
 
-[Download Problem Set 404 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0404.docx)
+[Download Problem Set 404 as an accessible word processing file](files/ProblemSet0404.docx)
 
-[Download Problem Set 404 as a markdown file](/SorobanAbacus/files/ProblemSet0404.txt)
+[Download Problem Set 404 as a markdown file](files/ProblemSet0404.txt)
 
 ### Addition and Subtraction
 
@@ -1266,11 +1260,11 @@ $9,093,896,610+5,789,463,885+3,731,535,345+7,271,366,795+5,542,662,174+7,560,547
 | $812,468\cdot99,498$ | $7,522,632,188÷940,094$ |
 
 ## Problem Set 405
-[Download Problem Set 405 as an accessible tex file](/SorobanAbacus/files/ProblemSet0405.tex)
+[Download Problem Set 405 as an accessible tex file](files/ProblemSet0405.tex)
 
-[Download Problem Set 405 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0405.docx)
+[Download Problem Set 405 as an accessible word processing file](files/ProblemSet0405.docx)
 
-[Download Problem Set 405 as a markdown file](/SorobanAbacus/files/ProblemSet0405.txt)
+[Download Problem Set 405 as a markdown file](files/ProblemSet0405.txt)
 
 ### Addition and Subtraction
 
@@ -1320,11 +1314,11 @@ $1,686,111,322+4,086,048,699+8,522,670,991+8,747,995,993+7,006,268,861+5,719,702
 | $230,248\cdot48,413$ | $7,360,619,874÷525,046$ |
 
 ## Problem Set 406
-[Download Problem Set 406 as an accessible tex file](/SorobanAbacus/files/ProblemSet0406.tex)
+[Download Problem Set 406 as an accessible tex file](files/ProblemSet0406.tex)
 
-[Download Problem Set 406 as an accessible word processing file](/SorobanAbacus/files/ProblemSet0406.docx)
+[Download Problem Set 406 as an accessible word processing file](files/ProblemSet0406.docx)
 
-[Download Problem Set 406 as a markdown file](/SorobanAbacus/files/ProblemSet0406.txt)
+[Download Problem Set 406 as a markdown file](files/ProblemSet0406.txt)
 
 ### Addition and Subtraction
 

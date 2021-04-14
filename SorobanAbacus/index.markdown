@@ -16,37 +16,29 @@ So, given the above, an abacus examination is supposed to take at most
 This is a collection of problem sets at each grade or kyu level. 1st kyu
 is the highly advanced and 8th kyu is beginner level.
 
-------------------------------------------------------------------------
 
 ## See and download problem sets by Kyu level:
 
-[Go to 8th Kyu (Beginner)](/SorobanAbacus/kyu/8thKyu)
+[Go to 8th Kyu (Beginner)]({{ site.baseurl }}{% link SorobanAbacus/kyu/8thKyu.md %})
 
-[Go to 7th Kyu](/SorobanAbacus/kyu/7thKyu)
+[Go to 7th Kyu]({{ site.baseurl }}{% link SorobanAbacus/kyu/7thKyu.md %})
 
-[Go to 6th Kyu](/SorobanAbacus/kyu/6thKyu)
+[Go to 6th Kyu]({{ site.baseurl }}{% link SorobanAbacus/kyu/6thKyu.md %})
 
-[Go to 5th Kyu](/SorobanAbacus/kyu/5thKyu)
+[Go to 5th Kyu]({{ site.baseurl }}{% link SorobanAbacus/kyu/5thKyu.md %})
 
-[Go to 4th Kyu](/SorobanAbacus/kyu/4thKyu)
+[Go to 4th Kyu]({{ site.baseurl }}{% link SorobanAbacus/kyu/4thKyu.md %})
 
-[Go to 3rd Kyu](/SorobanAbacus/kyu/3rdKyu)
+[Go to 3rd Kyu]({{ site.baseurl }}{% link SorobanAbacus/kyu/3rdKyu.md %})
 
-[Go to 2nd Kyu](/SorobanAbacus/kyu/2ndKyu)
+[Go to 2nd Kyu]({{ site.baseurl }}{% link SorobanAbacus/kyu/2ndKyu.md %})
 
-[Go to 1st Kyu (Advanced)](/SorobanAbacus/kyu/1stKyu)
+[Go to 1st Kyu (Advanced)]({{ site.baseurl }}{% link SorobanAbacus/kyu/1stKyu.md %})
 
-------------------------------------------------------------------------
 
 ## Download all problem sets as a single file:
 
 [Download all Problem Sets as a single accessible epub
-file](/SorobanAbacus/files/AbacusWorkbook.epub)
+file]({{ site.baseurl }}{% link SorobanAbacus/files/AbacusWorkbook.epub %})
 
-[Download all Problem Sets as a single accessible word processing
-file](/SorobanAbacus/files/AbacusWorkbook.docx)
 
-[Download all Problem Sets as a single accessible Tex
-file](/SorobanAbacus/files/AbacusWorkbook.tex)
-
-------------------------------------------------------------------------
