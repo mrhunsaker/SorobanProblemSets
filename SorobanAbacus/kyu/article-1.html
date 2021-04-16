@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*       on 2021-04-16T15:47:45-06:00       *-->
+<!--*   A recent stable commit (2020-08-09):   *-->
+<!--* 98f21740783f166a773df4dc83cab5293ab63a4a *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title></title>
+<meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['\\(','\\)']]
+    },
+    asciimath2jax: {
+        ignoreClass: ".*",
+        processClass: "has_am"
+    },
+    jax: ["input/AsciiMath"],
+    extensions: ["asciimath2jax.js"],
+    TeX: {
+        extensions: ["extpfeil.js", "autobold.js", "https://pretextbook.org/js/lib/mathjaxknowl.js", "AMScd.js", ],
+        // scrolling to fragment identifiers is controlled by other Javascript
+        positionToHash: false,
+        equationNumbers: { autoNumber: "none", useLabelIds: true, },
+        TagSide: "right",
+        TagIndent: ".8em",
+    },
+    // HTML-CSS output Jax to be dropped for MathJax 3.0
+    "HTML-CSS": {
+        scale: 88,
+        mtextFontInherit: true,
+    },
+    CommonHTML: {
+        scale: 88,
+        mtextFontInherit: true,
+    },
+});
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_CHTML-full"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/lib/jquery.min.js"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/0.13/pretext.js"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/0.13/pretext_add_on.js"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script xmlns:svg="http://www.w3.org/2000/svg">sagecellEvalName='Evaluate (Sage)';
+</script><link xmlns:svg="http://www.w3.org/2000/svg" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/pretext.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/banner_default.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/toc_default.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/knowls_default.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/style_default.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/colors_default.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/setcolors.css" rel="stylesheet" type="text/css">
+<!-- 2019-10-12: Temporary - CSS file for experiments with styling --><link xmlns:svg="http://www.w3.org/2000/svg" href="developer.css" rel="stylesheet" type="text/css">
+</head>
+<body class="mathbook-article has-toc has-sidebar-left">
+<a class="assistive" href="#content">Skip to main content</a><div xmlns:svg="http://www.w3.org/2000/svg" class="hidden-content" style="display:none">\(
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\)</div>
+<header id="masthead" class="smallbuttons"><div class="banner"><div class="container">
+<a id="logo-link" href=""></a><div class="title-container">
+<h1 class="heading"><a href="article-1.html"><span class="title"></span></a></h1>
+<p class="byline"></p>
+</div>
+</div></div>
+<nav xmlns:svg="http://www.w3.org/2000/svg" id="primary-navbar" class="navbar"><div class="container">
+<div class="navbar-top-buttons">
+<button class="sidebar-left-toggle-button button active" aria-label="Show or hide table of contents sidebar">Contents</button><div class="tree-nav toolbar toolbar-divisor-3"><span class="threebuttons"><span id="previousbutton" class="previous-button button toolbar-item disabled">Prev</span><span id="upbutton" class="up-button button disabled toolbar-item">Up</span><a id="nextbutton" class="next-button button toolbar-item" href="soroban-cranmer-abacus-problem-sets.html" title="Next">Next</a></span></div>
+</div>
+<div class="navbar-bottom-buttons toolbar toolbar-divisor-4">
+<button class="sidebar-left-toggle-button button toolbar-item active">Contents</button><span class="previous-button button toolbar-item disabled">Prev</span><span class="up-button button disabled toolbar-item">Up</span><a class="next-button button toolbar-item" href="soroban-cranmer-abacus-problem-sets.html" title="Next">Next</a>
+</div>
+</div></nav></header><div class="page">
+<div xmlns:svg="http://www.w3.org/2000/svg" id="sidebar-left" class="sidebar" role="navigation"><div class="sidebar-content">
+<nav id="toc"><ul>
+<li class="link">
+<a href="soroban-cranmer-abacus-problem-sets.html" data-scroll="soroban-cranmer-abacus-problem-sets"><span class="codenumber">1</span> <span class="title">Soroban / Cranmer Abacus Problem Sets</span></a><ul><li><a href="soroban-cranmer-abacus-problem-sets.html#download-all-problem-sets-as-a-single-file" data-scroll="download-all-problem-sets-as-a-single-file">Download all problem sets as a single file:</a></li></ul>
+</li>
+<li class="link">
+<a href="th-kyu.html" data-scroll="th-kyu"><span class="codenumber">2</span> <span class="title">8th Kyu</span></a><ul>
+<li><a href="th-kyu.html#abacus-fluency-problem-sets" data-scroll="abacus-fluency-problem-sets">Abacus Fluency Problem Sets</a></li>
+<li><a href="th-kyu.html#problem-set-1" data-scroll="problem-set-1">Problem Set 1</a></li>
+<li><a href="th-kyu.html#problem-set-2" data-scroll="problem-set-2">Problem Set 2</a></li>
+<li><a href="th-kyu.html#problem-set-3" data-scroll="problem-set-3">Problem Set 3</a></li>
+<li><a href="th-kyu.html#problem-set-4" data-scroll="problem-set-4">Problem Set 4</a></li>
+<li><a href="th-kyu.html#problem-set-5" data-scroll="problem-set-5">Problem Set 5</a></li>
+<li><a href="th-kyu.html#problem-set-6" data-scroll="problem-set-6">Problem Set 6</a></li>
+<li><a href="th-kyu.html#problem-set-7" data-scroll="problem-set-7">Problem Set 7</a></li>
+<li><a href="th-kyu.html#problem-set-8" data-scroll="problem-set-8">Problem Set 8</a></li>
+<li><a href="th-kyu.html#problem-set-9" data-scroll="problem-set-9">Problem Set 9</a></li>
+<li><a href="th-kyu.html#problem-set-10" data-scroll="problem-set-10">Problem Set 10</a></li>
+<li><a href="th-kyu.html#problem-set-11" data-scroll="problem-set-11">Problem Set 11</a></li>
+<li><a href="th-kyu.html#problem-set-12" data-scroll="problem-set-12">Problem Set 12</a></li>
+<li><a href="th-kyu.html#problem-set-13" data-scroll="problem-set-13">Problem Set 13</a></li>
+<li><a href="th-kyu.html#problem-set-14" data-scroll="problem-set-14">Problem Set 14</a></li>
+<li><a href="th-kyu.html#problem-set-15" data-scroll="problem-set-15">Problem Set 15</a></li>
+<li><a href="th-kyu.html#problem-set-16" data-scroll="problem-set-16">Problem Set 16</a></li>
+<li><a href="th-kyu.html#problem-set-17" data-scroll="problem-set-17">Problem Set 17</a></li>
+<li><a href="th-kyu.html#problem-set-18" data-scroll="problem-set-18">Problem Set 18</a></li>
+<li><a href="th-kyu.html#problem-set-19" data-scroll="problem-set-19">Problem Set 19</a></li>
+<li><a href="th-kyu.html#problem-set-20" data-scroll="problem-set-20">Problem Set 20</a></li>
+<li><a href="th-kyu.html#problem-set-21" data-scroll="problem-set-21">Problem Set 21</a></li>
+<li><a href="th-kyu.html#problem-set-22" data-scroll="problem-set-22">Problem Set 22</a></li>
+<li><a href="th-kyu.html#problem-set-23" data-scroll="problem-set-23">Problem Set 23</a></li>
+<li><a href="th-kyu.html#problem-set-24" data-scroll="problem-set-24">Problem Set 24</a></li>
+<li><a href="th-kyu.html#problem-set-25" data-scroll="problem-set-25">Problem Set 25</a></li>
+<li><a href="th-kyu.html#problem-set-26" data-scroll="problem-set-26">Problem Set 26</a></li>
+<li><a href="th-kyu.html#problem-set-27" data-scroll="problem-set-27">Problem Set 27</a></li>
+<li><a href="th-kyu.html#problem-set-28" data-scroll="problem-set-28">Problem Set 28</a></li>
+<li><a href="th-kyu.html#problem-set-29" data-scroll="problem-set-29">Problem Set 29</a></li>
+<li><a href="th-kyu.html#problem-set-30" data-scroll="problem-set-30">Problem Set 30</a></li>
+<li><a href="th-kyu.html#problem-set-31" data-scroll="problem-set-31">Problem Set 31</a></li>
+<li><a href="th-kyu.html#problem-set-32" data-scroll="problem-set-32">Problem Set 32</a></li>
+<li><a href="th-kyu.html#problem-set-33" data-scroll="problem-set-33">Problem Set 33</a></li>
+<li><a href="th-kyu.html#problem-set-34" data-scroll="problem-set-34">Problem Set 34</a></li>
+<li><a href="th-kyu.html#problem-set-35" data-scroll="problem-set-35">Problem Set 35</a></li>
+<li><a href="th-kyu.html#problem-set-36" data-scroll="problem-set-36">Problem Set 36</a></li>
+<li><a href="th-kyu.html#problem-set-37" data-scroll="problem-set-37">Problem Set 37</a></li>
+<li><a href="th-kyu.html#problem-set-38" data-scroll="problem-set-38">Problem Set 38</a></li>
+<li><a href="th-kyu.html#problem-set-39" data-scroll="problem-set-39">Problem Set 39</a></li>
+<li><a href="th-kyu.html#problem-set-40" data-scroll="problem-set-40">Problem Set 40</a></li>
+<li><a href="th-kyu.html#problem-set-41" data-scroll="problem-set-41">Problem Set 41</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="th-kyu-1.html" data-scroll="th-kyu-1"><span class="codenumber">3</span> <span class="title">7th Kyu</span></a><ul>
+<li><a href="th-kyu-1.html#abacus-fluency-problem-sets-1" data-scroll="abacus-fluency-problem-sets-1">Abacus Fluency Problem Sets</a></li>
+<li><a href="th-kyu-1.html#problem-set-42" data-scroll="problem-set-42">Problem Set 42</a></li>
+<li><a href="th-kyu-1.html#problem-set-43" data-scroll="problem-set-43">Problem Set 43</a></li>
+<li><a href="th-kyu-1.html#problem-set-44" data-scroll="problem-set-44">Problem Set 44</a></li>
+<li><a href="th-kyu-1.html#problem-set-45" data-scroll="problem-set-45">Problem Set 45</a></li>
+<li><a href="th-kyu-1.html#problem-set-46" data-scroll="problem-set-46">Problem Set 46</a></li>
+<li><a href="th-kyu-1.html#problem-set-47" data-scroll="problem-set-47">Problem Set 47</a></li>
+<li><a href="th-kyu-1.html#problem-set-48" data-scroll="problem-set-48">Problem Set 48</a></li>
+<li><a href="th-kyu-1.html#problem-set-49" data-scroll="problem-set-49">Problem Set 49</a></li>
+<li><a href="th-kyu-1.html#problem-set-50" data-scroll="problem-set-50">Problem Set 50</a></li>
+<li><a href="th-kyu-1.html#problem-set-51" data-scroll="problem-set-51">Problem Set 51</a></li>
+<li><a href="th-kyu-1.html#problem-set-52" data-scroll="problem-set-52">Problem Set 52</a></li>
+<li><a href="th-kyu-1.html#problem-set-53" data-scroll="problem-set-53">Problem Set 53</a></li>
+<li><a href="th-kyu-1.html#problem-set-54" data-scroll="problem-set-54">Problem Set 54</a></li>
+<li><a href="th-kyu-1.html#problem-set-55" data-scroll="problem-set-55">Problem Set 55</a></li>
+<li><a href="th-kyu-1.html#problem-set-56" data-scroll="problem-set-56">Problem Set 56</a></li>
+<li><a href="th-kyu-1.html#problem-set-57" data-scroll="problem-set-57">Problem Set 57</a></li>
+<li><a href="th-kyu-1.html#problem-set-58" data-scroll="problem-set-58">Problem Set 58</a></li>
+<li><a href="th-kyu-1.html#problem-set-59" data-scroll="problem-set-59">Problem Set 59</a></li>
+<li><a href="th-kyu-1.html#problem-set-60" data-scroll="problem-set-60">Problem Set 60</a></li>
+<li><a href="th-kyu-1.html#problem-set-61" data-scroll="problem-set-61">Problem Set 61</a></li>
+<li><a href="th-kyu-1.html#problem-set-62" data-scroll="problem-set-62">Problem Set 62</a></li>
+<li><a href="th-kyu-1.html#problem-set-63" data-scroll="problem-set-63">Problem Set 63</a></li>
+<li><a href="th-kyu-1.html#problem-set-64" data-scroll="problem-set-64">Problem Set 64</a></li>
+<li><a href="th-kyu-1.html#problem-set-65" data-scroll="problem-set-65">Problem Set 65</a></li>
+<li><a href="th-kyu-1.html#problem-set-66" data-scroll="problem-set-66">Problem Set 66</a></li>
+<li><a href="th-kyu-1.html#problem-set-67" data-scroll="problem-set-67">Problem Set 67</a></li>
+<li><a href="th-kyu-1.html#problem-set-68" data-scroll="problem-set-68">Problem Set 68</a></li>
+<li><a href="th-kyu-1.html#problem-set-69" data-scroll="problem-set-69">Problem Set 69</a></li>
+<li><a href="th-kyu-1.html#problem-set-70" data-scroll="problem-set-70">Problem Set 70</a></li>
+<li><a href="th-kyu-1.html#problem-set-71" data-scroll="problem-set-71">Problem Set 71</a></li>
+<li><a href="th-kyu-1.html#problem-set-72" data-scroll="problem-set-72">Problem Set 72</a></li>
+<li><a href="th-kyu-1.html#problem-set-73" data-scroll="problem-set-73">Problem Set 73</a></li>
+<li><a href="th-kyu-1.html#problem-set-74" data-scroll="problem-set-74">Problem Set 74</a></li>
+<li><a href="th-kyu-1.html#problem-set-75" data-scroll="problem-set-75">Problem Set 75</a></li>
+<li><a href="th-kyu-1.html#problem-set-76" data-scroll="problem-set-76">Problem Set 76</a></li>
+<li><a href="th-kyu-1.html#problem-set-77" data-scroll="problem-set-77">Problem Set 77</a></li>
+<li><a href="th-kyu-1.html#problem-set-78" data-scroll="problem-set-78">Problem Set 78</a></li>
+<li><a href="th-kyu-1.html#problem-set-79" data-scroll="problem-set-79">Problem Set 79</a></li>
+<li><a href="th-kyu-1.html#problem-set-80" data-scroll="problem-set-80">Problem Set 80</a></li>
+<li><a href="th-kyu-1.html#problem-set-81" data-scroll="problem-set-81">Problem Set 81</a></li>
+<li><a href="th-kyu-1.html#problem-set-82" data-scroll="problem-set-82">Problem Set 82</a></li>
+<li><a href="th-kyu-1.html#problem-set-83" data-scroll="problem-set-83">Problem Set 83</a></li>
+<li><a href="th-kyu-1.html#problem-set-84" data-scroll="problem-set-84">Problem Set 84</a></li>
+<li><a href="th-kyu-1.html#problem-set-85" data-scroll="problem-set-85">Problem Set 85</a></li>
+<li><a href="th-kyu-1.html#problem-set-86" data-scroll="problem-set-86">Problem Set 86</a></li>
+<li><a href="th-kyu-1.html#problem-set-87" data-scroll="problem-set-87">Problem Set 87</a></li>
+<li><a href="th-kyu-1.html#problem-set-88" data-scroll="problem-set-88">Problem Set 88</a></li>
+<li><a href="th-kyu-1.html#problem-set-89" data-scroll="problem-set-89">Problem Set 89</a></li>
+<li><a href="th-kyu-1.html#problem-set-90" data-scroll="problem-set-90">Problem Set 90</a></li>
+<li><a href="th-kyu-1.html#problem-set-91" data-scroll="problem-set-91">Problem Set 91</a></li>
+<li><a href="th-kyu-1.html#problem-set-92" data-scroll="problem-set-92">Problem Set 92</a></li>
+<li><a href="th-kyu-1.html#problem-set-93" data-scroll="problem-set-93">Problem Set 93</a></li>
+<li><a href="th-kyu-1.html#problem-set-94" data-scroll="problem-set-94">Problem Set 94</a></li>
+<li><a href="th-kyu-1.html#problem-set-95" data-scroll="problem-set-95">Problem Set 95</a></li>
+<li><a href="th-kyu-1.html#problem-set-96" data-scroll="problem-set-96">Problem Set 96</a></li>
+<li><a href="th-kyu-1.html#problem-set-97" data-scroll="problem-set-97">Problem Set 97</a></li>
+<li><a href="th-kyu-1.html#problem-set-98" data-scroll="problem-set-98">Problem Set 98</a></li>
+<li><a href="th-kyu-1.html#problem-set-99" data-scroll="problem-set-99">Problem Set 99</a></li>
+<li><a href="th-kyu-1.html#problem-set-100" data-scroll="problem-set-100">Problem Set 100</a></li>
+<li><a href="th-kyu-1.html#problem-set-101" data-scroll="problem-set-101">Problem Set 101</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="th-kyu-2.html" data-scroll="th-kyu-2"><span class="codenumber">4</span> <span class="title">6th Kyu</span></a><ul>
+<li><a href="th-kyu-2.html#abacus-fluency-problem-sets-2" data-scroll="abacus-fluency-problem-sets-2">Abacus Fluency Problem Sets</a></li>
+<li><a href="th-kyu-2.html#problem-set-102" data-scroll="problem-set-102">Problem Set 102</a></li>
+<li><a href="th-kyu-2.html#problem-set-103" data-scroll="problem-set-103">Problem Set 103</a></li>
+<li><a href="th-kyu-2.html#problem-set-104" data-scroll="problem-set-104">Problem Set 104</a></li>
+<li><a href="th-kyu-2.html#problem-set-105" data-scroll="problem-set-105">Problem Set 105</a></li>
+<li><a href="th-kyu-2.html#problem-set-106" data-scroll="problem-set-106">Problem Set 106</a></li>
+<li><a href="th-kyu-2.html#problem-set-107" data-scroll="problem-set-107">Problem Set 107</a></li>
+<li><a href="th-kyu-2.html#problem-set-108" data-scroll="problem-set-108">Problem Set 108</a></li>
+<li><a href="th-kyu-2.html#problem-set-109" data-scroll="problem-set-109">Problem Set 109</a></li>
+<li><a href="th-kyu-2.html#problem-set-110" data-scroll="problem-set-110">Problem Set 110</a></li>
+<li><a href="th-kyu-2.html#problem-set-111" data-scroll="problem-set-111">Problem Set 111</a></li>
+<li><a href="th-kyu-2.html#problem-set-112" data-scroll="problem-set-112">Problem Set 112</a></li>
+<li><a href="th-kyu-2.html#problem-set-113" data-scroll="problem-set-113">Problem Set 113</a></li>
+<li><a href="th-kyu-2.html#problem-set-114" data-scroll="problem-set-114">Problem Set 114</a></li>
+<li><a href="th-kyu-2.html#problem-set-115" data-scroll="problem-set-115">Problem Set 115</a></li>
+<li><a href="th-kyu-2.html#problem-set-116" data-scroll="problem-set-116">Problem Set 116</a></li>
+<li><a href="th-kyu-2.html#problem-set-117" data-scroll="problem-set-117">Problem Set 117</a></li>
+<li><a href="th-kyu-2.html#problem-set-118" data-scroll="problem-set-118">Problem Set 118</a></li>
+<li><a href="th-kyu-2.html#problem-set-119" data-scroll="problem-set-119">Problem Set 119</a></li>
+<li><a href="th-kyu-2.html#problem-set-120" data-scroll="problem-set-120">Problem Set 120</a></li>
+<li><a href="th-kyu-2.html#problem-set-121" data-scroll="problem-set-121">Problem Set 121</a></li>
+<li><a href="th-kyu-2.html#problem-set-122" data-scroll="problem-set-122">Problem Set 122</a></li>
+<li><a href="th-kyu-2.html#problem-set-123" data-scroll="problem-set-123">Problem Set 123</a></li>
+<li><a href="th-kyu-2.html#problem-set-124" data-scroll="problem-set-124">Problem Set 124</a></li>
+<li><a href="th-kyu-2.html#problem-set-125" data-scroll="problem-set-125">Problem Set 125</a></li>
+<li><a href="th-kyu-2.html#problem-set-126" data-scroll="problem-set-126">Problem Set 126</a></li>
+<li><a href="th-kyu-2.html#problem-set-127" data-scroll="problem-set-127">Problem Set 127</a></li>
+<li><a href="th-kyu-2.html#problem-set-128" data-scroll="problem-set-128">Problem Set 128</a></li>
+<li><a href="th-kyu-2.html#problem-set-129" data-scroll="problem-set-129">Problem Set 129</a></li>
+<li><a href="th-kyu-2.html#problem-set-130" data-scroll="problem-set-130">Problem Set 130</a></li>
+<li><a href="th-kyu-2.html#problem-set-131" data-scroll="problem-set-131">Problem Set 131</a></li>
+<li><a href="th-kyu-2.html#problem-set-132" data-scroll="problem-set-132">Problem Set 132</a></li>
+<li><a href="th-kyu-2.html#problem-set-133" data-scroll="problem-set-133">Problem Set 133</a></li>
+<li><a href="th-kyu-2.html#problem-set-134" data-scroll="problem-set-134">Problem Set 134</a></li>
+<li><a href="th-kyu-2.html#problem-set-135" data-scroll="problem-set-135">Problem Set 135</a></li>
+<li><a href="th-kyu-2.html#problem-set-136" data-scroll="problem-set-136">Problem Set 136</a></li>
+<li><a href="th-kyu-2.html#problem-set-137" data-scroll="problem-set-137">Problem Set 137</a></li>
+<li><a href="th-kyu-2.html#problem-set-138" data-scroll="problem-set-138">Problem Set 138</a></li>
+<li><a href="th-kyu-2.html#problem-set-139" data-scroll="problem-set-139">Problem Set 139</a></li>
+<li><a href="th-kyu-2.html#problem-set-140" data-scroll="problem-set-140">Problem Set 140</a></li>
+<li><a href="th-kyu-2.html#problem-set-141" data-scroll="problem-set-141">Problem Set 141</a></li>
+<li><a href="th-kyu-2.html#problem-set-142" data-scroll="problem-set-142">Problem Set 142</a></li>
+<li><a href="th-kyu-2.html#problem-set-143" data-scroll="problem-set-143">Problem Set 143</a></li>
+<li><a href="th-kyu-2.html#problem-set-144" data-scroll="problem-set-144">Problem Set 144</a></li>
+<li><a href="th-kyu-2.html#problem-set-145" data-scroll="problem-set-145">Problem Set 145</a></li>
+<li><a href="th-kyu-2.html#problem-set-146" data-scroll="problem-set-146">Problem Set 146</a></li>
+<li><a href="th-kyu-2.html#problem-set-147" data-scroll="problem-set-147">Problem Set 147</a></li>
+<li><a href="th-kyu-2.html#problem-set-148" data-scroll="problem-set-148">Problem Set 148</a></li>
+<li><a href="th-kyu-2.html#problem-set-149" data-scroll="problem-set-149">Problem Set 149</a></li>
+<li><a href="th-kyu-2.html#problem-set-150" data-scroll="problem-set-150">Problem Set 150</a></li>
+<li><a href="th-kyu-2.html#problem-set-151" data-scroll="problem-set-151">Problem Set 151</a></li>
+<li><a href="th-kyu-2.html#problem-set-152" data-scroll="problem-set-152">Problem Set 152</a></li>
+<li><a href="th-kyu-2.html#problem-set-153" data-scroll="problem-set-153">Problem Set 153</a></li>
+<li><a href="th-kyu-2.html#problem-set-154" data-scroll="problem-set-154">Problem Set 154</a></li>
+<li><a href="th-kyu-2.html#problem-set-155" data-scroll="problem-set-155">Problem Set 155</a></li>
+<li><a href="th-kyu-2.html#problem-set-156" data-scroll="problem-set-156">Problem Set 156</a></li>
+<li><a href="th-kyu-2.html#problem-set-157" data-scroll="problem-set-157">Problem Set 157</a></li>
+<li><a href="th-kyu-2.html#problem-set-158" data-scroll="problem-set-158">Problem Set 158</a></li>
+<li><a href="th-kyu-2.html#problem-set-159" data-scroll="problem-set-159">Problem Set 159</a></li>
+<li><a href="th-kyu-2.html#problem-set-160" data-scroll="problem-set-160">Problem Set 160</a></li>
+<li><a href="th-kyu-2.html#problem-set-161" data-scroll="problem-set-161">Problem Set 161</a></li>
+<li><a href="th-kyu-2.html#problem-set-162" data-scroll="problem-set-162">Problem Set 162</a></li>
+<li><a href="th-kyu-2.html#problem-set-163" data-scroll="problem-set-163">Problem Set 163</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="th-kyu-3.html" data-scroll="th-kyu-3"><span class="codenumber">5</span> <span class="title">5th Kyu</span></a><ul>
+<li><a href="th-kyu-3.html#abacus-fluency-problem-sets-3" data-scroll="abacus-fluency-problem-sets-3">Abacus Fluency Problem Sets</a></li>
+<li><a href="th-kyu-3.html#problem-set-164" data-scroll="problem-set-164">Problem Set 164</a></li>
+<li><a href="th-kyu-3.html#problem-set-165" data-scroll="problem-set-165">Problem Set 165</a></li>
+<li><a href="th-kyu-3.html#problem-set-166" data-scroll="problem-set-166">Problem Set 166</a></li>
+<li><a href="th-kyu-3.html#problem-set-167" data-scroll="problem-set-167">Problem Set 167</a></li>
+<li><a href="th-kyu-3.html#problem-set-168" data-scroll="problem-set-168">Problem Set 168</a></li>
+<li><a href="th-kyu-3.html#problem-set-169" data-scroll="problem-set-169">Problem Set 169</a></li>
+<li><a href="th-kyu-3.html#problem-set-170" data-scroll="problem-set-170">Problem Set 170</a></li>
+<li><a href="th-kyu-3.html#problem-set-171" data-scroll="problem-set-171">Problem Set 171</a></li>
+<li><a href="th-kyu-3.html#problem-set-172" data-scroll="problem-set-172">Problem Set 172</a></li>
+<li><a href="th-kyu-3.html#problem-set-173" data-scroll="problem-set-173">Problem Set 173</a></li>
+<li><a href="th-kyu-3.html#problem-set-174" data-scroll="problem-set-174">Problem Set 174</a></li>
+<li><a href="th-kyu-3.html#problem-set-175" data-scroll="problem-set-175">Problem Set 175</a></li>
+<li><a href="th-kyu-3.html#problem-set-176" data-scroll="problem-set-176">Problem Set 176</a></li>
+<li><a href="th-kyu-3.html#problem-set-177" data-scroll="problem-set-177">Problem Set 177</a></li>
+<li><a href="th-kyu-3.html#problem-set-178" data-scroll="problem-set-178">Problem Set 178</a></li>
+<li><a href="th-kyu-3.html#problem-set-179" data-scroll="problem-set-179">Problem Set 179</a></li>
+<li><a href="th-kyu-3.html#problem-set-180" data-scroll="problem-set-180">Problem Set 180</a></li>
+<li><a href="th-kyu-3.html#problem-set-181" data-scroll="problem-set-181">Problem Set 181</a></li>
+<li><a href="th-kyu-3.html#problem-set-182" data-scroll="problem-set-182">Problem Set 182</a></li>
+<li><a href="th-kyu-3.html#problem-set-183" data-scroll="problem-set-183">Problem Set 183</a></li>
+<li><a href="th-kyu-3.html#problem-set-184" data-scroll="problem-set-184">Problem Set 184</a></li>
+<li><a href="th-kyu-3.html#problem-set-185" data-scroll="problem-set-185">Problem Set 185</a></li>
+<li><a href="th-kyu-3.html#problem-set-186" data-scroll="problem-set-186">Problem Set 186</a></li>
+<li><a href="th-kyu-3.html#problem-set-187" data-scroll="problem-set-187">Problem Set 187</a></li>
+<li><a href="th-kyu-3.html#problem-set-188" data-scroll="problem-set-188">Problem Set 188</a></li>
+<li><a href="th-kyu-3.html#problem-set-189" data-scroll="problem-set-189">Problem Set 189</a></li>
+<li><a href="th-kyu-3.html#problem-set-190" data-scroll="problem-set-190">Problem Set 190</a></li>
+<li><a href="th-kyu-3.html#problem-set-191" data-scroll="problem-set-191">Problem Set 191</a></li>
+<li><a href="th-kyu-3.html#problem-set-192" data-scroll="problem-set-192">Problem Set 192</a></li>
+<li><a href="th-kyu-3.html#problem-set-193" data-scroll="problem-set-193">Problem Set 193</a></li>
+<li><a href="th-kyu-3.html#problem-set-194" data-scroll="problem-set-194">Problem Set 194</a></li>
+<li><a href="th-kyu-3.html#problem-set-195" data-scroll="problem-set-195">Problem Set 195</a></li>
+<li><a href="th-kyu-3.html#problem-set-196" data-scroll="problem-set-196">Problem Set 196</a></li>
+<li><a href="th-kyu-3.html#problem-set-197" data-scroll="problem-set-197">Problem Set 197</a></li>
+<li><a href="th-kyu-3.html#problem-set-198" data-scroll="problem-set-198">Problem Set 198</a></li>
+<li><a href="th-kyu-3.html#problem-set-199" data-scroll="problem-set-199">Problem Set 199</a></li>
+<li><a href="th-kyu-3.html#problem-set-200" data-scroll="problem-set-200">Problem Set 200</a></li>
+<li><a href="th-kyu-3.html#problem-set-201" data-scroll="problem-set-201">Problem Set 201</a></li>
+<li><a href="th-kyu-3.html#problem-set-202" data-scroll="problem-set-202">Problem Set 202</a></li>
+<li><a href="th-kyu-3.html#problem-set-203" data-scroll="problem-set-203">Problem Set 203</a></li>
+<li><a href="th-kyu-3.html#problem-set-204" data-scroll="problem-set-204">Problem Set 204</a></li>
+<li><a href="th-kyu-3.html#problem-set-205" data-scroll="problem-set-205">Problem Set 205</a></li>
+<li><a href="th-kyu-3.html#problem-set-206" data-scroll="problem-set-206">Problem Set 206</a></li>
+<li><a href="th-kyu-3.html#problem-set-207" data-scroll="problem-set-207">Problem Set 207</a></li>
+<li><a href="th-kyu-3.html#problem-set-208" data-scroll="problem-set-208">Problem Set 208</a></li>
+<li><a href="th-kyu-3.html#problem-set-209" data-scroll="problem-set-209">Problem Set 209</a></li>
+<li><a href="th-kyu-3.html#problem-set-210" data-scroll="problem-set-210">Problem Set 210</a></li>
+<li><a href="th-kyu-3.html#problem-set-211" data-scroll="problem-set-211">Problem Set 211</a></li>
+<li><a href="th-kyu-3.html#problem-set-212" data-scroll="problem-set-212">Problem Set 212</a></li>
+<li><a href="th-kyu-3.html#problem-set-213" data-scroll="problem-set-213">Problem Set 213</a></li>
+<li><a href="th-kyu-3.html#problem-set-214" data-scroll="problem-set-214">Problem Set 214</a></li>
+<li><a href="th-kyu-3.html#problem-set-215" data-scroll="problem-set-215">Problem Set 215</a></li>
+<li><a href="th-kyu-3.html#problem-set-216" data-scroll="problem-set-216">Problem Set 216</a></li>
+<li><a href="th-kyu-3.html#problem-set-217" data-scroll="problem-set-217">Problem Set 217</a></li>
+<li><a href="th-kyu-3.html#problem-set-218" data-scroll="problem-set-218">Problem Set 218</a></li>
+<li><a href="th-kyu-3.html#problem-set-219" data-scroll="problem-set-219">Problem Set 219</a></li>
+<li><a href="th-kyu-3.html#problem-set-220" data-scroll="problem-set-220">Problem Set 220</a></li>
+<li><a href="th-kyu-3.html#problem-set-221" data-scroll="problem-set-221">Problem Set 221</a></li>
+<li><a href="th-kyu-3.html#problem-set-222" data-scroll="problem-set-222">Problem Set 222</a></li>
+<li><a href="th-kyu-3.html#problem-set-223" data-scroll="problem-set-223">Problem Set 223</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="th-kyu-4.html" data-scroll="th-kyu-4"><span class="codenumber">6</span> <span class="title">4th kyu</span></a><ul>
+<li><a href="th-kyu-4.html#abacus-fluency-problem-sets-4" data-scroll="abacus-fluency-problem-sets-4">Abacus Fluency Problem Sets</a></li>
+<li><a href="th-kyu-4.html#problem-set-224" data-scroll="problem-set-224">Problem Set 224</a></li>
+<li><a href="th-kyu-4.html#problem-set-225" data-scroll="problem-set-225">Problem Set 225</a></li>
+<li><a href="th-kyu-4.html#problem-set-226" data-scroll="problem-set-226">Problem Set 226</a></li>
+<li><a href="th-kyu-4.html#problem-set-227" data-scroll="problem-set-227">Problem Set 227</a></li>
+<li><a href="th-kyu-4.html#problem-set-228" data-scroll="problem-set-228">Problem Set 228</a></li>
+<li><a href="th-kyu-4.html#problem-set-229" data-scroll="problem-set-229">Problem Set 229</a></li>
+<li><a href="th-kyu-4.html#problem-set-230" data-scroll="problem-set-230">Problem Set 230</a></li>
+<li><a href="th-kyu-4.html#problem-set-231" data-scroll="problem-set-231">Problem Set 231</a></li>
+<li><a href="th-kyu-4.html#problem-set-232" data-scroll="problem-set-232">Problem Set 232</a></li>
+<li><a href="th-kyu-4.html#problem-set-233" data-scroll="problem-set-233">Problem Set 233</a></li>
+<li><a href="th-kyu-4.html#problem-set-234" data-scroll="problem-set-234">Problem Set 234</a></li>
+<li><a href="th-kyu-4.html#problem-set-235" data-scroll="problem-set-235">Problem Set 235</a></li>
+<li><a href="th-kyu-4.html#problem-set-236" data-scroll="problem-set-236">Problem Set 236</a></li>
+<li><a href="th-kyu-4.html#problem-set-237" data-scroll="problem-set-237">Problem Set 237</a></li>
+<li><a href="th-kyu-4.html#problem-set-238" data-scroll="problem-set-238">Problem Set 238</a></li>
+<li><a href="th-kyu-4.html#problem-set-239" data-scroll="problem-set-239">Problem Set 239</a></li>
+<li><a href="th-kyu-4.html#problem-set-240" data-scroll="problem-set-240">Problem Set 240</a></li>
+<li><a href="th-kyu-4.html#problem-set-241" data-scroll="problem-set-241">Problem Set 241</a></li>
+<li><a href="th-kyu-4.html#problem-set-242" data-scroll="problem-set-242">Problem Set 242</a></li>
+<li><a href="th-kyu-4.html#problem-set-243" data-scroll="problem-set-243">Problem Set 243</a></li>
+<li><a href="th-kyu-4.html#problem-set-244" data-scroll="problem-set-244">Problem Set 244</a></li>
+<li><a href="th-kyu-4.html#problem-set-245" data-scroll="problem-set-245">Problem Set 245</a></li>
+<li><a href="th-kyu-4.html#problem-set-246" data-scroll="problem-set-246">Problem Set 246</a></li>
+<li><a href="th-kyu-4.html#problem-set-247" data-scroll="problem-set-247">Problem Set 247</a></li>
+<li><a href="th-kyu-4.html#problem-set-248" data-scroll="problem-set-248">Problem Set 248</a></li>
+<li><a href="th-kyu-4.html#problem-set-249" data-scroll="problem-set-249">Problem Set 249</a></li>
+<li><a href="th-kyu-4.html#problem-set-250" data-scroll="problem-set-250">Problem Set 250</a></li>
+<li><a href="th-kyu-4.html#problem-set-251" data-scroll="problem-set-251">Problem Set 251</a></li>
+<li><a href="th-kyu-4.html#problem-set-252" data-scroll="problem-set-252">Problem Set 252</a></li>
+<li><a href="th-kyu-4.html#problem-set-253" data-scroll="problem-set-253">Problem Set 253</a></li>
+<li><a href="th-kyu-4.html#problem-set-254" data-scroll="problem-set-254">Problem Set 254</a></li>
+<li><a href="th-kyu-4.html#problem-set-255" data-scroll="problem-set-255">Problem Set 255</a></li>
+<li><a href="th-kyu-4.html#problem-set-256" data-scroll="problem-set-256">Problem Set 256</a></li>
+<li><a href="th-kyu-4.html#problem-set-257" data-scroll="problem-set-257">Problem Set 257</a></li>
+<li><a href="th-kyu-4.html#problem-set-258" data-scroll="problem-set-258">Problem Set 258</a></li>
+<li><a href="th-kyu-4.html#problem-set-259" data-scroll="problem-set-259">Problem Set 259</a></li>
+<li><a href="th-kyu-4.html#problem-set-260" data-scroll="problem-set-260">Problem Set 260</a></li>
+<li><a href="th-kyu-4.html#problem-set-261" data-scroll="problem-set-261">Problem Set 261</a></li>
+<li><a href="th-kyu-4.html#problem-set-262" data-scroll="problem-set-262">Problem Set 262</a></li>
+<li><a href="th-kyu-4.html#problem-set-263" data-scroll="problem-set-263">Problem Set 263</a></li>
+<li><a href="th-kyu-4.html#problem-set-264" data-scroll="problem-set-264">Problem Set 264</a></li>
+<li><a href="th-kyu-4.html#problem-set-265" data-scroll="problem-set-265">Problem Set 265</a></li>
+<li><a href="th-kyu-4.html#problem-set-266" data-scroll="problem-set-266">Problem Set 266</a></li>
+<li><a href="th-kyu-4.html#problem-set-267" data-scroll="problem-set-267">Problem Set 267</a></li>
+<li><a href="th-kyu-4.html#problem-set-268" data-scroll="problem-set-268">Problem Set 268</a></li>
+<li><a href="th-kyu-4.html#problem-set-269" data-scroll="problem-set-269">Problem Set 269</a></li>
+<li><a href="th-kyu-4.html#problem-set-270" data-scroll="problem-set-270">Problem Set 270</a></li>
+<li><a href="th-kyu-4.html#problem-set-271" data-scroll="problem-set-271">Problem Set 271</a></li>
+<li><a href="th-kyu-4.html#problem-set-272" data-scroll="problem-set-272">Problem Set 272</a></li>
+<li><a href="th-kyu-4.html#problem-set-273" data-scroll="problem-set-273">Problem Set 273</a></li>
+<li><a href="th-kyu-4.html#problem-set-274" data-scroll="problem-set-274">Problem Set 274</a></li>
+<li><a href="th-kyu-4.html#problem-set-275" data-scroll="problem-set-275">Problem Set 275</a></li>
+<li><a href="th-kyu-4.html#problem-set-276" data-scroll="problem-set-276">Problem Set 276</a></li>
+<li><a href="th-kyu-4.html#problem-set-277" data-scroll="problem-set-277">Problem Set 277</a></li>
+<li><a href="th-kyu-4.html#problem-set-278" data-scroll="problem-set-278">Problem Set 278</a></li>
+<li><a href="th-kyu-4.html#problem-set-279" data-scroll="problem-set-279">Problem Set 279</a></li>
+<li><a href="th-kyu-4.html#problem-set-280" data-scroll="problem-set-280">Problem Set 280</a></li>
+<li><a href="th-kyu-4.html#problem-set-281" data-scroll="problem-set-281">Problem Set 281</a></li>
+<li><a href="th-kyu-4.html#problem-set-282" data-scroll="problem-set-282">Problem Set 282</a></li>
+<li><a href="th-kyu-4.html#problem-set-283" data-scroll="problem-set-283">Problem Set 283</a></li>
+<li><a href="th-kyu-4.html#problem-set-284" data-scroll="problem-set-284">Problem Set 284</a></li>
+<li><a href="th-kyu-4.html#problem-set-285" data-scroll="problem-set-285">Problem Set 285</a></li>
+<li><a href="th-kyu-4.html#problem-set-286" data-scroll="problem-set-286">Problem Set 286</a></li>
+<li><a href="th-kyu-4.html#problem-set-287" data-scroll="problem-set-287">Problem Set 287</a></li>
+<li><a href="th-kyu-4.html#problem-set-288" data-scroll="problem-set-288">Problem Set 288</a></li>
+<li><a href="th-kyu-4.html#problem-set-289" data-scroll="problem-set-289">Problem Set 289</a></li>
+<li><a href="th-kyu-4.html#problem-set-290" data-scroll="problem-set-290">Problem Set 290</a></li>
+<li><a href="th-kyu-4.html#problem-set-291" data-scroll="problem-set-291">Problem Set 291</a></li>
+<li><a href="th-kyu-4.html#problem-set-292" data-scroll="problem-set-292">Problem Set 292</a></li>
+<li><a href="th-kyu-4.html#problem-set-293" data-scroll="problem-set-293">Problem Set 293</a></li>
+<li><a href="th-kyu-4.html#problem-set-294" data-scroll="problem-set-294">Problem Set 294</a></li>
+<li><a href="th-kyu-4.html#problem-set-295" data-scroll="problem-set-295">Problem Set 295</a></li>
+<li><a href="th-kyu-4.html#problem-set-296" data-scroll="problem-set-296">Problem Set 296</a></li>
+<li><a href="th-kyu-4.html#problem-set-297" data-scroll="problem-set-297">Problem Set 297</a></li>
+<li><a href="th-kyu-4.html#problem-set-298" data-scroll="problem-set-298">Problem Set 298</a></li>
+<li><a href="th-kyu-4.html#problem-set-299" data-scroll="problem-set-299">Problem Set 299</a></li>
+<li><a href="th-kyu-4.html#problem-set-300" data-scroll="problem-set-300">Problem Set 300</a></li>
+<li><a href="th-kyu-4.html#problem-set-301" data-scroll="problem-set-301">Problem Set 301</a></li>
+<li><a href="th-kyu-4.html#problem-set-302" data-scroll="problem-set-302">Problem Set 302</a></li>
+<li><a href="th-kyu-4.html#problem-set-303" data-scroll="problem-set-303">Problem Set 303</a></li>
+<li><a href="th-kyu-4.html#problem-set-304" data-scroll="problem-set-304">Problem Set 304</a></li>
+<li><a href="th-kyu-4.html#problem-set-305" data-scroll="problem-set-305">Problem Set 305</a></li>
+<li><a href="th-kyu-4.html#problem-set-306" data-scroll="problem-set-306">Problem Set 306</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="rd-kyu.html" data-scroll="rd-kyu"><span class="codenumber">7</span> <span class="title">3rd Kyu</span></a><ul>
+<li><a href="rd-kyu.html#abacus-fluency-problem-sets-5" data-scroll="abacus-fluency-problem-sets-5">Abacus Fluency Problem Sets</a></li>
+<li><a href="rd-kyu.html#problem-set-307" data-scroll="problem-set-307">Problem Set 307</a></li>
+<li><a href="rd-kyu.html#problem-set-308" data-scroll="problem-set-308">Problem Set 308</a></li>
+<li><a href="rd-kyu.html#problem-set-309" data-scroll="problem-set-309">Problem Set 309</a></li>
+<li><a href="rd-kyu.html#problem-set-310" data-scroll="problem-set-310">Problem Set 310</a></li>
+<li><a href="rd-kyu.html#problem-set-311" data-scroll="problem-set-311">Problem Set 311</a></li>
+<li><a href="rd-kyu.html#problem-set-312" data-scroll="problem-set-312">Problem Set 312</a></li>
+<li><a href="rd-kyu.html#problem-set-313" data-scroll="problem-set-313">Problem Set 313</a></li>
+<li><a href="rd-kyu.html#problem-set-314" data-scroll="problem-set-314">Problem Set 314</a></li>
+<li><a href="rd-kyu.html#problem-set-315" data-scroll="problem-set-315">Problem Set 315</a></li>
+<li><a href="rd-kyu.html#problem-set-316" data-scroll="problem-set-316">Problem Set 316</a></li>
+<li><a href="rd-kyu.html#problem-set-317" data-scroll="problem-set-317">Problem Set 317</a></li>
+<li><a href="rd-kyu.html#problem-set-318" data-scroll="problem-set-318">Problem Set 318</a></li>
+<li><a href="rd-kyu.html#problem-set-319" data-scroll="problem-set-319">Problem Set 319</a></li>
+<li><a href="rd-kyu.html#problem-set-320" data-scroll="problem-set-320">Problem Set 320</a></li>
+<li><a href="rd-kyu.html#problem-set-321" data-scroll="problem-set-321">Problem Set 321</a></li>
+<li><a href="rd-kyu.html#problem-set-322" data-scroll="problem-set-322">Problem Set 322</a></li>
+<li><a href="rd-kyu.html#problem-set-323" data-scroll="problem-set-323">Problem Set 323</a></li>
+<li><a href="rd-kyu.html#problem-set-324" data-scroll="problem-set-324">Problem Set 324</a></li>
+<li><a href="rd-kyu.html#problem-set-325" data-scroll="problem-set-325">Problem Set 325</a></li>
+<li><a href="rd-kyu.html#problem-set-326" data-scroll="problem-set-326">Problem Set 326</a></li>
+<li><a href="rd-kyu.html#problem-set-327" data-scroll="problem-set-327">Problem Set 327</a></li>
+<li><a href="rd-kyu.html#problem-set-328" data-scroll="problem-set-328">Problem Set 328</a></li>
+<li><a href="rd-kyu.html#problem-set-329" data-scroll="problem-set-329">Problem Set 329</a></li>
+<li><a href="rd-kyu.html#problem-set-330" data-scroll="problem-set-330">Problem Set 330</a></li>
+<li><a href="rd-kyu.html#problem-set-331" data-scroll="problem-set-331">Problem Set 331</a></li>
+<li><a href="rd-kyu.html#problem-set-332" data-scroll="problem-set-332">Problem Set 332</a></li>
+<li><a href="rd-kyu.html#problem-set-333" data-scroll="problem-set-333">Problem Set 333</a></li>
+<li><a href="rd-kyu.html#problem-set-334" data-scroll="problem-set-334">Problem Set 334</a></li>
+<li><a href="rd-kyu.html#problem-set-335" data-scroll="problem-set-335">Problem Set 335</a></li>
+<li><a href="rd-kyu.html#problem-set-336" data-scroll="problem-set-336">Problem Set 336</a></li>
+<li><a href="rd-kyu.html#problem-set-337" data-scroll="problem-set-337">Problem Set 337</a></li>
+<li><a href="rd-kyu.html#problem-set-338" data-scroll="problem-set-338">Problem Set 338</a></li>
+<li><a href="rd-kyu.html#problem-set-339" data-scroll="problem-set-339">Problem Set 339</a></li>
+<li><a href="rd-kyu.html#problem-set-340" data-scroll="problem-set-340">Problem Set 340</a></li>
+<li><a href="rd-kyu.html#problem-set-341" data-scroll="problem-set-341">Problem Set 341</a></li>
+<li><a href="rd-kyu.html#problem-set-342" data-scroll="problem-set-342">Problem Set 342</a></li>
+<li><a href="rd-kyu.html#problem-set-343" data-scroll="problem-set-343">Problem Set 343</a></li>
+<li><a href="rd-kyu.html#problem-set-344" data-scroll="problem-set-344">Problem Set 344</a></li>
+<li><a href="rd-kyu.html#problem-set-345" data-scroll="problem-set-345">Problem Set 345</a></li>
+<li><a href="rd-kyu.html#problem-set-346" data-scroll="problem-set-346">Problem Set 346</a></li>
+<li><a href="rd-kyu.html#problem-set-347" data-scroll="problem-set-347">Problem Set 347</a></li>
+<li><a href="rd-kyu.html#problem-set-348" data-scroll="problem-set-348">Problem Set 348</a></li>
+<li><a href="rd-kyu.html#problem-set-349" data-scroll="problem-set-349">Problem Set 349</a></li>
+<li><a href="rd-kyu.html#problem-set-350" data-scroll="problem-set-350">Problem Set 350</a></li>
+<li><a href="rd-kyu.html#problem-set-351" data-scroll="problem-set-351">Problem Set 351</a></li>
+<li><a href="rd-kyu.html#problem-set-352" data-scroll="problem-set-352">Problem Set 352</a></li>
+<li><a href="rd-kyu.html#problem-set-353" data-scroll="problem-set-353">Problem Set 353</a></li>
+<li><a href="rd-kyu.html#problem-set-354" data-scroll="problem-set-354">Problem Set 354</a></li>
+<li><a href="rd-kyu.html#problem-set-355" data-scroll="problem-set-355">Problem Set 355</a></li>
+<li><a href="rd-kyu.html#problem-set-356" data-scroll="problem-set-356">Problem Set 356</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="nd-kyu.html" data-scroll="nd-kyu"><span class="codenumber">8</span> <span class="title">2nd kyu</span></a><ul>
+<li><a href="nd-kyu.html#abacus-fluency-problem-sets-6" data-scroll="abacus-fluency-problem-sets-6">Abacus Fluency Problem Sets</a></li>
+<li><a href="nd-kyu.html#problem-set-357" data-scroll="problem-set-357">Problem Set 357</a></li>
+<li><a href="nd-kyu.html#problem-set-358" data-scroll="problem-set-358">Problem Set 358</a></li>
+<li><a href="nd-kyu.html#problem-set-359" data-scroll="problem-set-359">Problem Set 359</a></li>
+<li><a href="nd-kyu.html#problem-set-360" data-scroll="problem-set-360">Problem Set 360</a></li>
+<li><a href="nd-kyu.html#problem-set-361" data-scroll="problem-set-361">Problem Set 361</a></li>
+<li><a href="nd-kyu.html#problem-set-362" data-scroll="problem-set-362">Problem Set 362</a></li>
+<li><a href="nd-kyu.html#problem-set-363" data-scroll="problem-set-363">Problem Set 363</a></li>
+<li><a href="nd-kyu.html#problem-set-364" data-scroll="problem-set-364">Problem Set 364</a></li>
+<li><a href="nd-kyu.html#problem-set-365" data-scroll="problem-set-365">Problem Set 365</a></li>
+<li><a href="nd-kyu.html#problem-set-366" data-scroll="problem-set-366">Problem Set 366</a></li>
+<li><a href="nd-kyu.html#problem-set-367" data-scroll="problem-set-367">Problem Set 367</a></li>
+<li><a href="nd-kyu.html#problem-set-368" data-scroll="problem-set-368">Problem Set 368</a></li>
+<li><a href="nd-kyu.html#problem-set-369" data-scroll="problem-set-369">Problem Set 369</a></li>
+<li><a href="nd-kyu.html#problem-set-370" data-scroll="problem-set-370">Problem Set 370</a></li>
+<li><a href="nd-kyu.html#problem-set-371" data-scroll="problem-set-371">Problem Set 371</a></li>
+<li><a href="nd-kyu.html#problem-set-372" data-scroll="problem-set-372">Problem Set 372</a></li>
+<li><a href="nd-kyu.html#problem-set-373" data-scroll="problem-set-373">Problem Set 373</a></li>
+<li><a href="nd-kyu.html#problem-set-374" data-scroll="problem-set-374">Problem Set 374</a></li>
+<li><a href="nd-kyu.html#problem-set-375" data-scroll="problem-set-375">Problem Set 375</a></li>
+<li><a href="nd-kyu.html#problem-set-376" data-scroll="problem-set-376">Problem Set 376</a></li>
+<li><a href="nd-kyu.html#problem-set-377" data-scroll="problem-set-377">Problem Set 377</a></li>
+<li><a href="nd-kyu.html#problem-set-378" data-scroll="problem-set-378">Problem Set 378</a></li>
+<li><a href="nd-kyu.html#problem-set-379" data-scroll="problem-set-379">Problem Set 379</a></li>
+<li><a href="nd-kyu.html#problem-set-380" data-scroll="problem-set-380">Problem Set 380</a></li>
+<li><a href="nd-kyu.html#problem-set-381" data-scroll="problem-set-381">Problem Set 381</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="st-kyu.html" data-scroll="st-kyu"><span class="codenumber">9</span> <span class="title">1st Kyu</span></a><ul>
+<li><a href="st-kyu.html#abacus-fluency-problem-sets-7" data-scroll="abacus-fluency-problem-sets-7">Abacus Fluency Problem Sets</a></li>
+<li><a href="st-kyu.html#problem-set-382" data-scroll="problem-set-382">Problem Set 382</a></li>
+<li><a href="st-kyu.html#problem-set-383" data-scroll="problem-set-383">Problem Set 383</a></li>
+<li><a href="st-kyu.html#problem-set-384" data-scroll="problem-set-384">Problem Set 384</a></li>
+<li><a href="st-kyu.html#problem-set-385" data-scroll="problem-set-385">Problem Set 385</a></li>
+<li><a href="st-kyu.html#problem-set-386" data-scroll="problem-set-386">Problem Set 386</a></li>
+<li><a href="st-kyu.html#problem-set-387" data-scroll="problem-set-387">Problem Set 387</a></li>
+<li><a href="st-kyu.html#problem-set-388" data-scroll="problem-set-388">Problem Set 388</a></li>
+<li><a href="st-kyu.html#problem-set-389" data-scroll="problem-set-389">Problem Set 389</a></li>
+<li><a href="st-kyu.html#problem-set-390" data-scroll="problem-set-390">Problem Set 390</a></li>
+<li><a href="st-kyu.html#problem-set-391" data-scroll="problem-set-391">Problem Set 391</a></li>
+<li><a href="st-kyu.html#problem-set-392" data-scroll="problem-set-392">Problem Set 392</a></li>
+<li><a href="st-kyu.html#problem-set-393" data-scroll="problem-set-393">Problem Set 393</a></li>
+<li><a href="st-kyu.html#problem-set-394" data-scroll="problem-set-394">Problem Set 394</a></li>
+<li><a href="st-kyu.html#problem-set-395" data-scroll="problem-set-395">Problem Set 395</a></li>
+<li><a href="st-kyu.html#problem-set-396" data-scroll="problem-set-396">Problem Set 396</a></li>
+<li><a href="st-kyu.html#problem-set-397" data-scroll="problem-set-397">Problem Set 397</a></li>
+<li><a href="st-kyu.html#problem-set-398" data-scroll="problem-set-398">Problem Set 398</a></li>
+<li><a href="st-kyu.html#problem-set-399" data-scroll="problem-set-399">Problem Set 399</a></li>
+<li><a href="st-kyu.html#problem-set-400" data-scroll="problem-set-400">Problem Set 400</a></li>
+<li><a href="st-kyu.html#problem-set-401" data-scroll="problem-set-401">Problem Set 401</a></li>
+<li><a href="st-kyu.html#problem-set-402" data-scroll="problem-set-402">Problem Set 402</a></li>
+<li><a href="st-kyu.html#problem-set-403" data-scroll="problem-set-403">Problem Set 403</a></li>
+<li><a href="st-kyu.html#problem-set-404" data-scroll="problem-set-404">Problem Set 404</a></li>
+<li><a href="st-kyu.html#problem-set-405" data-scroll="problem-set-405">Problem Set 405</a></li>
+<li><a href="st-kyu.html#problem-set-406" data-scroll="problem-set-406">Problem Set 406</a></li>
+</ul>
+</li>
+</ul></nav><div class="extras"><nav><a class="mathbook-link" href="https://pretextbook.org">Authored in PreTeXt</a><a href="https://www.mathjax.org"><img title="Powered by MathJax" src="https://www.mathjax.org/badge/badge.gif" alt="Powered by MathJax"></a></nav></div>
+</div></div>
+<main class="main"><div id="content" class="pretext-content"><section xmlns:svg="http://www.w3.org/2000/svg" class="article" id="article-1"><nav class="summary-links"><ul>
+<li><a href="soroban-cranmer-abacus-problem-sets.html"><span class="codenumber">1</span> <span class="title">Soroban / Cranmer Abacus Problem Sets</span></a></li>
+<li><a href="th-kyu.html"><span class="codenumber">2</span> <span class="title">8th Kyu</span></a></li>
+<li><a href="th-kyu-1.html"><span class="codenumber">3</span> <span class="title">7th Kyu</span></a></li>
+<li><a href="th-kyu-2.html"><span class="codenumber">4</span> <span class="title">6th Kyu</span></a></li>
+<li><a href="th-kyu-3.html"><span class="codenumber">5</span> <span class="title">5th Kyu</span></a></li>
+<li><a href="th-kyu-4.html"><span class="codenumber">6</span> <span class="title">4th kyu</span></a></li>
+<li><a href="rd-kyu.html"><span class="codenumber">7</span> <span class="title">3rd Kyu</span></a></li>
+<li><a href="nd-kyu.html"><span class="codenumber">8</span> <span class="title">2nd kyu</span></a></li>
+<li><a href="st-kyu.html"><span class="codenumber">9</span> <span class="title">1st Kyu</span></a></li>
+</ul></nav></section></div></main>
+</div>
+</body>
+</html>
