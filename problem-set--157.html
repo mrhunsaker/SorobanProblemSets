@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*       on 2021-04-20T10:04:38-06:00       *-->
+<!--*   A recent stable commit (2020-08-09):   *-->
+<!--* 98f21740783f166a773df4dc83cab5293ab63a4a *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Problem Set 157</title>
+<meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['\\(','\\)']]
+    },
+    asciimath2jax: {
+        ignoreClass: ".*",
+        processClass: "has_am"
+    },
+    jax: ["input/AsciiMath"],
+    extensions: ["asciimath2jax.js"],
+    TeX: {
+        extensions: ["extpfeil.js", "autobold.js", "https://pretextbook.org/js/lib/mathjaxknowl.js", "AMScd.js", ],
+        // scrolling to fragment identifiers is controlled by other Javascript
+        positionToHash: false,
+        equationNumbers: { autoNumber: "none", useLabelIds: true, },
+        TagSide: "right",
+        TagIndent: ".8em",
+    },
+    // HTML-CSS output Jax to be dropped for MathJax 3.0
+    "HTML-CSS": {
+        scale: 88,
+        mtextFontInherit: true,
+    },
+    CommonHTML: {
+        scale: 88,
+        mtextFontInherit: true,
+    },
+});
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_CHTML-full"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/lib/jquery.min.js"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/0.13/pretext.js"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/0.13/pretext_add_on.js"></script><script xmlns:svg="http://www.w3.org/2000/svg" src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script xmlns:svg="http://www.w3.org/2000/svg">sagecellEvalName='Evaluate (Sage)';
+</script><link xmlns:svg="http://www.w3.org/2000/svg" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/pretext.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/banner_default.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/toc_default.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/knowls_default.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/style_default.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/colors_default.css" rel="stylesheet" type="text/css">
+<link xmlns:svg="http://www.w3.org/2000/svg" href="https://pretextbook.org/css/0.31/setcolors.css" rel="stylesheet" type="text/css">
+<!-- 2019-10-12: Temporary - CSS file for experiments with styling --><link xmlns:svg="http://www.w3.org/2000/svg" href="developer.css" rel="stylesheet" type="text/css">
+</head>
+<body class="mathbook-book has-toc has-sidebar-left">
+<a class="assistive" href="#content">Skip to main content</a><div xmlns:svg="http://www.w3.org/2000/svg" class="hidden-content" style="display:none">\(
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\)</div>
+<header id="masthead" class="smallbuttons"><div class="banner"><div class="container">
+<a id="logo-link" href=""></a><div class="title-container">
+<h1 class="heading"><a href="book-1.html"><span class="title"></span></a></h1>
+<p class="byline"></p>
+</div>
+</div></div>
+<nav xmlns:svg="http://www.w3.org/2000/svg" id="primary-navbar" class="navbar"><div class="container">
+<div class="navbar-top-buttons">
+<button class="sidebar-left-toggle-button button active" aria-label="Show or hide table of contents sidebar">Contents</button><div class="tree-nav toolbar toolbar-divisor-3"><span class="threebuttons"><a id="previousbutton" class="previous-button toolbar-item button" href="problem-set--156.html" title="Previous">Prev</a><a id="upbutton" class="up-button button toolbar-item" href="th-kyu-2.html" title="Up">Up</a><a id="nextbutton" class="next-button button toolbar-item" href="problem-set--158.html" title="Next">Next</a></span></div>
+</div>
+<div class="navbar-bottom-buttons toolbar toolbar-divisor-4">
+<button class="sidebar-left-toggle-button button toolbar-item active">Contents</button><a class="previous-button toolbar-item button" href="problem-set--156.html" title="Previous">Prev</a><a class="up-button button toolbar-item" href="th-kyu-2.html" title="Up">Up</a><a class="next-button button toolbar-item" href="problem-set--158.html" title="Next">Next</a>
+</div>
+</div></nav></header><div class="page">
+<div xmlns:svg="http://www.w3.org/2000/svg" id="sidebar-left" class="sidebar" role="navigation"><div class="sidebar-content">
+<nav id="toc"><ul>
+<li class="link">
+<a href="soroban-cranmer-abacus-problem-sets.html" data-scroll="soroban-cranmer-abacus-problem-sets"><span class="codenumber">1</span> <span class="title">Soroban/Cranmer Abacus Problem Sets</span></a><ul><li><a href="download-all-problem-sets-as-a-single-file.html" data-scroll="download-all-problem-sets-as-a-single-file">Download all problem sets as a single file:</a></li></ul>
+</li>
+<li class="link">
+<a href="th-kyu.html" data-scroll="th-kyu"><span class="codenumber">2</span> <span class="title">8th Kyu</span></a><ul>
+<li><a href="abacus-fluency-problem-sets.html" data-scroll="abacus-fluency-problem-sets">Abacus Fluency Problem Sets</a></li>
+<li><a href="problem-set--1.html" data-scroll="problem-set--1">Problem Set 1</a></li>
+<li><a href="problem-set--2.html" data-scroll="problem-set--2">Problem Set 2</a></li>
+<li><a href="problem-set--3.html" data-scroll="problem-set--3">Problem Set 3</a></li>
+<li><a href="problem-set--4.html" data-scroll="problem-set--4">Problem Set 4</a></li>
+<li><a href="problem-set--5.html" data-scroll="problem-set--5">Problem Set 5</a></li>
+<li><a href="problem-set--6.html" data-scroll="problem-set--6">Problem Set 6</a></li>
+<li><a href="problem-set--7.html" data-scroll="problem-set--7">Problem Set 7</a></li>
+<li><a href="problem-set--8.html" data-scroll="problem-set--8">Problem Set 8</a></li>
+<li><a href="problem-set--9.html" data-scroll="problem-set--9">Problem Set 9</a></li>
+<li><a href="problem-set--10.html" data-scroll="problem-set--10">Problem Set 10</a></li>
+<li><a href="problem-set--11.html" data-scroll="problem-set--11">Problem Set 11</a></li>
+<li><a href="problem-set--12.html" data-scroll="problem-set--12">Problem Set 12</a></li>
+<li><a href="problem-set--13.html" data-scroll="problem-set--13">Problem Set 13</a></li>
+<li><a href="problem-set--14.html" data-scroll="problem-set--14">Problem Set 14</a></li>
+<li><a href="problem-set--15.html" data-scroll="problem-set--15">Problem Set 15</a></li>
+<li><a href="problem-set--16.html" data-scroll="problem-set--16">Problem Set 16</a></li>
+<li><a href="problem-set--17.html" data-scroll="problem-set--17">Problem Set 17</a></li>
+<li><a href="problem-set--18.html" data-scroll="problem-set--18">Problem Set 18</a></li>
+<li><a href="problem-set--19.html" data-scroll="problem-set--19">Problem Set 19</a></li>
+<li><a href="problem-set--20.html" data-scroll="problem-set--20">Problem Set 20</a></li>
+<li><a href="problem-set--21.html" data-scroll="problem-set--21">Problem Set 21</a></li>
+<li><a href="problem-set--22.html" data-scroll="problem-set--22">Problem Set 22</a></li>
+<li><a href="problem-set--23.html" data-scroll="problem-set--23">Problem Set 23</a></li>
+<li><a href="problem-set--24.html" data-scroll="problem-set--24">Problem Set 24</a></li>
+<li><a href="problem-set--25.html" data-scroll="problem-set--25">Problem Set 25</a></li>
+<li><a href="problem-set--26.html" data-scroll="problem-set--26">Problem Set 26</a></li>
+<li><a href="problem-set--27.html" data-scroll="problem-set--27">Problem Set 27</a></li>
+<li><a href="problem-set--28.html" data-scroll="problem-set--28">Problem Set 28</a></li>
+<li><a href="problem-set--29.html" data-scroll="problem-set--29">Problem Set 29</a></li>
+<li><a href="problem-set--30.html" data-scroll="problem-set--30">Problem Set 30</a></li>
+<li><a href="problem-set--31.html" data-scroll="problem-set--31">Problem Set 31</a></li>
+<li><a href="problem-set--32.html" data-scroll="problem-set--32">Problem Set 32</a></li>
+<li><a href="problem-set--33.html" data-scroll="problem-set--33">Problem Set 33</a></li>
+<li><a href="problem-set--34.html" data-scroll="problem-set--34">Problem Set 34</a></li>
+<li><a href="problem-set--35.html" data-scroll="problem-set--35">Problem Set 35</a></li>
+<li><a href="problem-set--36.html" data-scroll="problem-set--36">Problem Set 36</a></li>
+<li><a href="problem-set--37.html" data-scroll="problem-set--37">Problem Set 37</a></li>
+<li><a href="problem-set--38.html" data-scroll="problem-set--38">Problem Set 38</a></li>
+<li><a href="problem-set--39.html" data-scroll="problem-set--39">Problem Set 39</a></li>
+<li><a href="problem-set--40.html" data-scroll="problem-set--40">Problem Set 40</a></li>
+<li><a href="problem-set--41.html" data-scroll="problem-set--41">Problem Set 41</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="th-kyu-1.html" data-scroll="th-kyu-1"><span class="codenumber">3</span> <span class="title">7th Kyu</span></a><ul>
+<li><a href="abacus-fluency-problem-sets-1.html" data-scroll="abacus-fluency-problem-sets-1">Abacus Fluency Problem Sets</a></li>
+<li><a href="problem-set--42.html" data-scroll="problem-set--42">Problem Set 42</a></li>
+<li><a href="problem-set--43.html" data-scroll="problem-set--43">Problem Set 43</a></li>
+<li><a href="problem-set--44.html" data-scroll="problem-set--44">Problem Set 44</a></li>
+<li><a href="problem-set--45.html" data-scroll="problem-set--45">Problem Set 45</a></li>
+<li><a href="problem-set--46.html" data-scroll="problem-set--46">Problem Set 46</a></li>
+<li><a href="problem-set--47.html" data-scroll="problem-set--47">Problem Set 47</a></li>
+<li><a href="problem-set--48.html" data-scroll="problem-set--48">Problem Set 48</a></li>
+<li><a href="problem-set--49.html" data-scroll="problem-set--49">Problem Set 49</a></li>
+<li><a href="problem-set--50.html" data-scroll="problem-set--50">Problem Set 50</a></li>
+<li><a href="problem-set--51.html" data-scroll="problem-set--51">Problem Set 51</a></li>
+<li><a href="problem-set--52.html" data-scroll="problem-set--52">Problem Set 52</a></li>
+<li><a href="problem-set--53.html" data-scroll="problem-set--53">Problem Set 53</a></li>
+<li><a href="problem-set--54.html" data-scroll="problem-set--54">Problem Set 54</a></li>
+<li><a href="problem-set--55.html" data-scroll="problem-set--55">Problem Set 55</a></li>
+<li><a href="problem-set--56.html" data-scroll="problem-set--56">Problem Set 56</a></li>
+<li><a href="problem-set--57.html" data-scroll="problem-set--57">Problem Set 57</a></li>
+<li><a href="problem-set--58.html" data-scroll="problem-set--58">Problem Set 58</a></li>
+<li><a href="problem-set--59.html" data-scroll="problem-set--59">Problem Set 59</a></li>
+<li><a href="problem-set--60.html" data-scroll="problem-set--60">Problem Set 60</a></li>
+<li><a href="problem-set--61.html" data-scroll="problem-set--61">Problem Set 61</a></li>
+<li><a href="problem-set--62.html" data-scroll="problem-set--62">Problem Set 62</a></li>
+<li><a href="problem-set--63.html" data-scroll="problem-set--63">Problem Set 63</a></li>
+<li><a href="problem-set--64.html" data-scroll="problem-set--64">Problem Set 64</a></li>
+<li><a href="problem-set--65.html" data-scroll="problem-set--65">Problem Set 65</a></li>
+<li><a href="problem-set--66.html" data-scroll="problem-set--66">Problem Set 66</a></li>
+<li><a href="problem-set--67.html" data-scroll="problem-set--67">Problem Set 67</a></li>
+<li><a href="problem-set--68.html" data-scroll="problem-set--68">Problem Set 68</a></li>
+<li><a href="problem-set--69.html" data-scroll="problem-set--69">Problem Set 69</a></li>
+<li><a href="problem-set--70.html" data-scroll="problem-set--70">Problem Set 70</a></li>
+<li><a href="problem-set--71.html" data-scroll="problem-set--71">Problem Set 71</a></li>
+<li><a href="problem-set--72.html" data-scroll="problem-set--72">Problem Set 72</a></li>
+<li><a href="problem-set--73.html" data-scroll="problem-set--73">Problem Set 73</a></li>
+<li><a href="problem-set--74.html" data-scroll="problem-set--74">Problem Set 74</a></li>
+<li><a href="problem-set--75.html" data-scroll="problem-set--75">Problem Set 75</a></li>
+<li><a href="problem-set--76.html" data-scroll="problem-set--76">Problem Set 76</a></li>
+<li><a href="problem-set--77.html" data-scroll="problem-set--77">Problem Set 77</a></li>
+<li><a href="problem-set--78.html" data-scroll="problem-set--78">Problem Set 78</a></li>
+<li><a href="problem-set--79.html" data-scroll="problem-set--79">Problem Set 79</a></li>
+<li><a href="problem-set--80.html" data-scroll="problem-set--80">Problem Set 80</a></li>
+<li><a href="problem-set--81.html" data-scroll="problem-set--81">Problem Set 81</a></li>
+<li><a href="problem-set--82.html" data-scroll="problem-set--82">Problem Set 82</a></li>
+<li><a href="problem-set--83.html" data-scroll="problem-set--83">Problem Set 83</a></li>
+<li><a href="problem-set--84.html" data-scroll="problem-set--84">Problem Set 84</a></li>
+<li><a href="problem-set--85.html" data-scroll="problem-set--85">Problem Set 85</a></li>
+<li><a href="problem-set--86.html" data-scroll="problem-set--86">Problem Set 86</a></li>
+<li><a href="problem-set--87.html" data-scroll="problem-set--87">Problem Set 87</a></li>
+<li><a href="problem-set--88.html" data-scroll="problem-set--88">Problem Set 88</a></li>
+<li><a href="problem-set--89.html" data-scroll="problem-set--89">Problem Set 89</a></li>
+<li><a href="problem-set--90.html" data-scroll="problem-set--90">Problem Set 90</a></li>
+<li><a href="problem-set--91.html" data-scroll="problem-set--91">Problem Set 91</a></li>
+<li><a href="problem-set--92.html" data-scroll="problem-set--92">Problem Set 92</a></li>
+<li><a href="problem-set--93.html" data-scroll="problem-set--93">Problem Set 93</a></li>
+<li><a href="problem-set--94.html" data-scroll="problem-set--94">Problem Set 94</a></li>
+<li><a href="problem-set--95.html" data-scroll="problem-set--95">Problem Set 95</a></li>
+<li><a href="problem-set--96.html" data-scroll="problem-set--96">Problem Set 96</a></li>
+<li><a href="problem-set--97.html" data-scroll="problem-set--97">Problem Set 97</a></li>
+<li><a href="problem-set--98.html" data-scroll="problem-set--98">Problem Set 98</a></li>
+<li><a href="problem-set--99.html" data-scroll="problem-set--99">Problem Set 99</a></li>
+<li><a href="problem-set--100.html" data-scroll="problem-set--100">Problem Set 100</a></li>
+<li><a href="problem-set--101.html" data-scroll="problem-set--101">Problem Set 101</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="th-kyu-2.html" data-scroll="th-kyu-2"><span class="codenumber">4</span> <span class="title">6th Kyu</span></a><ul>
+<li><a href="abacus-fluency-problem-sets-2.html" data-scroll="abacus-fluency-problem-sets-2">Abacus Fluency Problem Sets</a></li>
+<li><a href="problem-set--102.html" data-scroll="problem-set--102">Problem Set 102</a></li>
+<li><a href="problem-set--103.html" data-scroll="problem-set--103">Problem Set 103</a></li>
+<li><a href="problem-set--104.html" data-scroll="problem-set--104">Problem Set 104</a></li>
+<li><a href="problem-set--105.html" data-scroll="problem-set--105">Problem Set 105</a></li>
+<li><a href="problem-set--106.html" data-scroll="problem-set--106">Problem Set 106</a></li>
+<li><a href="problem-set--107.html" data-scroll="problem-set--107">Problem Set 107</a></li>
+<li><a href="problem-set--108.html" data-scroll="problem-set--108">Problem Set 108</a></li>
+<li><a href="problem-set--109.html" data-scroll="problem-set--109">Problem Set 109</a></li>
+<li><a href="problem-set--110.html" data-scroll="problem-set--110">Problem Set 110</a></li>
+<li><a href="problem-set--111.html" data-scroll="problem-set--111">Problem Set 111</a></li>
+<li><a href="problem-set--112.html" data-scroll="problem-set--112">Problem Set 112</a></li>
+<li><a href="problem-set--113.html" data-scroll="problem-set--113">Problem Set 113</a></li>
+<li><a href="problem-set--114.html" data-scroll="problem-set--114">Problem Set 114</a></li>
+<li><a href="problem-set--115.html" data-scroll="problem-set--115">Problem Set 115</a></li>
+<li><a href="problem-set--116.html" data-scroll="problem-set--116">Problem Set 116</a></li>
+<li><a href="problem-set--117.html" data-scroll="problem-set--117">Problem Set 117</a></li>
+<li><a href="problem-set--118.html" data-scroll="problem-set--118">Problem Set 118</a></li>
+<li><a href="problem-set--119.html" data-scroll="problem-set--119">Problem Set 119</a></li>
+<li><a href="problem-set--120.html" data-scroll="problem-set--120">Problem Set 120</a></li>
+<li><a href="problem-set--121.html" data-scroll="problem-set--121">Problem Set 121</a></li>
+<li><a href="problem-set--122.html" data-scroll="problem-set--122">Problem Set 122</a></li>
+<li><a href="problem-set--123.html" data-scroll="problem-set--123">Problem Set 123</a></li>
+<li><a href="problem-set--124.html" data-scroll="problem-set--124">Problem Set 124</a></li>
+<li><a href="problem-set--125.html" data-scroll="problem-set--125">Problem Set 125</a></li>
+<li><a href="problem-set--126.html" data-scroll="problem-set--126">Problem Set 126</a></li>
+<li><a href="problem-set--127.html" data-scroll="problem-set--127">Problem Set 127</a></li>
+<li><a href="problem-set--128.html" data-scroll="problem-set--128">Problem Set 128</a></li>
+<li><a href="problem-set--129.html" data-scroll="problem-set--129">Problem Set 129</a></li>
+<li><a href="problem-set--130.html" data-scroll="problem-set--130">Problem Set 130</a></li>
+<li><a href="problem-set--131.html" data-scroll="problem-set--131">Problem Set 131</a></li>
+<li><a href="problem-set--132.html" data-scroll="problem-set--132">Problem Set 132</a></li>
+<li><a href="problem-set--133.html" data-scroll="problem-set--133">Problem Set 133</a></li>
+<li><a href="problem-set--134.html" data-scroll="problem-set--134">Problem Set 134</a></li>
+<li><a href="problem-set--135.html" data-scroll="problem-set--135">Problem Set 135</a></li>
+<li><a href="problem-set--136.html" data-scroll="problem-set--136">Problem Set 136</a></li>
+<li><a href="problem-set--137.html" data-scroll="problem-set--137">Problem Set 137</a></li>
+<li><a href="problem-set--138.html" data-scroll="problem-set--138">Problem Set 138</a></li>
+<li><a href="problem-set--139.html" data-scroll="problem-set--139">Problem Set 139</a></li>
+<li><a href="problem-set--140.html" data-scroll="problem-set--140">Problem Set 140</a></li>
+<li><a href="problem-set--141.html" data-scroll="problem-set--141">Problem Set 141</a></li>
+<li><a href="problem-set--142.html" data-scroll="problem-set--142">Problem Set 142</a></li>
+<li><a href="problem-set--143.html" data-scroll="problem-set--143">Problem Set 143</a></li>
+<li><a href="problem-set--144.html" data-scroll="problem-set--144">Problem Set 144</a></li>
+<li><a href="problem-set--145.html" data-scroll="problem-set--145">Problem Set 145</a></li>
+<li><a href="problem-set--146.html" data-scroll="problem-set--146">Problem Set 146</a></li>
+<li><a href="problem-set--147.html" data-scroll="problem-set--147">Problem Set 147</a></li>
+<li><a href="problem-set--148.html" data-scroll="problem-set--148">Problem Set 148</a></li>
+<li><a href="problem-set--149.html" data-scroll="problem-set--149">Problem Set 149</a></li>
+<li><a href="problem-set--150.html" data-scroll="problem-set--150">Problem Set 150</a></li>
+<li><a href="problem-set--151.html" data-scroll="problem-set--151">Problem Set 151</a></li>
+<li><a href="problem-set--152.html" data-scroll="problem-set--152">Problem Set 152</a></li>
+<li><a href="problem-set--153.html" data-scroll="problem-set--153">Problem Set 153</a></li>
+<li><a href="problem-set--154.html" data-scroll="problem-set--154">Problem Set 154</a></li>
+<li><a href="problem-set--155.html" data-scroll="problem-set--155">Problem Set 155</a></li>
+<li><a href="problem-set--156.html" data-scroll="problem-set--156">Problem Set 156</a></li>
+<li><a href="problem-set--157.html" data-scroll="problem-set--157" class="active">Problem Set 157</a></li>
+<li><a href="problem-set--158.html" data-scroll="problem-set--158">Problem Set 158</a></li>
+<li><a href="problem-set--159.html" data-scroll="problem-set--159">Problem Set 159</a></li>
+<li><a href="problem-set--160.html" data-scroll="problem-set--160">Problem Set 160</a></li>
+<li><a href="problem-set--161.html" data-scroll="problem-set--161">Problem Set 161</a></li>
+<li><a href="problem-set--162.html" data-scroll="problem-set--162">Problem Set 162</a></li>
+<li><a href="problem-set--163.html" data-scroll="problem-set--163">Problem Set 163</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="th-kyu-3.html" data-scroll="th-kyu-3"><span class="codenumber">5</span> <span class="title">5th Kyu</span></a><ul>
+<li><a href="abacus-fluency-problem-sets-3.html" data-scroll="abacus-fluency-problem-sets-3">Abacus Fluency Problem Sets</a></li>
+<li><a href="problem-set--164.html" data-scroll="problem-set--164">Problem Set 164</a></li>
+<li><a href="problem-set--165.html" data-scroll="problem-set--165">Problem Set 165</a></li>
+<li><a href="problem-set--166.html" data-scroll="problem-set--166">Problem Set 166</a></li>
+<li><a href="problem-set--167.html" data-scroll="problem-set--167">Problem Set 167</a></li>
+<li><a href="problem-set--168.html" data-scroll="problem-set--168">Problem Set 168</a></li>
+<li><a href="problem-set--169.html" data-scroll="problem-set--169">Problem Set 169</a></li>
+<li><a href="problem-set--170.html" data-scroll="problem-set--170">Problem Set 170</a></li>
+<li><a href="problem-set--171.html" data-scroll="problem-set--171">Problem Set 171</a></li>
+<li><a href="problem-set--172.html" data-scroll="problem-set--172">Problem Set 172</a></li>
+<li><a href="problem-set--173.html" data-scroll="problem-set--173">Problem Set 173</a></li>
+<li><a href="problem-set--174.html" data-scroll="problem-set--174">Problem Set 174</a></li>
+<li><a href="problem-set--175.html" data-scroll="problem-set--175">Problem Set 175</a></li>
+<li><a href="problem-set--176.html" data-scroll="problem-set--176">Problem Set 176</a></li>
+<li><a href="problem-set--177.html" data-scroll="problem-set--177">Problem Set 177</a></li>
+<li><a href="problem-set--178.html" data-scroll="problem-set--178">Problem Set 178</a></li>
+<li><a href="problem-set--179.html" data-scroll="problem-set--179">Problem Set 179</a></li>
+<li><a href="problem-set--180.html" data-scroll="problem-set--180">Problem Set 180</a></li>
+<li><a href="problem-set--181.html" data-scroll="problem-set--181">Problem Set 181</a></li>
+<li><a href="problem-set--182.html" data-scroll="problem-set--182">Problem Set 182</a></li>
+<li><a href="problem-set--183.html" data-scroll="problem-set--183">Problem Set 183</a></li>
+<li><a href="problem-set--184.html" data-scroll="problem-set--184">Problem Set 184</a></li>
+<li><a href="problem-set--185.html" data-scroll="problem-set--185">Problem Set 185</a></li>
+<li><a href="problem-set--186.html" data-scroll="problem-set--186">Problem Set 186</a></li>
+<li><a href="problem-set--187.html" data-scroll="problem-set--187">Problem Set 187</a></li>
+<li><a href="problem-set--188.html" data-scroll="problem-set--188">Problem Set 188</a></li>
+<li><a href="problem-set--189.html" data-scroll="problem-set--189">Problem Set 189</a></li>
+<li><a href="problem-set--190.html" data-scroll="problem-set--190">Problem Set 190</a></li>
+<li><a href="problem-set--191.html" data-scroll="problem-set--191">Problem Set 191</a></li>
+<li><a href="problem-set--192.html" data-scroll="problem-set--192">Problem Set 192</a></li>
+<li><a href="problem-set--193.html" data-scroll="problem-set--193">Problem Set 193</a></li>
+<li><a href="problem-set--194.html" data-scroll="problem-set--194">Problem Set 194</a></li>
+<li><a href="problem-set--195.html" data-scroll="problem-set--195">Problem Set 195</a></li>
+<li><a href="problem-set--196.html" data-scroll="problem-set--196">Problem Set 196</a></li>
+<li><a href="problem-set--197.html" data-scroll="problem-set--197">Problem Set 197</a></li>
+<li><a href="problem-set--198.html" data-scroll="problem-set--198">Problem Set 198</a></li>
+<li><a href="problem-set--199.html" data-scroll="problem-set--199">Problem Set 199</a></li>
+<li><a href="problem-set--200.html" data-scroll="problem-set--200">Problem Set 200</a></li>
+<li><a href="problem-set--201.html" data-scroll="problem-set--201">Problem Set 201</a></li>
+<li><a href="problem-set--202.html" data-scroll="problem-set--202">Problem Set 202</a></li>
+<li><a href="problem-set--203.html" data-scroll="problem-set--203">Problem Set 203</a></li>
+<li><a href="problem-set--204.html" data-scroll="problem-set--204">Problem Set 204</a></li>
+<li><a href="problem-set--205.html" data-scroll="problem-set--205">Problem Set 205</a></li>
+<li><a href="problem-set--206.html" data-scroll="problem-set--206">Problem Set 206</a></li>
+<li><a href="problem-set--207.html" data-scroll="problem-set--207">Problem Set 207</a></li>
+<li><a href="problem-set--208.html" data-scroll="problem-set--208">Problem Set 208</a></li>
+<li><a href="problem-set--209.html" data-scroll="problem-set--209">Problem Set 209</a></li>
+<li><a href="problem-set--210.html" data-scroll="problem-set--210">Problem Set 210</a></li>
+<li><a href="problem-set--211.html" data-scroll="problem-set--211">Problem Set 211</a></li>
+<li><a href="problem-set--212.html" data-scroll="problem-set--212">Problem Set 212</a></li>
+<li><a href="problem-set--213.html" data-scroll="problem-set--213">Problem Set 213</a></li>
+<li><a href="problem-set--214.html" data-scroll="problem-set--214">Problem Set 214</a></li>
+<li><a href="problem-set--215.html" data-scroll="problem-set--215">Problem Set 215</a></li>
+<li><a href="problem-set--216.html" data-scroll="problem-set--216">Problem Set 216</a></li>
+<li><a href="problem-set--217.html" data-scroll="problem-set--217">Problem Set 217</a></li>
+<li><a href="problem-set--218.html" data-scroll="problem-set--218">Problem Set 218</a></li>
+<li><a href="problem-set--219.html" data-scroll="problem-set--219">Problem Set 219</a></li>
+<li><a href="problem-set--220.html" data-scroll="problem-set--220">Problem Set 220</a></li>
+<li><a href="problem-set--221.html" data-scroll="problem-set--221">Problem Set 221</a></li>
+<li><a href="problem-set--222.html" data-scroll="problem-set--222">Problem Set 222</a></li>
+<li><a href="problem-set--223.html" data-scroll="problem-set--223">Problem Set 223</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="th-kyu-4.html" data-scroll="th-kyu-4"><span class="codenumber">6</span> <span class="title">4th kyu</span></a><ul>
+<li><a href="abacus-fluency-problem-sets-4.html" data-scroll="abacus-fluency-problem-sets-4">Abacus Fluency Problem Sets</a></li>
+<li><a href="problem-set--224.html" data-scroll="problem-set--224">Problem Set 224</a></li>
+<li><a href="problem-set--225.html" data-scroll="problem-set--225">Problem Set 225</a></li>
+<li><a href="problem-set--226.html" data-scroll="problem-set--226">Problem Set 226</a></li>
+<li><a href="problem-set--227.html" data-scroll="problem-set--227">Problem Set 227</a></li>
+<li><a href="problem-set--228.html" data-scroll="problem-set--228">Problem Set 228</a></li>
+<li><a href="problem-set--229.html" data-scroll="problem-set--229">Problem Set 229</a></li>
+<li><a href="problem-set--230.html" data-scroll="problem-set--230">Problem Set 230</a></li>
+<li><a href="problem-set--231.html" data-scroll="problem-set--231">Problem Set 231</a></li>
+<li><a href="problem-set--232.html" data-scroll="problem-set--232">Problem Set 232</a></li>
+<li><a href="problem-set--233.html" data-scroll="problem-set--233">Problem Set 233</a></li>
+<li><a href="problem-set--234.html" data-scroll="problem-set--234">Problem Set 234</a></li>
+<li><a href="problem-set--235.html" data-scroll="problem-set--235">Problem Set 235</a></li>
+<li><a href="problem-set--236.html" data-scroll="problem-set--236">Problem Set 236</a></li>
+<li><a href="problem-set--237.html" data-scroll="problem-set--237">Problem Set 237</a></li>
+<li><a href="problem-set--238.html" data-scroll="problem-set--238">Problem Set 238</a></li>
+<li><a href="problem-set--239.html" data-scroll="problem-set--239">Problem Set 239</a></li>
+<li><a href="problem-set--240.html" data-scroll="problem-set--240">Problem Set 240</a></li>
+<li><a href="problem-set--241.html" data-scroll="problem-set--241">Problem Set 241</a></li>
+<li><a href="problem-set--242.html" data-scroll="problem-set--242">Problem Set 242</a></li>
+<li><a href="problem-set--243.html" data-scroll="problem-set--243">Problem Set 243</a></li>
+<li><a href="problem-set--244.html" data-scroll="problem-set--244">Problem Set 244</a></li>
+<li><a href="problem-set--245.html" data-scroll="problem-set--245">Problem Set 245</a></li>
+<li><a href="problem-set--246.html" data-scroll="problem-set--246">Problem Set 246</a></li>
+<li><a href="problem-set--247.html" data-scroll="problem-set--247">Problem Set 247</a></li>
+<li><a href="problem-set--248.html" data-scroll="problem-set--248">Problem Set 248</a></li>
+<li><a href="problem-set--249.html" data-scroll="problem-set--249">Problem Set 249</a></li>
+<li><a href="problem-set--250.html" data-scroll="problem-set--250">Problem Set 250</a></li>
+<li><a href="problem-set--251.html" data-scroll="problem-set--251">Problem Set 251</a></li>
+<li><a href="problem-set--252.html" data-scroll="problem-set--252">Problem Set 252</a></li>
+<li><a href="problem-set--253.html" data-scroll="problem-set--253">Problem Set 253</a></li>
+<li><a href="problem-set--254.html" data-scroll="problem-set--254">Problem Set 254</a></li>
+<li><a href="problem-set--255.html" data-scroll="problem-set--255">Problem Set 255</a></li>
+<li><a href="problem-set--256.html" data-scroll="problem-set--256">Problem Set 256</a></li>
+<li><a href="problem-set--257.html" data-scroll="problem-set--257">Problem Set 257</a></li>
+<li><a href="problem-set--258.html" data-scroll="problem-set--258">Problem Set 258</a></li>
+<li><a href="problem-set--259.html" data-scroll="problem-set--259">Problem Set 259</a></li>
+<li><a href="problem-set--260.html" data-scroll="problem-set--260">Problem Set 260</a></li>
+<li><a href="problem-set--261.html" data-scroll="problem-set--261">Problem Set 261</a></li>
+<li><a href="problem-set--262.html" data-scroll="problem-set--262">Problem Set 262</a></li>
+<li><a href="problem-set--263.html" data-scroll="problem-set--263">Problem Set 263</a></li>
+<li><a href="problem-set--264.html" data-scroll="problem-set--264">Problem Set 264</a></li>
+<li><a href="problem-set--265.html" data-scroll="problem-set--265">Problem Set 265</a></li>
+<li><a href="problem-set--266.html" data-scroll="problem-set--266">Problem Set 266</a></li>
+<li><a href="problem-set--267.html" data-scroll="problem-set--267">Problem Set 267</a></li>
+<li><a href="problem-set--268.html" data-scroll="problem-set--268">Problem Set 268</a></li>
+<li><a href="problem-set--269.html" data-scroll="problem-set--269">Problem Set 269</a></li>
+<li><a href="problem-set--270.html" data-scroll="problem-set--270">Problem Set 270</a></li>
+<li><a href="problem-set--271.html" data-scroll="problem-set--271">Problem Set 271</a></li>
+<li><a href="problem-set--272.html" data-scroll="problem-set--272">Problem Set 272</a></li>
+<li><a href="problem-set--273.html" data-scroll="problem-set--273">Problem Set 273</a></li>
+<li><a href="problem-set--274.html" data-scroll="problem-set--274">Problem Set 274</a></li>
+<li><a href="problem-set--275.html" data-scroll="problem-set--275">Problem Set 275</a></li>
+<li><a href="problem-set--276.html" data-scroll="problem-set--276">Problem Set 276</a></li>
+<li><a href="problem-set--277.html" data-scroll="problem-set--277">Problem Set 277</a></li>
+<li><a href="problem-set--278.html" data-scroll="problem-set--278">Problem Set 278</a></li>
+<li><a href="problem-set--279.html" data-scroll="problem-set--279">Problem Set 279</a></li>
+<li><a href="problem-set--280.html" data-scroll="problem-set--280">Problem Set 280</a></li>
+<li><a href="problem-set--281.html" data-scroll="problem-set--281">Problem Set 281</a></li>
+<li><a href="problem-set--282.html" data-scroll="problem-set--282">Problem Set 282</a></li>
+<li><a href="problem-set--283.html" data-scroll="problem-set--283">Problem Set 283</a></li>
+<li><a href="problem-set--284.html" data-scroll="problem-set--284">Problem Set 284</a></li>
+<li><a href="problem-set--285.html" data-scroll="problem-set--285">Problem Set 285</a></li>
+<li><a href="problem-set--286.html" data-scroll="problem-set--286">Problem Set 286</a></li>
+<li><a href="problem-set--287.html" data-scroll="problem-set--287">Problem Set 287</a></li>
+<li><a href="problem-set--288.html" data-scroll="problem-set--288">Problem Set 288</a></li>
+<li><a href="problem-set--289.html" data-scroll="problem-set--289">Problem Set 289</a></li>
+<li><a href="problem-set--290.html" data-scroll="problem-set--290">Problem Set 290</a></li>
+<li><a href="problem-set--291.html" data-scroll="problem-set--291">Problem Set 291</a></li>
+<li><a href="problem-set--292.html" data-scroll="problem-set--292">Problem Set 292</a></li>
+<li><a href="problem-set--293.html" data-scroll="problem-set--293">Problem Set 293</a></li>
+<li><a href="problem-set--294.html" data-scroll="problem-set--294">Problem Set 294</a></li>
+<li><a href="problem-set--295.html" data-scroll="problem-set--295">Problem Set 295</a></li>
+<li><a href="problem-set--296.html" data-scroll="problem-set--296">Problem Set 296</a></li>
+<li><a href="problem-set--297.html" data-scroll="problem-set--297">Problem Set 297</a></li>
+<li><a href="problem-set--298.html" data-scroll="problem-set--298">Problem Set 298</a></li>
+<li><a href="problem-set--299.html" data-scroll="problem-set--299">Problem Set 299</a></li>
+<li><a href="problem-set--300.html" data-scroll="problem-set--300">Problem Set 300</a></li>
+<li><a href="problem-set--301.html" data-scroll="problem-set--301">Problem Set 301</a></li>
+<li><a href="problem-set--302.html" data-scroll="problem-set--302">Problem Set 302</a></li>
+<li><a href="problem-set--303.html" data-scroll="problem-set--303">Problem Set 303</a></li>
+<li><a href="problem-set--304.html" data-scroll="problem-set--304">Problem Set 304</a></li>
+<li><a href="problem-set--305.html" data-scroll="problem-set--305">Problem Set 305</a></li>
+<li><a href="problem-set--306.html" data-scroll="problem-set--306">Problem Set 306</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="rd-kyu.html" data-scroll="rd-kyu"><span class="codenumber">7</span> <span class="title">3rd Kyu</span></a><ul>
+<li><a href="abacus-fluency-problem-sets-5.html" data-scroll="abacus-fluency-problem-sets-5">Abacus Fluency Problem Sets</a></li>
+<li><a href="problem-set--307.html" data-scroll="problem-set--307">Problem Set 307</a></li>
+<li><a href="problem-set--308.html" data-scroll="problem-set--308">Problem Set 308</a></li>
+<li><a href="problem-set--309.html" data-scroll="problem-set--309">Problem Set 309</a></li>
+<li><a href="problem-set--310.html" data-scroll="problem-set--310">Problem Set 310</a></li>
+<li><a href="problem-set--311.html" data-scroll="problem-set--311">Problem Set 311</a></li>
+<li><a href="problem-set--312.html" data-scroll="problem-set--312">Problem Set 312</a></li>
+<li><a href="problem-set--313.html" data-scroll="problem-set--313">Problem Set 313</a></li>
+<li><a href="problem-set--314.html" data-scroll="problem-set--314">Problem Set 314</a></li>
+<li><a href="problem-set--315.html" data-scroll="problem-set--315">Problem Set 315</a></li>
+<li><a href="problem-set--316.html" data-scroll="problem-set--316">Problem Set 316</a></li>
+<li><a href="problem-set--317.html" data-scroll="problem-set--317">Problem Set 317</a></li>
+<li><a href="problem-set--318.html" data-scroll="problem-set--318">Problem Set 318</a></li>
+<li><a href="problem-set--319.html" data-scroll="problem-set--319">Problem Set 319</a></li>
+<li><a href="problem-set--320.html" data-scroll="problem-set--320">Problem Set 320</a></li>
+<li><a href="problem-set--321.html" data-scroll="problem-set--321">Problem Set 321</a></li>
+<li><a href="problem-set--322.html" data-scroll="problem-set--322">Problem Set 322</a></li>
+<li><a href="problem-set--323.html" data-scroll="problem-set--323">Problem Set 323</a></li>
+<li><a href="problem-set--324.html" data-scroll="problem-set--324">Problem Set 324</a></li>
+<li><a href="problem-set--325.html" data-scroll="problem-set--325">Problem Set 325</a></li>
+<li><a href="problem-set--326.html" data-scroll="problem-set--326">Problem Set 326</a></li>
+<li><a href="problem-set--327.html" data-scroll="problem-set--327">Problem Set 327</a></li>
+<li><a href="problem-set--328.html" data-scroll="problem-set--328">Problem Set 328</a></li>
+<li><a href="problem-set--329.html" data-scroll="problem-set--329">Problem Set 329</a></li>
+<li><a href="problem-set--330.html" data-scroll="problem-set--330">Problem Set 330</a></li>
+<li><a href="problem-set--331.html" data-scroll="problem-set--331">Problem Set 331</a></li>
+<li><a href="problem-set--332.html" data-scroll="problem-set--332">Problem Set 332</a></li>
+<li><a href="problem-set--333.html" data-scroll="problem-set--333">Problem Set 333</a></li>
+<li><a href="problem-set--334.html" data-scroll="problem-set--334">Problem Set 334</a></li>
+<li><a href="problem-set--335.html" data-scroll="problem-set--335">Problem Set 335</a></li>
+<li><a href="problem-set--336.html" data-scroll="problem-set--336">Problem Set 336</a></li>
+<li><a href="problem-set--337.html" data-scroll="problem-set--337">Problem Set 337</a></li>
+<li><a href="problem-set--338.html" data-scroll="problem-set--338">Problem Set 338</a></li>
+<li><a href="problem-set--339.html" data-scroll="problem-set--339">Problem Set 339</a></li>
+<li><a href="problem-set--340.html" data-scroll="problem-set--340">Problem Set 340</a></li>
+<li><a href="problem-set--341.html" data-scroll="problem-set--341">Problem Set 341</a></li>
+<li><a href="problem-set--342.html" data-scroll="problem-set--342">Problem Set 342</a></li>
+<li><a href="problem-set--343.html" data-scroll="problem-set--343">Problem Set 343</a></li>
+<li><a href="problem-set--344.html" data-scroll="problem-set--344">Problem Set 344</a></li>
+<li><a href="problem-set--345.html" data-scroll="problem-set--345">Problem Set 345</a></li>
+<li><a href="problem-set--346.html" data-scroll="problem-set--346">Problem Set 346</a></li>
+<li><a href="problem-set--347.html" data-scroll="problem-set--347">Problem Set 347</a></li>
+<li><a href="problem-set--348.html" data-scroll="problem-set--348">Problem Set 348</a></li>
+<li><a href="problem-set--349.html" data-scroll="problem-set--349">Problem Set 349</a></li>
+<li><a href="problem-set--350.html" data-scroll="problem-set--350">Problem Set 350</a></li>
+<li><a href="problem-set--351.html" data-scroll="problem-set--351">Problem Set 351</a></li>
+<li><a href="problem-set--352.html" data-scroll="problem-set--352">Problem Set 352</a></li>
+<li><a href="problem-set--353.html" data-scroll="problem-set--353">Problem Set 353</a></li>
+<li><a href="problem-set--354.html" data-scroll="problem-set--354">Problem Set 354</a></li>
+<li><a href="problem-set--355.html" data-scroll="problem-set--355">Problem Set 355</a></li>
+<li><a href="problem-set--356.html" data-scroll="problem-set--356">Problem Set 356</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="nd-kyu.html" data-scroll="nd-kyu"><span class="codenumber">8</span> <span class="title">2nd kyu</span></a><ul>
+<li><a href="abacus-fluency-problem-sets-6.html" data-scroll="abacus-fluency-problem-sets-6">Abacus Fluency Problem Sets</a></li>
+<li><a href="problem-set--357.html" data-scroll="problem-set--357">Problem Set 357</a></li>
+<li><a href="problem-set--358.html" data-scroll="problem-set--358">Problem Set 358</a></li>
+<li><a href="problem-set--359.html" data-scroll="problem-set--359">Problem Set 359</a></li>
+<li><a href="problem-set--360.html" data-scroll="problem-set--360">Problem Set 360</a></li>
+<li><a href="problem-set--361.html" data-scroll="problem-set--361">Problem Set 361</a></li>
+<li><a href="problem-set--362.html" data-scroll="problem-set--362">Problem Set 362</a></li>
+<li><a href="problem-set--363.html" data-scroll="problem-set--363">Problem Set 363</a></li>
+<li><a href="problem-set--364.html" data-scroll="problem-set--364">Problem Set 364</a></li>
+<li><a href="problem-set--365.html" data-scroll="problem-set--365">Problem Set 365</a></li>
+<li><a href="problem-set--366.html" data-scroll="problem-set--366">Problem Set 366</a></li>
+<li><a href="problem-set--367.html" data-scroll="problem-set--367">Problem Set 367</a></li>
+<li><a href="problem-set--368.html" data-scroll="problem-set--368">Problem Set 368</a></li>
+<li><a href="problem-set--369.html" data-scroll="problem-set--369">Problem Set 369</a></li>
+<li><a href="problem-set--370.html" data-scroll="problem-set--370">Problem Set 370</a></li>
+<li><a href="problem-set--371.html" data-scroll="problem-set--371">Problem Set 371</a></li>
+<li><a href="problem-set--372.html" data-scroll="problem-set--372">Problem Set 372</a></li>
+<li><a href="problem-set--373.html" data-scroll="problem-set--373">Problem Set 373</a></li>
+<li><a href="problem-set--374.html" data-scroll="problem-set--374">Problem Set 374</a></li>
+<li><a href="problem-set--375.html" data-scroll="problem-set--375">Problem Set 375</a></li>
+<li><a href="problem-set--376.html" data-scroll="problem-set--376">Problem Set 376</a></li>
+<li><a href="problem-set--377.html" data-scroll="problem-set--377">Problem Set 377</a></li>
+<li><a href="problem-set--378.html" data-scroll="problem-set--378">Problem Set 378</a></li>
+<li><a href="problem-set--379.html" data-scroll="problem-set--379">Problem Set 379</a></li>
+<li><a href="problem-set--380.html" data-scroll="problem-set--380">Problem Set 380</a></li>
+<li><a href="problem-set--381.html" data-scroll="problem-set--381">Problem Set 381</a></li>
+</ul>
+</li>
+<li class="link">
+<a href="st-kyu.html" data-scroll="st-kyu"><span class="codenumber">9</span> <span class="title">1st Kyu</span></a><ul>
+<li><a href="abacus-fluency-problem-sets-7.html" data-scroll="abacus-fluency-problem-sets-7">Abacus Fluency Problem Sets</a></li>
+<li><a href="problem-set--382.html" data-scroll="problem-set--382">Problem Set 382</a></li>
+<li><a href="problem-set--383.html" data-scroll="problem-set--383">Problem Set 383</a></li>
+<li><a href="problem-set--384.html" data-scroll="problem-set--384">Problem Set 384</a></li>
+<li><a href="problem-set--385.html" data-scroll="problem-set--385">Problem Set 385</a></li>
+<li><a href="problem-set--386.html" data-scroll="problem-set--386">Problem Set 386</a></li>
+<li><a href="problem-set--387.html" data-scroll="problem-set--387">Problem Set 387</a></li>
+<li><a href="problem-set--388.html" data-scroll="problem-set--388">Problem Set 388</a></li>
+<li><a href="problem-set--389.html" data-scroll="problem-set--389">Problem Set 389</a></li>
+<li><a href="problem-set--390.html" data-scroll="problem-set--390">Problem Set 390</a></li>
+<li><a href="problem-set--391.html" data-scroll="problem-set--391">Problem Set 391</a></li>
+<li><a href="problem-set--392.html" data-scroll="problem-set--392">Problem Set 392</a></li>
+<li><a href="problem-set--393.html" data-scroll="problem-set--393">Problem Set 393</a></li>
+<li><a href="problem-set--394.html" data-scroll="problem-set--394">Problem Set 394</a></li>
+<li><a href="problem-set--395.html" data-scroll="problem-set--395">Problem Set 395</a></li>
+<li><a href="problem-set--396.html" data-scroll="problem-set--396">Problem Set 396</a></li>
+<li><a href="problem-set--397.html" data-scroll="problem-set--397">Problem Set 397</a></li>
+<li><a href="problem-set--398.html" data-scroll="problem-set--398">Problem Set 398</a></li>
+<li><a href="problem-set--399.html" data-scroll="problem-set--399">Problem Set 399</a></li>
+<li><a href="problem-set--400.html" data-scroll="problem-set--400">Problem Set 400</a></li>
+<li><a href="problem-set--401.html" data-scroll="problem-set--401">Problem Set 401</a></li>
+<li><a href="problem-set--402.html" data-scroll="problem-set--402">Problem Set 402</a></li>
+<li><a href="problem-set--403.html" data-scroll="problem-set--403">Problem Set 403</a></li>
+<li><a href="problem-set--404.html" data-scroll="problem-set--404">Problem Set 404</a></li>
+<li><a href="problem-set--405.html" data-scroll="problem-set--405">Problem Set 405</a></li>
+<li><a href="problem-set--406.html" data-scroll="problem-set--406">Problem Set 406</a></li>
+</ul>
+</li>
+</ul></nav><div class="extras"><nav><a class="mathbook-link" href="https://pretextbook.org">Authored in PreTeXt</a><a href="https://www.mathjax.org"><img title="Powered by MathJax" src="https://www.mathjax.org/badge/badge.gif" alt="Powered by MathJax"></a></nav></div>
+</div></div>
+<main class="main"><div id="content" class="pretext-content"><section xmlns:svg="http://www.w3.org/2000/svg" class="worksheet" id="problem-set--157"><h2 class="heading hide-type">
+<span class="type">Worksheet</span> <span class="codenumber">4.57</span> <span class="title">Problem Set 157</span>
+</h2>
+<section class="subsection" id="addition-and-subtraction-156"><h3 class="heading hide-type">
+<span class="type">Subsection</span> <span class="codenumber">4.57.1</span> <span class="title">Addition and Subtraction</span>
+</h3>
+<p id="p-6039">Please do these additions and subtractions as fast as possible without making any errors. The goal is 10 minutes.</p>
+<p id="p-6040"><article class="exercise exercise-like" id="exercise-5699"><h6 class="heading"><span class="codenumber">1<span class="period">.</span></span></h6>\(697+972+149+212+384+118+618+292+478+469=\)</article></p>
+<p id="p-6041"><article class="exercise exercise-like" id="exercise-5700"><h6 class="heading"><span class="codenumber">2<span class="period">.</span></span></h6>\(368+408+998+155+734+906+314+697+996+999=\)</article></p>
+<p id="p-6042"><article class="exercise exercise-like" id="exercise-5701"><h6 class="heading"><span class="codenumber">3<span class="period">.</span></span></h6>\(544-470+403-170+748+457+400-460+244-585=\)</article></p>
+<p id="p-6043"><article class="exercise exercise-like" id="exercise-5702"><h6 class="heading"><span class="codenumber">4<span class="period">.</span></span></h6>\(609+409+305+228+712+597+518+298+656+858=\)</article></p>
+<p id="p-6044"><article class="exercise exercise-like" id="exercise-5703"><h6 class="heading"><span class="codenumber">5<span class="period">.</span></span></h6>\(790+903+420+162-416+439-312-354+625-778=\)</article></p>
+<p id="p-6045"><article class="exercise exercise-like" id="exercise-5704"><h6 class="heading"><span class="codenumber">6<span class="period">.</span></span></h6>\(495+106+221+184+156+754+530+848+540+705=\)</article></p>
+<p id="p-6046"><article class="exercise exercise-like" id="exercise-5705"><h6 class="heading"><span class="codenumber">7<span class="period">.</span></span></h6>\(221+905-735+286+442-346+160-560+378-100=\)</article></p>
+<p id="p-6047"><article class="exercise exercise-like" id="exercise-5706"><h6 class="heading"><span class="codenumber">8<span class="period">.</span></span></h6>\(350+458+697+552+338+761+309+318+643+412=\)</article></p>
+<p id="p-6048"><article class="exercise exercise-like" id="exercise-5707"><h6 class="heading"><span class="codenumber">9<span class="period">.</span></span></h6>\(435+434+881-596+296+141+959-177-221-794=\)</article></p>
+<p id="p-6049"><article class="exercise exercise-like" id="exercise-5708"><h6 class="heading"><span class="codenumber">10<span class="period">.</span></span></h6>\(505+937+547+465+958+624+786+180+593+272=\)</article></p></section><section class="subsection" id="multiplicationand-division-156"><h3 class="heading hide-type">
+<span class="type">Subsection</span> <span class="codenumber">4.57.2</span> <span class="title">Multiplication and Division</span>
+</h3>
+<p id="p-6050">Please do these multiplications and divisions as fast as possible without making any errors. The goal is 5 minutes for the multiplications and 5 minutes for the divisions.</p>
+<section class="subsubsection" id="multiplication-156"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span> <span class="codenumber">4.57.2.1</span> <span class="title">Multiplication</span>
+</h4>
+<p id="p-6051"><article class="exercise exercise-like" id="exercise-5709"><h6 class="heading"><span class="codenumber">11<span class="period">.</span></span></h6>\(255 \cdot 21=\)</article></p>
+<p id="p-6052"><article class="exercise exercise-like" id="exercise-5710"><h6 class="heading"><span class="codenumber">12<span class="period">.</span></span></h6>\(543 \cdot 57=\)</article></p>
+<p id="p-6053"><article class="exercise exercise-like" id="exercise-5711"><h6 class="heading"><span class="codenumber">13<span class="period">.</span></span></h6>\(615 \cdot 39=\)</article></p>
+<p id="p-6054"><article class="exercise exercise-like" id="exercise-5712"><h6 class="heading"><span class="codenumber">14<span class="period">.</span></span></h6>\(819 \cdot 80=\)</article></p>
+<p id="p-6055"><article class="exercise exercise-like" id="exercise-5713"><h6 class="heading"><span class="codenumber">15<span class="period">.</span></span></h6>\(817 \cdot 34=\)</article></p>
+<p id="p-6056"><article class="exercise exercise-like" id="exercise-5714"><h6 class="heading"><span class="codenumber">16<span class="period">.</span></span></h6>\(248 \cdot 92=\)</article></p>
+<p id="p-6057"><article class="exercise exercise-like" id="exercise-5715"><h6 class="heading"><span class="codenumber">17<span class="period">.</span></span></h6>\(853 \cdot 32=\)</article></p>
+<p id="p-6058"><article class="exercise exercise-like" id="exercise-5716"><h6 class="heading"><span class="codenumber">18<span class="period">.</span></span></h6>\(683 \cdot 47=\)</article></p>
+<p id="p-6059"><article class="exercise exercise-like" id="exercise-5717"><h6 class="heading"><span class="codenumber">19<span class="period">.</span></span></h6>\(260 \cdot 22=\)</article></p>
+<p id="p-6060"><article class="exercise exercise-like" id="exercise-5718"><h6 class="heading"><span class="codenumber">20<span class="period">.</span></span></h6>\(571 \cdot 81=\)</article></p>
+<p id="p-6061"><article class="exercise exercise-like" id="exercise-5719"><h6 class="heading"><span class="codenumber">21<span class="period">.</span></span></h6>\(902 \cdot 79=\)</article></p>
+<p id="p-6062"><article class="exercise exercise-like" id="exercise-5720"><h6 class="heading"><span class="codenumber">22<span class="period">.</span></span></h6>\(381 \cdot 64=\)</article></p>
+<p id="p-6063"><article class="exercise exercise-like" id="exercise-5721"><h6 class="heading"><span class="codenumber">23<span class="period">.</span></span></h6>\(206 \cdot 28=\)</article></p>
+<p id="p-6064"><article class="exercise exercise-like" id="exercise-5722"><h6 class="heading"><span class="codenumber">24<span class="period">.</span></span></h6>\(612 \cdot 40=\)</article></p>
+<p id="p-6065"><article class="exercise exercise-like" id="exercise-5723"><h6 class="heading"><span class="codenumber">25<span class="period">.</span></span></h6>\(165 \cdot 13=\)</article></p>
+<p id="p-6066"><article class="exercise exercise-like" id="exercise-5724"><h6 class="heading"><span class="codenumber">26<span class="period">.</span></span></h6>\(943 \cdot 72=\)</article></p>
+<p id="p-6067"><article class="exercise exercise-like" id="exercise-5725"><h6 class="heading"><span class="codenumber">27<span class="period">.</span></span></h6>\(327 \cdot 95=\)</article></p>
+<p id="p-6068"><article class="exercise exercise-like" id="exercise-5726"><h6 class="heading"><span class="codenumber">28<span class="period">.</span></span></h6>\(891 \cdot 29=\)</article></p>
+<p id="p-6069"><article class="exercise exercise-like" id="exercise-5727"><h6 class="heading"><span class="codenumber">29<span class="period">.</span></span></h6>\(193 \cdot 15=\)</article></p>
+<p id="p-6070"><article class="exercise exercise-like" id="exercise-5728"><h6 class="heading"><span class="codenumber">30<span class="period">.</span></span></h6>\(784 \cdot 43=\)</article></p></section><section class="subsubsection" id="division-156"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span> <span class="codenumber">4.57.2.2</span> <span class="title">Division</span>
+</h4>
+<p id="p-6071"><article class="exercise exercise-like" id="exercise-5729"><h6 class="heading"><span class="codenumber">31<span class="period">.</span></span></h6>\(9,647÷46=\)</article></p>
+<p id="p-6072"><article class="exercise exercise-like" id="exercise-5730"><h6 class="heading"><span class="codenumber">32<span class="period">.</span></span></h6>\(1,515÷95=\)</article></p>
+<p id="p-6073"><article class="exercise exercise-like" id="exercise-5731"><h6 class="heading"><span class="codenumber">33<span class="period">.</span></span></h6>\(2,520÷58=\)</article></p>
+<p id="p-6074"><article class="exercise exercise-like" id="exercise-5732"><h6 class="heading"><span class="codenumber">34<span class="period">.</span></span></h6>\(8,272÷43=\)</article></p>
+<p id="p-6075"><article class="exercise exercise-like" id="exercise-5733"><h6 class="heading"><span class="codenumber">35<span class="period">.</span></span></h6>\(3,723÷32=\)</article></p>
+<p id="p-6076"><article class="exercise exercise-like" id="exercise-5734"><h6 class="heading"><span class="codenumber">36<span class="period">.</span></span></h6>\(212÷68=\)</article></p>
+<p id="p-6077"><article class="exercise exercise-like" id="exercise-5735"><h6 class="heading"><span class="codenumber">37<span class="period">.</span></span></h6>\(539÷91=\)</article></p>
+<p id="p-6078"><article class="exercise exercise-like" id="exercise-5736"><h6 class="heading"><span class="codenumber">38<span class="period">.</span></span></h6>\(1,941÷64=\)</article></p>
+<p id="p-6079"><article class="exercise exercise-like" id="exercise-5737"><h6 class="heading"><span class="codenumber">39<span class="period">.</span></span></h6>\(516÷33=\)</article></p>
+<p id="p-6080"><article class="exercise exercise-like" id="exercise-5738"><h6 class="heading"><span class="codenumber">40<span class="period">.</span></span></h6>\(417÷19=\)</article></p>
+<p id="p-6081"><article class="exercise exercise-like" id="exercise-5739"><h6 class="heading"><span class="codenumber">41<span class="period">.</span></span></h6>\(5,047÷63=\)</article></p>
+<p id="p-6082"><article class="exercise exercise-like" id="exercise-5740"><h6 class="heading"><span class="codenumber">42<span class="period">.</span></span></h6>\(1,654÷25=\)</article></p>
+<p id="p-6083"><article class="exercise exercise-like" id="exercise-5741"><h6 class="heading"><span class="codenumber">43<span class="period">.</span></span></h6>\(2,827÷98=\)</article></p>
+<p id="p-6084"><article class="exercise exercise-like" id="exercise-5742"><h6 class="heading"><span class="codenumber">44<span class="period">.</span></span></h6>\(3,158÷37=\)</article></p>
+<p id="p-6085"><article class="exercise exercise-like" id="exercise-5743"><h6 class="heading"><span class="codenumber">45<span class="period">.</span></span></h6>\(6,646÷93=\)</article></p>
+<p id="p-6086"><article class="exercise exercise-like" id="exercise-5744"><h6 class="heading"><span class="codenumber">46<span class="period">.</span></span></h6>\(368÷31=\)</article></p>
+<p id="p-6087"><article class="exercise exercise-like" id="exercise-5745"><h6 class="heading"><span class="codenumber">47<span class="period">.</span></span></h6>\(8,060÷17=\)</article></p>
+<p id="p-6088"><article class="exercise exercise-like" id="exercise-5746"><h6 class="heading"><span class="codenumber">48<span class="period">.</span></span></h6>\(3,777÷23=\)</article></p>
+<p id="p-6089"><article class="exercise exercise-like" id="exercise-5747"><h6 class="heading"><span class="codenumber">49<span class="period">.</span></span></h6>\(9,073÷74=\)</article></p>
+<p id="p-6090"><article class="exercise exercise-like" id="exercise-5748"><h6 class="heading"><span class="codenumber">50<span class="period">.</span></span></h6>\(9,241÷63=\)</article></p></section></section></section></div></main>
+</div>
+</body>
+</html>
